@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+    <!-- This is the head, where meta information is stored (e.g. titles, styles, metadata)-->
+    <head>
+        <title>Chong Sher Minn | Resume</title>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+
+        <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyApSRSulCKLxFBQeDZbSnZXg0hcK0YKH10&sensor=true">
+        </script>
+
+        <script type="text/javascript">
+            var myLatlng = new google.maps.LatLng(3.1390029987256125, 101.68685500218999);
+            function initialize() {
+            var mapOptions = {
+              center: myLatlng,
+              zoom: 8
+            };
+            var map = new google.maps.Map(document.getElementById("map-canvas"),
+                mapOptions);
+
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                title:"Hello World!"});
+            marker.setMap(map);
+
+            }
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
+    </head>
+    <body>
+
+        <div id="wrapper">
+        <header>
+            <img id="profile_pic" src="images/profile.jpg"/>
+
+            <h1>Chong Sher Minn</h1>
+            <p>Welcome to my homepage. My name is Chong Sher Minn, but you can call me <strong>Sher Minn</strong>. I enjoy programming, watercolor painting and reading sci-fi novels. I especially <em>love web development</em>. You can follow me on Twitter <a href="http://twitter.com/piratefsh">here</a> or check out some of my favourite links <a href="links.html"> here</a></p>
+        </header>
+
+        <section>
+            <h2>Resume</h2>
+            <h3>Education</h3>
+            <ul>
+                <li>University of Wisconsin-Madison, B.S. in Computer Science, 2013</li>
+                <li>SMK Infant Jesus Convent Melaka, SPM, 2007</li>
+            </ul>
+
+            <h3>Co-curricular activities</h3>
+            <table>
+                <tr>
+                    <td>
+                        <strong>Greater University Tutoring Service(GUTS)</strong>
+                        <ul>
+                            <li>Designed and developed the GUTS website</li>
+                            <li>Designed posters, fliers and promotional material for GUTS</li>
+                        </ul>
+                    </td>
+                    <td>2011-2012</td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>University of Wisconsin WES-CS</strong>
+                        <ul>
+                            <li>Taught a companion introductory Java course on campus</li>
+                        </ul>
+                    </td>
+                    <td>2011-2012</td>
+                </tr>
+            </table>
+
+            <h3>Programming Languages</h3>
+            <ol>
+                <li>C/C++</li>
+                <li>Java</li>
+                <li>HTML/CSS</li>
+                <li>Ruby</li>
+            </ol>
+
+        </section>
+
+        <section>
+            <h2>Location</h2>
+            <div id="map-canvas"/>
+        </section>
+
+        </div>
+    </body>
+</html>
