@@ -3,7 +3,6 @@ layout: post
 title:  "Freelance"
 date:   2014-12-16 10:18:46
 categories: general projects
-excerpt: Freelance details on web development and design work that I do
 ---
 
 I'm currently available for freelance projects, particularly front-end web development. I do anything from __one-page websites__ to __Wordpress__ sites to __AngularJS__ apps. I work a lot with __HTML5/CSS3__ and __Javascript__, and particularly enjoy developing Javascript features and UI/UX work. 
