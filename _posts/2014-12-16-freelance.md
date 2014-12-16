@@ -15,10 +15,10 @@ Some mini-sites that I have worked on are:
 * __[Code Equality](http://codeequality.org)__ - <small>Website for a coding education non-profit I help run. Built on Jekyll and Bootstrap.</small>
 * __[Cafehop KL](http://cafehopmy.github.io)__ - <small>A project mapping cafes in Malaysia. Built on Angular and Bootstrap. Work-in-progress. <a href="https://github.com/CafehopMY/cafehopmy.github.io">Github repo</a>.</small>
 * __[Creative Tech Camp](http://creativetechcamp.com)__ - <small>Website for a coding education for children. Built on Jekyll and Bootstrap.</small>
-* __[Urbean Cafe, KL](http://urbeankl.github.io/)__ - <small>Website for a local coffeehouse and restaurant. Built on Jekyll.</small>
+* __[Urbean Cafe](http://urbeankl.github.io/)__ - <small>Website for a local coffeehouse and restaurant. Built on Jekyll.</small>
 <!-- * __[Fasspay](http://beta.fasspay.com/)__ - <small>Corporate site for a local mobile payment company. Built on Wordpress with Susy.</small> -->
 
 
 I also do graphic [design](http://www.behance.net/piratefsh) work, both standalone graphics and also for the web. 
 
-Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) if you need a front-end web developer for any of the web things mentioned above. I'm also all for working on front-end work for open-source projects, just let me know :)
+Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) if you need a front-end web developer for any of the web things mentioned above. I'm also all for working on open-source projects, just let me know :)
