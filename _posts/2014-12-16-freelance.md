@@ -10,12 +10,13 @@ I'm currently available for freelance projects, particularly front-end web devel
 I work a lot with [SASS](http://sass-lang.com/), [AngularJS](https://angularjs.org/), [Jekyll](http://jekyllrb.com/) and some [Bootstrap](http://getbootstrap.com/). All of my work is responsive and mobile-friendly by default. 
 
 
-Some mini-sites that I have worked on are:
+Some mini-sites that I have worked on from design to development are:
 
 * __[Code Equality](http://codeequality.org)__ - <small>Website for a coding education non-profit I help run. Built on Jekyll and Bootstrap.</small>
 * __[Cafehop KL](http://cafehopmy.github.io)__ - <small>A project mapping cafes in Malaysia. Built on Angular and Bootstrap. Work-in-progress. <a href="https://github.com/CafehopMY/cafehopmy.github.io">Github repo</a>.</small>
 * __[Creative Tech Camp](http://creativetechcamp.com)__ - <small>Website for a coding education for children. Built on Jekyll and Bootstrap.</small>
 * __[Urbean Cafe](http://urbeankl.github.io/)__ - <small>Website for a local coffeehouse and restaurant. Built on Jekyll.</small>
+* __[Malaysian Computing Challenge](http://ioimalaysia.org/)__ - <small>Simple site for a computing challenge for students. Built on Wordpress and Bootstrap.</small> 
 <!-- * __[Fasspay](http://beta.fasspay.com/)__ - <small>Corporate site for a local mobile payment company. Built on Wordpress with Susy.</small> -->
 
 
