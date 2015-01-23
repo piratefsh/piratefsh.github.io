@@ -15,11 +15,11 @@ We started out with a 6 MB transfer load that took 15s. We're now at about 3.5 M
 ### Minified CSS and JS
 Already had [Grunt](http://gruntjs.com/) minifying CSS because it was too much hassle to include CSS files individually. Also, Grunt, paired with [livereload](https://github.com/gruntjs/grunt-contrib-livereload) is amazing for preventing repetitive strain injuries (no more smashing F5 repeatedly!) for front-end web devs.
 
-Concat-ed and minified JS files, that 145kB to 135kB, not huge, but having all the JS files in one giant file definitely reduces load on client side.
+Concat-ed and minified JS files, that reduced it from 145kB to 135kB which is not huge, but having all the JS files in one giant file definitely reduces load on client side.
 
 
 ### Compress images
-I used Photoshop for its 'Save for Web' feature, saving images as JPEG High/Medium when possible. That shaved off about 100-150KB per large image (1000px by 700px kind of large), and this brought down the size of the site from 6 MB to about 3.5 MB. 
+I used Photoshop for its 'Save for Web' feature, saving images as JPEG High/Medium when possible. That shaved off about 100-150KB per large image (2000px by 700px kind of large, ack), and this brought down the size of the site from 6 MB to about 3.5 MB. 
 
 Not bad for some simple opening and saving of files. I still haven't figured out PNG compression. Removing transparency greatly reduces image size, but there are some images for which we have to maintain transparency. 
 
