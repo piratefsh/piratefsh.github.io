@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adventures in site optimization"
-date:   2015-12-16 10:18:46
+date:   2015-01-23 11:52:46
 categories: webdev projects
 ---
 
