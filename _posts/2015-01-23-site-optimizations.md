@@ -2,7 +2,7 @@
 layout: post
 title:  "Adventures in site optimization"
 date:   2015-01-23 11:52:46
-categories: webdev projects
+categories: projects
 ---
 
 I've been working on a company website. It's a Wordpress site with a custom theme built from scratch to reduce any wastage as it's a rather custom layout. Page load times have been rather slow, so I used Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) as a guideline on things to improve. 
