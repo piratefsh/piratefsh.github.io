@@ -1,0 +1,56 @@
+---
+---
+
+@import url(http://fonts.googleapis.com/css?family=PT+Sans|Merriweather)
+// Constants
+$heading-font-family: 'PT Sans', 'Times New Roman', serif
+$body-font-family: Merriweather, 'Times New Roman', serif
+$body-text-color: #404041
+
+// Colors
+$color-primary: #a0cb4e
+$color-primary-light: #e7eca6
+$color-secondary: #f28983
+
+$space: 20px
+
+body
+    font-family: $body-font-family
+    color: $body-text-color
+
+h1, h2, h3, h4 
+    font-family: $heading-font-family
+
+a 
+    color: $color-primary
+    &:hover 
+        color: darken($color-primary, 10%)
+        text-decoration: none
+    &:visited
+        color: darken($color-primary, 10%)
+
+.btn 
+    border: 2px solid $color-primary
+    padding: $space/2
+    display: inline-block
+    &:hover 
+        background-color: $color-primary
+        color: white 
+
+.site-header
+    background-color: $color-primary-light
+    font-family: $heading-font-family
+
+.site-footer
+    background-color: $color-secondary
+    color: $body-text-color
+    .footer-col-wrapper
+        color: $body-text-color
+    a 
+        color: $body-text-color
+
+.post-list 
+    h2 a 
+        color: $body-text-color
+.post-meta
+    font-family: $heading-font-family

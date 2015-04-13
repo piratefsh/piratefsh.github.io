@@ -2,11 +2,10 @@ module.exports = function(grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
         watch: {
-            files: ['**/*.html', 'app/**/*.js', 'app/**/*.html', 'assets/css/*.css'],
-            tasks: ['concat'],
+            files: ['css/*.scss', 'css/*.sass'],
             options: {
                 livereload: {
-                    port: 9003
+                    port: 9009
                 }
             }
         },
@@ -40,7 +39,7 @@ module.exports = function(grunt) {
                 src: [
                     'assets/css/*.css'
                 ],
-                dest: 'assets/css/dist/app.css'
+                dest: '/css/dist/app.css'
             }
         },
         copy: {
