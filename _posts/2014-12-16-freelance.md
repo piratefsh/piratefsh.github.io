@@ -12,8 +12,9 @@ I work a lot with [SASS](http://sass-lang.com/), [AngularJS](https://angularjs.o
 
 Some mini-sites that I have worked on from design to development are:
 
-* __[Code Equality](http://codeequality.org)__ - <small>Website for a coding education non-profit I help run. Built on Jekyll and Bootstrap.</small>
 * __[Cafehop MY](http://cafehop.my)__ - <small>A project mapping cafes in Malaysia. Built on Angular and Bootstrap. <a href="https://github.com/CafehopMY/cafehopmy.github.io">Github repo</a>.</small>
+* __[Leaflet Geofencer](http://piratefsh.github.io/leaflet.geofencer)__ - <small>A library to draw polygons on maps. Good for geofencing purposes<a href="https://github.com/piratefsh/leaflet.geofencer">Github repo</a>.</small>
+* __[Code Equality](http://codeequality.org)__ - <small>Website for a coding education non-profit I help run. Built on Jekyll and Bootstrap.</small>
 * __[Fasspay](http://fasspay.com)__ - <small>Corporate site for a mobile payments company. Built Wordpress theme from scratch with SASS, Susy and Breakpoint for responsiveness. Development work only. Worked on [site optimization](/projects/2015/01/23/site-optimizations.html)</small>
 * __[Creative Tech Camp](http://creativetechcamp.com)__ - <small>Website for a coding education for children. Built on Jekyll and Bootstrap.</small>
 * __[Urbean Cafe](http://urbeankl.github.io/)__ - <small>Website for a local coffeehouse and restaurant. Built on Jekyll.</small>
