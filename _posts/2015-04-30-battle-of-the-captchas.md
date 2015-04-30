@@ -5,7 +5,7 @@ date:   2015-04-30 10:02:46
 categories: projects
 ---
 
-My task this week was to figure out an alternative captcha to Google's ReCaptcha. Here's a quick history lesson on the ReCaptcha.
+My task this week was to figure out an alternative captcha to Google's ReCaptcha. Here's a quick history lesson on the ReCaptcha and some other options to it.
 
 ## ReCaptcha v1
 
