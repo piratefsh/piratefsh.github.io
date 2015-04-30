@@ -74,6 +74,8 @@ It doesn't pass the color-blindness test with flying colors though (ahem), but I
 It's simple, and not totally foolproof (you can always get bots to detect the hex color and do some simple math to determine if it's reddish), but good enough for a super-duper lightweight solution.
 
 ## What now?
-Well, I'm still figuring out what works best -- though ideally I'd like to find out just how spam bots work, and how intelligent they really are. It's a bit of a compromise -- just how complicated does a captcha have to be? Do we stick to the tried and true Google ReCaptcha? Do do use a fancy sliding-drag-drop thing? Is that level of complexity necessary? How likely is your website to be spammed? So many questions to answer -- next time!
+Well, I'm still figuring out what works best -- though ideally I'd like to find out just how spam bots work, and how intelligent they really are. 
+
+It's a bit of a compromise -- just how complicated does a captcha have to be for the sake of thwarting bots? Do we stick to the tried and true Google ReCaptcha? Do do use a fancy sliding-drag-drop thing? Is that level of complexity necessary? How likely is your website to be spammed? So many questions to answer. Til next time!
 
 
