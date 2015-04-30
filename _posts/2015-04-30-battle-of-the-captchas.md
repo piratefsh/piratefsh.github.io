@@ -25,7 +25,7 @@ Just this year, Google came up with reCaptcha v2 ([Techcrunch article](http://te
 
 *Simple, and real sexy*
 
-You just gotta give that checkbox a click, and voila, you're done! It works by detecting your behaviour prior to checking that box. If your behaviour is suspicious, it busts out a second level of verification which is either reCaptcha v1, or an image selection game like this:
+You just have to click on that checkbox, and voila, you're done! It works by detecting your behaviour prior to checking that box. If your behaviour is suspicious, (e.g. if you fill in the form too quickly) it busts out a second level of verification which is either reCaptcha v1, or an image selection game like this:
 
 ![Google Recaptcha version 2](/assets/images/captchas/recaptcha-v2-level-2.png)
 
@@ -34,16 +34,16 @@ You just gotta give that checkbox a click, and voila, you're done! It works by d
 All that is fine, but still rather annoying when it gets to the second level verification. After way too much form testing for a company website, everyone in my office seems to be hitting second-level for any reCaptcha v2 (not just the one we were testing). 
 
 ## Alternatives?
-The general consensus is that 'no captcha is the best captcha'. This means ways of detecting spambot behaviour without having a solvable component.
+The general consensus is that 'no captcha is the best captcha'. This means ways of detecting spambot behaviour without having a solvable component. Still, here are some alternatives to the reCaptcha I stumbled upon.
 
 ### Honeypots
-Amidst [various](http://www.usertesting.com/blog/2014/04/09/think-your-site-needs-captcha-try-these-user-friendly-alternatives/) [alternatives](http://www.experiencesolutions.co.uk/blog/2014/03/19/5-alternatives-to-captcha-that-wont-baffle-or-frustrate-users/) blogged about, a simple way to thwart spambots is by setting up [honeypots](http://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/). 
+This is a real simple 'no captcha' solution. Amidst [various](http://www.usertesting.com/blog/2014/04/09/think-your-site-needs-captcha-try-these-user-friendly-alternatives/) [alternatives](http://www.experiencesolutions.co.uk/blog/2014/03/19/5-alternatives-to-captcha-that-wont-baffle-or-frustrate-users/) blogged about, a simple way to thwart spambots is by setting up [honeypots](http://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/). 
 
-Honeypots are simple, CSS-hidden inputs that are not visible to the user, but visible to a bot which typically parse just the HTML. Great to have as a
+Honeypots are simple, CSS-hidden inputs that are not visible to the user, but visible to a bot which typically parse just the HTML. Great to have as a backup or second verification to another captcha.
 
 
 ### Simple Matchers
-I'm not sure what the real term for these are, but I'm just gonna call them matchers. They require some matching interaction that presumably doesn't just fill in a field somewhere.
+I'm not sure what the real term for these are, but I'm just gonna call them matchers. They require some matching interaction that doesn't just fill in a field somewhere.
 
 Here's [one](http://wordpress.demos-sites.net/w2_contact_form/ajax-contact-form-wordpress-shortcode/) that requires you to drag and drop a matching color:
 
@@ -53,8 +53,7 @@ Great selection of colors as it overcomes the issue of color-blindness. I tested
 
 ![No Spam Captcha](/assets/images/captchas/captcha-nospam-coblis.png)
 
-This one was nice, but was part of a paid service. It's implementable, but having to introduce a drag and drop library felt like an overkill just for a captcha. I wanted to keep our captcha as lightweight as possible. Also, I ain't gonna cross-browser test that thing on IE8. Apparently we have clients who visit the site on Windows XP. No ma'am, no ham. 
-
+This one was nice, but was part of a paid service. It's implementable, but having to introduce a drag and drop library felt like an overkill just for a captcha. I wanted to keep our captcha as lightweight as possible. Also, I ain't gonna cross-browser test that thing on IE8 (apparently we have clients who visit the site on Windows XP. Cue gasp).
 
 ### Math
 Not to say that robots are worse at math than humans are, but this would work assuming that bots don't have built in intelligence to detect math questions like these:
