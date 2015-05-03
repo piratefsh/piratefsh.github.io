@@ -8,6 +8,6 @@ Hi folks. I'm Sher Minn and I'm a front-end web developer at [Soft Space](http:/
 
 I drink copious amounts of Chinese tea (gungfu-style in tiny cups) and I also like [graphic design](http://behance.net/piratefsh). 
 
-I'm currently lacking a portfolio, but you can check out my [Github](http://github.com/piratefsh) for some things that I'm working on. Currently unavailable for freelance work, but I'm always excited about teaching opportunities in tech and open source projects for education.
+I'm currently lacking a portfolio, but you can check out my [Github](http://github.com/piratefsh) for some things that I'm working on. I'm always excited about teaching opportunities in tech and open source projects for education.
 
 I'm also on [Twitter](http://twitter.com/piratefsh) a lot.
