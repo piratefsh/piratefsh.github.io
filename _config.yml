@@ -11,3 +11,6 @@ github_username:  piratefsh
 
 # Build settings
 markdown: kramdown
+
+gems:
+    - jekyll-feed
