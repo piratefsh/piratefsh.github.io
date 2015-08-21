@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hi folks. I'm Sher Minn and I'm a front-end web developer at [Soft Space](http://softspace.com.my) during the day, and co-founder and organizer at [Code Equality](http://codeequality.org) during the night. I teach an [intro HTML/CSS class](http://codeequality.org/2014/06/16/introduction-to-htmlcss.html). 
+Hi folks. I'm Sher Minn!
+
+I'm currently in the amazing city of New York attending the [Recurse Center](http://recurse.com) where I'm learning how to be a better programmer.
+
+I'm a freelance front-end web developer by day, and co-founder and organizer at [Code Equality](http://codeequality.org) by night. I teach an [intro HTML/CSS class](http://codeequality.org/2014/06/16/introduction-to-htmlcss.html). 
 
 I drink copious amounts of Chinese tea (gungfu-style in tiny cups) and I also like [graphic design](http://behance.net/piratefsh). 
 

@@ -1,16 +1,16 @@
 ---
 ---
 
-@import url(http://fonts.googleapis.com/css?family=PT+Sans|Merriweather:300,700)
+@import url(http://fonts.googleapis.com/css?family=Roboto|Merriweather:300,700)
 // Constants
-$heading-font-family: 'PT Sans', 'Times New Roman', serif
+$heading-font-family: Roboto, 'Times New Roman', serif
 $body-font-family: Merriweather, 'Times New Roman', serif
 $body-text-color: #404041
 
 // Colors
 $color-primary: #93b73d
 $color-primary-light: #e7eca6
-$color-secondary: #f28983
+$color-secondary: #e2e6e6
 
 $space: 20px
 
@@ -50,8 +50,12 @@ a
     color: $body-text-color
     .footer-col-wrapper
         color: $body-text-color
+    .contact-list, .social-media-list
+        a 
+            font-weight: normal
     a 
         color: $body-text-color
+        font-weight: bold
 .site-title
     small
         font-size: 0.7em

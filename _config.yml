@@ -1,9 +1,7 @@
 # Site settings
 title: "Commented"
 email: sherminn.chong@gmail.com
-description: > 
-    A small blog on stuff that I like. May include front-end web development experiments, UI/UX design learnings and tea.
-    I also co-run Code Equality where we organize local coding classes and events.
+description: "A blog by Sher Minn. May include web development experiments, UI/UX design learnings and tea. I am currently learning to be a better programmer at the <a target='_blank' href='https://www.recurse.com/'/>Recurse Center</a/> in NYC."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://piratefsh.github.io" # the base hostname & protocol for your site
 twitter_username: piratefsh
