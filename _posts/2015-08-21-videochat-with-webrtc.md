@@ -5,11 +5,10 @@ author: "Sher Minn C"
 date:   2015-08-21 13:54:00
 event: "Week 1, Day 3-5 at Recurse Center"
 categories: projects
-excerpt: "On what WebRTC is, how to build a simple video chat app on it, and how it ended up being more difficult than I thought it would be.<br/>"
+excerpt: "<p>I spent the past few days using WebRTC API (barebones, without a library) to build a simple video only sharing app. To go along with that, I also built a simple signalling server (more on this later) to help establish the initial connection.</p>"
 ---
 
-
-I finally have something working! 
+This is my first Javascript client-side app without the use of a library!
 
 I spent the past few days using WebRTC API (barebones, without a library) to build a simple video only sharing app. To go along with that, I also built a simple signalling server (more on this later) to help establish the initial connection.
 
@@ -64,7 +63,9 @@ I found the last one to be really useful to see how real client code looks like.
 
 I'll be working on cleaning up the app and learning how to deploy the app plus the signalling server. I'm also planning to include audio and a chat or file transfer feature to learn how to stream arbitrary data. 
 
-I'll be reporting back next week!
+I'll also blog about how the protocol works and how I built the app, which ended up being harder than I thought it would be without any libraries.
+
+Till next week!
 
 
 
