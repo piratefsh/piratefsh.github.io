@@ -5,7 +5,7 @@ author: "Sher Minn C"
 date:   2015-08-27 15:11:00
 event: "Week 2 at Recurse Center"
 categories: projects
-excerpt: "<p>I thought the hard part of building a WebRTC ap was over. Not quite -- it was now time to deploy it and a STUN/TURN server.</p>"
+excerpt: "<p>I built a video chat app last week. Now it was time to deploy it and a STUN/TURN server. Lots of frustrated configuration work happened.</p>"
 ---
 
 So I finally have a working WebRTC video chat app, and it's up over here: [45.55.61.164:2013](45.55.61.164:2013). And it works! \*throws confetti\*.
