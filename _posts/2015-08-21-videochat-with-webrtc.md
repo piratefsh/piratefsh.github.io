@@ -14,7 +14,7 @@ I spent the past few days using WebRTC API (barebones, without a library) to bui
 
 This is a really simple overview of what WebRTC is for those who aren't familiar with it. I'll also be including some resources I dug up. There's tons of documentation, but the tutorials are elusive.
 
-## What did I build!
+## What did I build?
 
 This! A web client so two people can see each other's faces. Or in this case, I can use it to have a chat with myself. Very social.
 
