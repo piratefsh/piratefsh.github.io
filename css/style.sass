@@ -40,7 +40,16 @@ a
     &:hover 
         background-color: $color-primary
         color: white 
+    &.btn-primary
+        background-color: $color-primary
+        color: white
+        &:hover 
+            border-color: lighten($color-primary, 20%)
+            background-color: lighten($color-primary, 20%)
 
+.post-content, .post-list
+    img 
+        margin: 20px auto
 .site-header
     background-color: $color-primary-light
     font-family: $heading-font-family

@@ -19,6 +19,7 @@ This is a really simple overview of what WebRTC is for those who aren't familiar
 This! A web client so two people can see each other's faces. Or in this case, I can use it to have a chat with myself. Very social.
 
 ![video chat app](/assets/images/webrtc/chat-desktop.png)
+
 _The other client was my phone_
 
 Github repository with instructions on how to use [here](https://github.com/piratefsh/webrtc-video-chat).
