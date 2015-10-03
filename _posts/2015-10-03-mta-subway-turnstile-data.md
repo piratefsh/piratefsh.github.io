@@ -53,13 +53,11 @@ Instead of having to look through the entire database for the previous entry to 
 Also, working with Python has been a pleasure, especially when it comes to writing simple assert tests, something I haven't been able to make into a habit with Javascript.
 
 ### I have useful data, now what?
-Now that we have cleaner data, we can do stuff with it! Some preliminary data:
+Now that we have cleaner data, we can do stuff with it! Some preliminary data. 
+
+__Note: Take it with a grain of salt because I haven't checked for outliers__
 
 #### Top 10 most popular stations for Sept 2015*
-
-`42 ST-PA BUS TE` has **1,305,321,095,061** riders in the month of September. 
-
-That's **1,305 billion** people! Apparently the MTA services 5 million riders a day, so this shouldn't be surprising.
 
 Note the repetition in 42 ST station names -- I'm not sure how or why this is, so ideas are welcome. 
 
