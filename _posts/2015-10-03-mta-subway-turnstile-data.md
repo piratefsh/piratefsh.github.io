@@ -59,10 +59,9 @@ __Note: Take it with a grain of salt because I haven't checked for outliers__
 
 #### Top 10 most popular stations for Sept 2015*
 
-__Edit: turns out I was working on the wrong database with cumulative entries instead when I queried this (*facepalm*). Have fixed with data from the right database this time around. Still a little wonky, will have to learn how to filter out outliers later.
+__Edit: turns out I was working on the wrong database with cumulative entries instead when I queried this (*facepalm*). Have fixed with data from the right database this time around. Still a little wonky, will have to learn how to filter out outliers later.__
 
-Edit 2: also turns out I have a lot of outliers. Did a simple pruning by standard deviation and ended up with this data. Still had to remove a couple of clear outliers by hand, but data makes sense now!
-__
+__Edit 2: also turns out I have a lot of outliers. Did a simple pruning by standard deviation and ended up with this data. Still had to remove a couple of clear outliers by hand, but data makes sense now!__
 
 Note the repetition in 42 ST station names -- I'm not sure how or why this is, so ideas are welcome. 
 
