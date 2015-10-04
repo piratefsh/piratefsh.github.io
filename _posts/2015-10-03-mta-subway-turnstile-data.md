@@ -59,52 +59,55 @@ __Note: Take it with a grain of salt because I haven't checked for outliers__
 
 #### Top 10 most popular stations for Sept 2015*
 
-__Edit: turns out I was working on the wrong database with cumulative entries instead when I queried this (*facepalm*). Have fixed with data from the right database this time around. Still a little wonky, will have to learn how to filter out outliers later.__
+__Edit: turns out I was working on the wrong database with cumulative entries instead when I queried this (*facepalm*). Have fixed with data from the right database this time around. Still a little wonky, will have to learn how to filter out outliers later.
+
+Edit 2: also turns out I have a lot of outliers. Did a simple pruning by standard deviation and ended up with this data. Still had to remove a couple of clear outliers by hand, but data makes sense now!
+__
 
 Note the repetition in 42 ST station names -- I'm not sure how or why this is, so ideas are welcome. 
 
 I'm assuming that `42 ST-PA BUS TE` is the one that runs on the ACE line and `42 ST-TIMES SQ` is on the 123 line. The subsequent lines are just lines that they are connected to?
 
-    ID          UNIT        STATION          LINENAME     TOTAL_ENTRIES
-    ----------  ----------  ---------------  -----------  -------------
-    635141      R011        42 ST-PA BUS TE  ACENQRS1237  7515283142   
-    586808      R080        57 ST-7 AVE      NQR          7322653178   
-    714660      R084        59 ST-COLUMBUS   1ABCD        4287013743   
-    713284      R033        42 ST-TIMES SQ   1237ACENQRS  3833759862   
-    726965      R044        BROOKLYN BRIDGE  456JZ        3689538466   
-    705651      R028        FULTON ST        2345ACJZ     3335250387   
-    680062      R453        23 ST-6 AVE      FM           3079427013   
-    729663      R131        23 ST            6            3071870495   
-    773955      R110        FLATBUSH AVE     25           2958008384   
-    716443      R452        72 ST            123          2829892542
+    ID          UNIT        STATION       LINENAME    TOTAL_ENTRIES
+    ----------  ----------  ------------  ----------  -------------
+    728605      R170        14 ST-UNION   456LNQR     2675454      
+    733260      R046        42 ST-GRD CN  4567S       1789939      
+    679390      R022        34 ST-HERALD  BDFMNQR     1732995      
+    714660      R084        59 ST-COLUMB  1ABCD       1729229      
+    713284      R033        42 ST-TIMES   1237ACENQR  1584018      
+    637233      R012        34 ST-PENN S  ACE         1563049      
+    738398      R179        86 ST         456         1562741      
+    765251      R055        MAIN ST       7           1525426      
+    711512      R293        34 ST-PENN S  123ACE      1356457      
+    635141      R011        42 ST-PA BUS  ACENQRS123  1342426 
 
 #### All stations on the G line in descending popularity
 
-Yes, I take the G a lot, and kind of like how small and unpopular it is! Look at the ridership difference between `COURT SQ` and `42 ST` above. Seems like there are a lot of people who live in LIC/Astoria that take the G all the way up. I'm surprised that `HOYT` doesn't rank higher because it transfers to the `ACE`, but then again, most people would have gone on elsewhere and transferred without going through the turnstiles. We're losing out on a lot of transfer data here.
+Yes, I take the G a lot, and kind of like how small and unpopular it is! Look at the ridership difference between `METROPOLITAN AV` and `42 ST` above. Seems like there are a lot of people who live in LIC/Astoria that take the G all the way up. I'm surprised that `HOYT` doesn't rank higher because it transfers to the `ACE`, but then again, most people would have gone on elsewhere and transferred without going through the turnstiles. We're losing out on a lot of transfer data here.
 
-    UNIT        STATION     LINENAME    TOTAL_ENTRIES  TOTAL_EXITS
-    ----------  ----------  ----------  -------------  -----------
-    R359        COURT SQ    EMG         248900062      18377314   
-    R256        NASSAU AV   G           178524401      57885167   
-    R269        BEDFORD/NO  G           172430677      50741833   
-    R204        CHURCH AVE  FG          166686368      41822070   
-    R258        4 AVE       DFGMNR      52380918       38808209   
-    R220        CARROLL ST  FG          42016153       24971189   
-    R268        METROPOLIT  GL          39410701       25254671   
-    R129        BERGEN ST   FG          36063923       22484146   
-    R217        HOYT/SCHER  ACG         29809049       30488426   
-    R288        7 AV-PARK   FG          25362691       7996743    
-    R317        CLINTON-WA  G           19619335       4252381    
-    R286        MYRTLE-WIL  G           19350748       12598318   
-    R241        15 ST-PROS  FG          18728069       8269590    
-    R299        BROADWAY    G           14289913       10596625   
-    R287        CLASSON AV  G           13911699       13593579   
-    R239        GREENPOINT  G           13700077       8417595    
-    R318        FULTON ST   G           12306053       12674774   
-    R289        FT HAMILTO  FG          10381010       3556658    
-    R270        SMITH-9 ST  FG          10210066       7663262    
-    R316        FLUSHING A  G           7076375        6954122    
-    R360        VAN ALSTON  G           5435475        6156631
+    UNIT        STATION          LINENAME    TOTAL_ENTRIES  TOTAL_EXITS
+    ----------  ---------------  ----------  -------------  -----------
+    R268        METROPOLITAN AV  GL          406604         204217     
+    R359        COURT SQ         EMG         393372         206356     
+    R258        4 AVE            DFGMNR      317127         285127     
+    R288        7 AV-PARK SLOPE  FG          272005         60317      
+    R204        CHURCH AVE       FG          270687         169046     
+    R129        BERGEN ST        FG          270588         166326     
+    R220        CARROLL ST       FG          268265         121279     
+    R217        HOYT/SCHERMER    ACG         240597         213857     
+    R256        NASSAU AV        G           218548         113352     
+    R239        GREENPOINT AVE   G           218107         155785     
+    R269        BEDFORD/NOSTRAN  G           198039         110727     
+    R241        15 ST-PROSPECT   FG          146397         63455      
+    R286        MYRTLE-WILLOUGH  G           144565         79652      
+    R289        FT HAMILTON PKY  FG          134171         38559      
+    R317        CLINTON-WASH AV  G           132916         19985      
+    R270        SMITH-9 ST       FG          126743         142212     
+    R287        CLASSON AVE      G           122914         116782     
+    R318        FULTON ST        G           114912         110825     
+    R299        BROADWAY         G           102202         85013      
+    R316        FLUSHING AVE     G           64595          64798      
+    R360        VAN ALSTON-21ST  G           45890          50158 
 
 I also have other snippets of data on the [Github README](https://github.com/piratefsh/mta-turnstile-cruncher).
 
