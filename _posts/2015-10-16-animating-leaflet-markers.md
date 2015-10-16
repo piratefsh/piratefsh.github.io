@@ -34,7 +34,7 @@ An basic understanding of CSS and how Leaflet markers work will also be helpful.
 ### Example and code! 
 If you just wanna see code, here it is on Codepen. I also explain the steps below. Hover and click on the 'Rerun' button to see the animation again.
 
-<p data-height="268" data-theme-id="0" data-slug-hash="bVYpLK" data-default-tab="result" data-user="piratefsh" class='codepen'>See the Pen <a href='http://codepen.io/piratefsh/pen/bVYpLK/'>bVYpLK</a> by Sher Minn Chong (<a href='http://codepen.io/piratefsh'>@piratefsh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="avVNPd" data-default-tab="result" data-user="piratefsh" class='codepen'>See the Pen <a href='http://codepen.io/piratefsh/pen/avVNPd/'>avVNPd</a> by Sher Minn Chong (<a href='http://codepen.io/piratefsh'>@piratefsh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ### Step 0: Create map
