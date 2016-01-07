@@ -21,7 +21,7 @@ The demo is currently on video mode, though it also works with individual images
 
 Also, it uses the `navigator.getUserMedia()` API which is only available on Chrome, FF and Opera for now. Sorry Safari and iOS peeps.
 
-<a class="btn btn-primary" href="https://piratefsh.github.io/image-processing/sobel/index.html">Try it out</a>
+<a class="btn btn-primary" href="https://piratefsh.github.io/image-processing/">Try it out</a>
 <a class="btn btn-default" href="https://github.com/piratefsh/image-processing">Github repo</a>
 
 ## How I went about it
