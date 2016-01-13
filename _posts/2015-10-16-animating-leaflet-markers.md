@@ -7,7 +7,6 @@ event: "Week 9 at Recurse Center"
 categories: how-to
 
 ---
-jfjsdfj
 I spent the last two weeks visualizing MTA Subway data -- all of the entrances and exits for a week in October 2015. You can see it here and the corresponding repository for the code:
 [![NYC Subway Visualizer](/assets/images/subway/subway-visualizer.gif)](http://piratefsh.github.io/mta-maps/public)
 
