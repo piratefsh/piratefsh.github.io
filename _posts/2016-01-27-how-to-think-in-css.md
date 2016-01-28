@@ -56,7 +56,7 @@ I cannot stress this enough. It is impossible to write good CSS with messy HTML.
 
 Go back to your sketch. Identify which HTML tags you would use for each block and element. 
 
-# 2.1 Use semantic tags
+### 2.1 Use semantic tags
 ![sketch your app](/assets/images/howtocss/how-to-css_semantic tags.png)
 
 > _use tags that accurately describe your blocks and elements_
@@ -68,6 +68,8 @@ What are semantic tags? For example, use the `header` tag for your __header__ bl
 Add classes as you go along to identify each block. Now will be a good time to add a `.question` class to the container that holds the image and text. You might want to add a `.question-image` and `.question-text` class respectively to the image and text columns. 
 
 Don't worry too much about how you will use these classes in CSS. Just label things in a general way that makes sense. I've found that this approach helps with styling later on, versus the other way around of thinking about styles first, and classes later. Good layout comes with breaking things down in ways that makes sense.
+
+### 2.2 Code
 
 Here is an example of how I would have done the HTML:
 
@@ -104,6 +106,8 @@ Flexbox is relatively new, but is extremely useful and intuitive in creating lay
 When creating layouts, think top down. Position the larger, encompassing blocks first before positioning the blocks within them.
 
 For example, position the __question__ block first before positioning the __question image__ and __question text__ within it.
+
+### 3.3 Code
 
 Here is an example of CSS I would use to create the layout:
 <p data-height="268" data-theme-id="0" data-slug-hash="EPLwVr" data-default-tab="css" data-user="piratefsh" class='codepen'>See the Pen <a href='http://codepen.io/piratefsh/pen/EPLwVr/'>How to CSS example - HTML</a> by Sher Minn Chong (<a href='http://codepen.io/piratefsh'>@piratefsh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
