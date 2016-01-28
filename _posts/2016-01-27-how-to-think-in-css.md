@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How do I CSS?
+title: How to think in CSS?
 categories: [how-to]
 tags: [css, guide]
 published: True
@@ -9,13 +9,15 @@ author: "Sher Minn C"
 
 <style>
 img{
-    border: 1px solid #ddd;
+    border: 1px solid #bbb;
 }
 </style>
 
 For those who are new to front-end web development, CSS can seem like this weird, magical realm full of rules that do not make much sense. This article is about the approach I take to 'CSS-ing' a project. Given a vision of a webpage, how should we go about creating it? 
 
 While at the [Recurse Center](http://recurse.com), I worked with other Recursers (who were new to front-end web) to better understand how to work with CSS. The following guide is a cumulation of tips that I've shared that have been useful to them, and hopefully to you too!
+
+For this guide to be useful, you should at least be familiar with basic HTML and CSS concepts such as the difference between the two, tags, selectors, classes and ids.
 
 ## Step 1: Get sketchy
 
@@ -102,5 +104,16 @@ For example, position the __question__ block first before positioning the __ques
 ## Step 4: The small details
 
 And now we move on to the details! When everything is in place, start going crazy with styling! This includes things like fonts, colors, borders and any other embellishments. 
+
+## End
+Hopefully that was somewhat useful in helping you to form a working process when converting a visual into CSS! This is meant as a starting point, and just one way to go about doing it. You will form your own processes as you CSS more. 
+
+Have opinions or questions? Let me know at `sherminn [dot] chong [at] gmail [dot] com`.  
+
+Have fun!
+
+---
+
+### Footnotes
 
 [^1]: Example inspired by a real project, [Planigale](http://planigale.dvndrsn.com) by fellow Recursers Lin Taylor and Dave Anderson.
