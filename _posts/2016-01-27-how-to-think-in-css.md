@@ -69,6 +69,11 @@ Add classes as you go along to identify each block. Now will be a good time to a
 
 Don't worry too much about how you will use these classes in CSS. Just label things in a general way that makes sense. I've found that this approach helps with styling later on, versus the other way around of thinking about styles first, and classes later. Good layout comes with breaking things down in ways that makes sense.
 
+Here is an example of how I would have done the HTML:
+
+<p data-height="268" data-theme-id="0" data-slug-hash="EPLwVr" data-default-tab="html" data-user="piratefsh" class='codepen'>See the Pen <a href='http://codepen.io/piratefsh/pen/EPLwVr/'>How to CSS example - HTML</a> by Sher Minn Chong (<a href='http://codepen.io/piratefsh'>@piratefsh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
 ## Step 3: Layout, layout, layout
 
 > And now, we make it pretty, yes?
@@ -100,10 +105,17 @@ When creating layouts, think top down. Position the larger, encompassing blocks 
 
 For example, position the __question__ block first before positioning the __question image__ and __question text__ within it.
 
+Here is an example of CSS I would use to create the layout:
+<p data-height="268" data-theme-id="0" data-slug-hash="EPLwVr" data-default-tab="css" data-user="piratefsh" class='codepen'>See the Pen <a href='http://codepen.io/piratefsh/pen/EPLwVr/'>How to CSS example - HTML</a> by Sher Minn Chong (<a href='http://codepen.io/piratefsh'>@piratefsh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Step 4: The small details
 
 And now we move on to the details! When everything is in place, start going crazy with styling! This includes things like fonts, colors, borders and any other embellishments. 
+
+This is your time to shine! Apart from [choosing colors](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) and [fonts](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/), little things like gradients, box shadows, and border radius (for rounded edges) make a difference! For that extra bling, look up CSS `transitions` and `:hover` to get that [cool animated effect](https://bootstrapbay.com/blog/css-transitions-buttons/) when you mouse over your buttons.
+
+I always find it useful to browse inspiration and to keep track of designs and color schemes that I like. I used to keep an inspiration folder where store the ones that I enjoy the most, and it's super useful to reference when you're stuck on ideas.
 
 ## End
 Hopefully that was somewhat useful in helping you to form a working process when converting a visual into CSS! This is meant as a starting point, and just one way to go about doing it. You will form your own processes as you CSS more. 
