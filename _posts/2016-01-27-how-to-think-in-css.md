@@ -7,12 +7,6 @@ published: True
 author: "Sher Minn C"
 ---
 
-<style>
-img{
-    border: 1px solid #bbb;
-}
-</style>
-
 For those who are new to front-end web development, CSS can seem like this weird, magical realm full of rules that do not make much sense. This article is about the approach I take to 'CSS-ing' a project. Given a vision of a webpage, how should we go about creating it? 
 
 While at the [Recurse Center](http://recurse.com), I worked with other Recursers (who were new to front-end web) to better understand how to work with CSS. The following guide is a cumulation of tips that I've shared that have been useful to them, and hopefully to you too!
@@ -133,3 +127,9 @@ Have fun!
 ### Footnotes
 
 [^1]: Example inspired by a real project, [Planigale](http://planigale.dvndrsn.com) by fellow Recursers Lin Taylor and Dave Anderson.
+
+<style>
+img{
+    border: 1px solid #bbb;
+}
+</style>
