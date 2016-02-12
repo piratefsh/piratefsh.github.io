@@ -13,13 +13,13 @@ I also enjoy teaching coding, sci-fi and surrealist novels, running, and art!
 
 ## Projects
 
-###__[NYC Subway Traffic Visualizer](http://piratefsh.github.io/mta-maps/public/)__
+### __[NYC Subway Traffic Visualizer](http://piratefsh.github.io/mta-maps/public/)__
 
 The Metropolitan Transportation Authority of New York City releases the number of exits and entries at every subway station in the city. It was a lot of raw, dirty data and big numbers that don't mean a lot as is. I scrapped it, put it into a database, did some simple cleaning and visualized it all on a map. 
 
 I worked with ES6 Javascript, Leaflet/Mapbox, SASS and Webpack for this project.
 
-###__[Foggy Window](http://piratefsh.github.io/foggy-window/public/)__
+### __[Foggy Window](http://piratefsh.github.io/foggy-window/public/)__
 
 You know when you're behind a window on a cold day and it fogs up? Yeah, we're replicating that in your browser. So you can have a foggy window in your window.
 
@@ -27,7 +27,7 @@ Used ES6 JavaScript and canvas to simulate a foggy window with Gaussian blur. Im
 
 Project built on Webpack.
 
-###__[Set Solver](https://github.com/piratefsh/set-solver)__
+### __[Set Solver](https://github.com/piratefsh/set-solver)__
 
 Use OpenCV to detect Set game cards in an image and solve for possible sets. 
 
@@ -37,17 +37,17 @@ How it works:
 2. For each card, identify color, shape, texture and number of card
 3. Find valid combinations of set cards
 
-###__[Leaflet Geofencer](http://piratefsh.github.io/leaflet.geofencer)__ 
+### __[Leaflet Geofencer](http://piratefsh.github.io/leaflet.geofencer)__ 
 
 A library to draw polygons on maps. Good for geofencing purposes. <a href="https://github.com/piratefsh/leaflet.geofencer">Github repo</a>.
 
-###__[Cafehop MY](http://cafehop.my)__ 
+### __[Cafehop MY](http://cafehop.my)__ 
 
 A project mapping cafes in Malaysia. Built on Angular and Bootstrap. <a href="https://github.com/CafehopMY/cafehopmy.github.io">Github repo</a>.
 
-###__[Issue Scraper](https://github.com/piratefsh/exactedition-issue-scaper)__ 
+### __[Issue Scraper](https://github.com/piratefsh/exactedition-issue-scaper)__ 
 
-Simple scraper to download pdf pages from Exact Editions magazines. Using CasperJS and PhantomJs. <a href="https://github.com/piratefsh/exactedition-issue-scaper">Github repo</a>.
+Webscraper to download pdf pages from Exact Editions magazines. Using CasperJS and PhantomJs. <a href="https://github.com/piratefsh/exactedition-issue-scaper">Github repo</a>.
 
 ## Websites
 * __[Code Equality](http://codeequality.org)__ - <small>Website for a coding education non-profit I help run. Built on Jekyll and Bootstrap.</small>
