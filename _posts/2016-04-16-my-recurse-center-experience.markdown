@@ -53,11 +53,14 @@ My experience really just scrapes the tip of the iceberg of amazing things that 
 ## RC is a giant happy family
 My favorite part about RC is that they're like family now. I've been back to NYC twice since my batch ended, and felt like I've never left. RC alumni keep in touch via our internal chat and forums, and it's really easy to still be a part of the community even when you're halfway across the world. RC has been described as “the world’s best programming community with a three-month onboarding process in New York.” which sums it up perfectly :)
 
+
 ## FAQ about RC
 The RC website has an [excellent FAQ](https://www.recurse.com/faq) on logistical things like dates, cost, and information for internationals, how they're self-funding and many others. I'm including a couple of FAQs here that are specific to my experience that would be helpful to hear for Southeast Asians.
 
 ### Is RC for me?
 The RC site has tons of information about whether RC may be right for you. [This might help!](https://www.recurse.com/blog/88-three-reasons-to-apply-and-three-reasons-not-to)
+
+**In a nutshell, if RC sounds good to you, and you're thinking about applying, just do it!**
 
 ### Three months is a really long time to take off work!
 You can now do RC for six weeks! More on [that here](https://www.recurse.com/blog/101-you-can-now-attend-rc-retreat-for-six-weeks)
@@ -89,7 +92,7 @@ The [RC FAQ](https://www.recurse.com/faq) has a good breakdown of the process. M
 ### Can you help me with the application?
 Fortunately, the RC application process is straightforward and fuss-free. My only advice is to **be yourself**. Be prepared to communicate your intentions. Write about why you want to do RC, and what you would like to do (if you already know). Showcase your enthusiasm for not just programming, but also learning. RC extends further than just your programming skills. RC alumni are some of the kindest, most intrinsically motivated people I've met, and those traits alone .
 
-If you do not get in the first time, do not be discouraged. Some 6% of RC alumni are 2nd time applicants. Not getting admitted simply means that RC might not be a good match for you right now, and you are encouraged to reapply in the future.
+If you do not get in the first time, do not be discouraged. [Some 6% of RC alumni are 2nd time applicants](https://www.recurse.com/faq). Not getting admitted simply means that RC might not be a good match for you right now, and you are encouraged to reapply in the future.
 
 And that's it. All the best!
 
