@@ -4,7 +4,7 @@ layout: post
 ---
 
 I logged my snack intake for a month and made charts out of it. 
-<iframe width="653.5" height="309" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Z5A2hjLI0snJC214mjseIL6Mj7_mDGPRdkXWon0qPnM/pubchart?oid=784442653&amp;format=interactive"></iframe>
+<iframe width="653" height="339" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1oShvX6Mw5ct2bTMmujIKEXMrEFB8xAJkb_IEInsoRns/pubchart?oid=1541543256&amp;format=interactive"></iframe>
 
 ## Inspiration
 
@@ -25,7 +25,7 @@ Disclaimer: This wasn't done very scientifically by any stretch, but still fun.
 
 ## Findings
 
-<iframe width="877" height="542" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Z5A2hjLI0snJC214mjseIL6Mj7_mDGPRdkXWon0qPnM/pubchart?oid=636071131&amp;format=interactive"></iframe>
+<iframe width="654" height="542" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1oShvX6Mw5ct2bTMmujIKEXMrEFB8xAJkb_IEInsoRns/pubchart?oid=552125548&amp;format=interactive"></iframe>
 
 Here's what I found out:
 
