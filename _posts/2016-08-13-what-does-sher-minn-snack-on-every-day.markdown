@@ -35,4 +35,8 @@ Here's what I found out:
 * I am twice as likely to snack on high guilt snacks than neutral or low guilt ones.
 * My snack intake went down as time went on with this project. (I also started eating more low guilt snacks)
 
-Raw data for the curious: [link](https://docs.google.com/spreadsheets/d/1oShvX6Mw5ct2bTMmujIKEXMrEFB8xAJkb_IEInsoRns/edit?usp=sharing)
+## Raw data
+For the curious: [link](https://docs.google.com/spreadsheets/d/1oShvX6Mw5ct2bTMmujIKEXMrEFB8xAJkb_IEInsoRns/edit?usp=sharing).
+
+## Next
+I have a month's worth of financial spending data, which is slightly more complex and fascinating (to myself, at least). More charts may follow!
