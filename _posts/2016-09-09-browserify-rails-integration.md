@@ -23,6 +23,7 @@ We have been using mostly sprockets-style `//= require` to include Javascript de
 So for example, if I have a `DropdownMenu` component which depends on a `DropdownMenuItem` component, my code will look like this:
 
 __DropdownMenuItem.js.jsx__
+
 ```javascript
  class DropdownMenuItem extends React.Component {
    render(){
@@ -31,6 +32,7 @@ __DropdownMenuItem.js.jsx__
  }
 ```
 __DropdownMenu.js.jsx__
+
 ```javascript
 //= require './DropdownMenuItem'
 
@@ -56,6 +58,7 @@ the [`browserify-rails`](https://github.com/browserify-rails/browserify-rails) g
 When converting your JavaScript classes and variables to modules, it can be a lot of work and messy. Here are a couple of tips. By converting to modules I'm referring to the following:
 
 __before__
+
 ```js
 class DropdownMenu extends React.Component {
  ...
@@ -69,6 +72,7 @@ var DropdownMenu = {
 ```
 
 __after__
+
 ```js
 export default class DropdownMenu extends React.Component {
  ...
@@ -92,6 +96,7 @@ Start by first converting components that do not have other requires. This will 
 If you're running a Rails app on Docker, you'll need to also install npm in your ecosystem. 
 
 __Dockerfile__
+
 ```
 ...
 RUN apt-get -qq update && apt-get install nodejs nodejs-legacy npm -y
@@ -104,6 +109,7 @@ And don't forget to run `npm install` in your run script somewhere.
 If everything is correctly named, but the module cannot be found on require/import, your file may have an unknown extension. Browserify only recognizes a few extensions by default. If you have `.js.jsx` extensions, you will need to explicitly declare that in the command line options. E.g.
 
 __application.rb__
+
 ```rb
  # recognize .jsx and .js.jsx extensions as files to browserify
  config.browserify_rails.commandline_options = "-t [ babelify --presets [ es2015 react ] ] --extension='.jsx' --extension='.js.jsx'"
@@ -132,6 +138,7 @@ __Solution:__ Not quite a solution, but a compromise for now. Instead of importi
 So if you ever use `react_component`, you will need to expose the component to the global scope. But to minimize polluting the global space, you can assign the components to a 'holder' object. Example as follows:
 
 __dropdown_app.js__
+
 ```javascript
 global.dropdownApp = {
  DropdownMenu: require('components/DropdownMenu')
@@ -139,6 +146,7 @@ global.dropdownApp = {
 ```
 
 __show.html.erb__
+
 ```rb
 ...
  <%= react_component('dropdownApp.DropdownMenu', { resource_id: resource.id }) %>
