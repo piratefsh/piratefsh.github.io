@@ -7,7 +7,7 @@ published: True
 author: "Sher Minn C"
 ---
 
-Some notes on integrating Browserify in our Rails app via the [`browserify-rails`](https://github.com/browserify-rails/browserify-rails) gem and getting it to play nice with ES6 and `react-rails`.
+Some notes on integrating Browserify in our Rails app via the [browserify-rails](https://github.com/browserify-rails/browserify-rails) gem and getting it to play nice with ES6 and `react-rails`.
 
 Here are some notes that may be useful if you're also working on it. I picked up a lot of tips from various articles. If you're starting out, I recommend reading the following guides:
 
@@ -53,7 +53,7 @@ There are several issues with this:
 * And the worst: no access to npm modules! With Browserify, we'll finally be able to use modules from npm.
 
 ## About browserify-rails
-the [`browserify-rails`](https://github.com/browserify-rails/browserify-rails) gem allows you to use `module.exports` and `require('component')`, CommonJS modules in your app. It also plays nice with Sprockets-style require. Check out the [README](https://github.com/browserify-rails/browserify-rails).
+the [browserify-rails](https://github.com/browserify-rails/browserify-rails) gem allows you to use `module.exports` and `require('component')`, CommonJS modules in your app. It also plays nice with Sprockets-style require. Check out the [README](https://github.com/browserify-rails/browserify-rails).
 
 ---
 
@@ -124,7 +124,7 @@ __application.rb__
 ### export default doesn't work
 With the gem as is, requiring a default export still requires an explicit reference the the default object. e.g. `require('./thing').default`.
 
-__Solution:__ I used [`babel-plugin-add-module-exports`](https://github.com/59naga/babel-plugin-add-module-exports) so default exports don't require the explicit `.default` reference. 
+__Solution:__ I used [babel-plugin-add-module-exports](https://github.com/59naga/babel-plugin-add-module-exports) so default exports don't require the explicit `.default` reference. 
 
 ### multiple React instances when running tests with `jasminerice`
 When running tests, I encountered this [error](https://facebook.github.io/react/warnings/refs-must-have-owner.html):
