@@ -7,7 +7,7 @@ published: True
 author: "Sher Minn C"
 ---
 
-Some notes on integrating Browserify in our Rails app via the [browserify-rails](https://github.com/browserify-rails/browserify-rails) gem and getting it to play nice with ES6 and `react-rails`.
+Some notes on integrating Browserify in our [Viki](https://viki.com) Rails app via the [browserify-rails](https://github.com/browserify-rails/browserify-rails) gem and getting it to play nice with ES6 and `react-rails`.
 
 Here are some notes that may be useful if you're also working on it. I picked up a lot of tips from various articles. If you're starting out, I recommend reading the following guides:
 
