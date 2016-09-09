@@ -2,12 +2,12 @@
 title: Browserify, ES6 and Rails integration notes
 layout: post
 categories: [projects]
-tags: [work, rails, browserify, es6, javascript]
+tags: [work, rails, browserify, es6, javascript, react]
 published: True
 author: "Sher Minn C"
 ---
 
-I worked on integrating Browserify in our Rails app via the [`browserify-rails` gem](https://github.com/browserify-rails/browserify-rails). Our stack also includes ES6 and React via `react-rails`.
+Some notes on integrating Browserify in our Rails app via the [`browserify-rails`](https://github.com/browserify-rails/browserify-rails) gem and getting it to play nice with ES6 and `react-rails`.
 
 Here are some notes that may be useful if you're also working on it. I picked up a lot of tips from various articles. If you're starting out, I recommend reading the following guides:
 
