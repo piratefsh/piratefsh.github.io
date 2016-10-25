@@ -8,7 +8,6 @@ author: "Sher Minn C"
 ---
 
 I recently found myself learning the difference between shims and polyfills. I have heard both terms on many occasions but never had the guts to ask for details, with much regret. So I tweeted the following: 
-
 <div class='center'>
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There&#39;s so much terminology in the JavaScript world. It is totally okay to say: &quot;I don&#39;t know what that is, could you tell me about it?&quot;</p>&mdash; Sher Minn C. (@piratefsh) <a href="https://twitter.com/piratefsh/status/789314025368784897">October 21, 2016</a></blockquote>
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
