@@ -5,7 +5,9 @@ layout: post
 
 This is usually a technical blog, but I'll be taking a break from the usual programming of programming-related posts (hah, pun) to talk about my other closeted obsession: smells. 
 
-# Part 1: Nail polish made me puke
+Here goes.
+
+---
 
 Every month or so, about two weeks before my period starts, my nose gets hypersensitive. I smell everything and anything. I get whiffs of jasmine oil from the freshly powdered middle-aged men walking past to board the train at Little India, the smell of fried tempura at the nearest kimbap roll place, lingering smell of cologne on my face from the last hug. But most of all, I smell people. I smell the smell of bodies and sweat and soap of the fast-moving people of Singapore.
 
