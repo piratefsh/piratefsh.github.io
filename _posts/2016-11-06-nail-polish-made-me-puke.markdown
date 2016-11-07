@@ -22,4 +22,4 @@ You know how you usually can never enjoy foods that you’ve thrown up again? Ma
 Now, I’m not one usually averse to strong scents. I love perfume. In fact, I’m obsessed with it. I’ve never really spoken at length to anyone about it, save for a couple of people. This a perfumistas coming out story.
 
 
-__End of Part 1.__ 
+__End of Part 1. Read [Part 2](/2016/11/07/department-stores-are-terrifying.html).__ 
