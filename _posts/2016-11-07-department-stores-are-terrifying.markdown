@@ -74,7 +74,7 @@ Much of gendering is also cultural. Where rose is considered a women's scent in 
 
 In the words of a dear friend of mine: You do you. 
 
-__End of Part 2.__
+__End of Part 2.__ Read [Part 3](/2016/11/13/short-lived-first-love.html)
 
 ---
 
