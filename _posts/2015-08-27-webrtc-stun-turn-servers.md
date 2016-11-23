@@ -8,6 +8,10 @@ categories: projects
 excerpt: "<p>I built a video chat app last week. Now it was time to deploy it and a STUN/TURN server. Lots of frustrated configuration work happened.</p>"
 ---
 
+2016 Update: Hey so I've been getting a bunch of email from people asking if I can help debug/build/fix their WebRTC projects. Unfortunately that's not within my capacity right now. I haven't worked with WebRTC since this post went up, so I'm not the most up to date on this stuff. I would recommend posting your questions to StackOverflow or a JS community. All the best!
+
+---
+
 So I finally have a working WebRTC video chat app, and it's up over here: [45.55.61.164:2013](45.55.61.164:2013). And it works! \*throws confetti\*.
  
 Here's a screenshot from a call to a friend in Philly. It also works on Chrome for Android!
