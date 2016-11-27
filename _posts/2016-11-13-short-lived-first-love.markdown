@@ -21,7 +21,9 @@ I eventually left the city and relationship, which was a long and difficult proc
 
 Months later, I found my way to Singapore for what turned out to be my favorite job where I still am residing now. Today, you will see a full bottle of Serge Lutens’ Chergui proudly sitting on my dresser amongst various decants [^3]. I smelled it again in Singapore and was again convinced that it was meant to be. It’s a beautiful honeyed tobacco -- slightly soapy, but far from clean. Chergui is dark, complex, and independent. A perfect scent for a new start.
 
-__End of Part 3__. [Part 1](/2016/11/06/nail-polish-made-me-puke.html) [Part 2](/2016/11/07/department-stores-are-terrifying.html)
+__End of Part 3__. Read [Part 4](/2016/11/26/scented-memories.html).
+
+[Part 1](/2016/11/06/nail-polish-made-me-puke.html) [Part 2](/2016/11/07/department-stores-are-terrifying.html)
 
 ---
 

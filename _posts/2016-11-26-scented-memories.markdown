@@ -26,4 +26,6 @@ My first fragrant liquids were two tiny glass vials of aromatherapy oil gifted t
 
 Earlier this year I found them during a cleaning frenzy and tossed them out as they were oil-based and had gone bad. I regret that now -- looking back, those scented oils were my first perfume obsession.
 
-__End of Part 4__. [Part 1](/2016/11/06/nail-polish-made-me-puke.html) [Part 2](/2016/11/07/department-stores-are-terrifying.html) [Part 3](/2016/11/13/short-lived-first-love.html)
+__End of Part 4__. Part 5 to come soon.
+
+[Part 1](/2016/11/06/nail-polish-made-me-puke.html) [Part 2](/2016/11/07/department-stores-are-terrifying.html) [Part 3](/2016/11/13/short-lived-first-love.html)
