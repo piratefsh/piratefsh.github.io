@@ -45,6 +45,10 @@ I’ve always wondered if I’ve ever passed someone on the street that recogniz
 
 And if they did, did it remind them of someone they know?
 
+__End of Part 5__. Part 6 (the epilogue) to come soon.
+
+[Part 1](/2016/11/06/nail-polish-made-me-puke.html) [Part 2](/2016/11/07/department-stores-are-terrifying.html) [Part 3](/2016/11/13/short-lived-first-love.html) [Part 4](/2016/11/26/scented-memories.html) 
+
 ---
 [^1]: For more detail on the technical differences between an Eau de Toilette, Eau de Parfum and Eau de Cologne, read this [FAQ by Now Smell This](http://www.nstperfume.com/perfume-faq/) and then this excellent [post on Reddit](https://www.reddit.com/r/fragrance/comments/5cdib8/lets_talk_about_fragrance_concentration_and/) on how concentrations actually don’t tell you much about the fragrance.
 [^2]: More on the rise of demand for niche perfumery by [The Guardian: Move over Taylor Swift – indie perfumers ride high as public tires of celebrity scent](https://www.theguardian.com/fashion/2015/jul/12/indie-perfumers-ride-high-celebrity-scents-taylor-swift-justin-bieber)
