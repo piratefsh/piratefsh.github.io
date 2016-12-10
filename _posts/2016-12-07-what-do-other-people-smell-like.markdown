@@ -45,7 +45,7 @@ I’ve always wondered if I’ve ever passed someone on the street that recogniz
 
 And if they did, did it remind them of someone they know?
 
-__End of Part 5__. Part 6 (the epilogue) to come soon.
+__End of Part 5__. Read [Part 6](/2016/12/10/perfume-in-life-today.html).
 
 [Part 1](/2016/11/06/nail-polish-made-me-puke.html) // [Part 2](/2016/11/07/department-stores-are-terrifying.html) // [Part 3](/2016/11/13/short-lived-first-love.html) // [Part 4](/2016/11/26/scented-memories.html) 
 

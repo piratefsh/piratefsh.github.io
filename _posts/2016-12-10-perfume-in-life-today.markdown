@@ -4,8 +4,12 @@ layout: post
 ---
 
 Continued from [Part 5](/2016/12/07/what-do-other-people-smell-like.html) of a series where I talk about perfume and smells. This is the post of this series. 
+![Sampling different concentrations of Guerlain Mitsouko](/assets/images/perfume/perfume-testing.jpg)
+
+_Sampling different concentrations of Guerlain Mitsouko_
 
 ---
+
 
 This series ended up being a short timeline of my perfume journey. So what do I do with perfume nowadays?
 
