@@ -13,7 +13,7 @@ _Sampling different concentrations of Guerlain Mitsouko_
 
 This series started out as an exercise in overcoming the fear of being judged as frivolous for enjoying perfume. I had gone a good long two years of geeking out about fragrances without breathing a word to another soul. Why? Because perfume was such a frivolous and traditionally feminine thing (in Southeast Asian culture) that it seemed like such a strange thing to be excited about. But hey, traditional preconceptions are there to be challenged, so here's your resident software engineer talking about perfume. 
 
-Looking back, I ended up writing a brief timeline of my perfume journey, which was an interesting retrospective. But what do I do with perfume nowadays?
+Looking back, this ended up being a brief timeline of my perfume journey, which was an interesting retrospective. But what do I do with perfume nowadays?
 
 My obsession for it is more of aesthetic interest than practical, so I’m sometimes more content smelling than wearing perfume. Perfume is still very much a luxury item to me. You never _need_ perfume, so it’s hard to justify purchases. I still struggle with the guilt of buying things I don’t need or can’t finish. Most perfume bottles come in 50ml or 100ml sizes, which is more perfume than I would ever need. To put it into perspective, it took me 1 year to finish a 15ml bottle of perfume with semi-regular usage (Hermessence Cuir d’Ange, another favorite with a backstory for another time [^6]). 
 
