@@ -27,7 +27,7 @@ End of Part 6 and of this series.
 
 ---
 
-I didn’t intend for these series of posts to run for so long, but here we are! I didn’t even have a name for this series. If you’ve been following the series, thank you!  I initially wrote this without expecting anyone to read it, but some of you have reached out to say that you have enjoyed this. Thank you so much for your kind words, they really do make my day. I hope this has inspired you in some way to either explore scent, or even to think a little bit more about it in your everyday life. 
+I didn’t intend for these series of posts to run for so long, but here we are! I didn’t even have a name for this series. If you’ve been following the series, thank you!  I initially wrote this without expecting anyone to read it, but some of you have reached out to say that you have enjoyed this. Thank you so much for your kind words, they really do make my day. I hope this has inspired you in some way to either explore scent, or even to think a little bit more about it in your everyday lives. 
 
 Do email or [tweet](http://twitter.com/piratefsh) at me if you’d like to offer your thoughts or just to say hello, especially if you also enjoy smells and perfume! 
 
