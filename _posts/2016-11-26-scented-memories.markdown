@@ -28,4 +28,4 @@ Earlier this year I found them during a cleaning frenzy and tossed them out as t
 
 __End of Part 4__. Read [Part 5](/2016/12/07/what-do-other-people-smell-like.html).
 
-[Part 1](/2016/11/06/nail-polish-made-me-puke.html) [Part 2](/2016/11/07/department-stores-are-terrifying.html) [Part 3](/2016/11/13/short-lived-first-love.html)
+[Part 1](/2016/11/06/nail-polish-made-me-puke.html) // [Part 2](/2016/11/07/department-stores-are-terrifying.html) // [Part 3](/2016/11/13/short-lived-first-love.html)

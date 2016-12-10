@@ -23,7 +23,7 @@ Months later, I found my way to Singapore for what turned out to be my favorite 
 
 __End of Part 3__. Read [Part 4](/2016/11/26/scented-memories.html).
 
-[Part 1](/2016/11/06/nail-polish-made-me-puke.html) [Part 2](/2016/11/07/department-stores-are-terrifying.html)
+[Part 1](/2016/11/06/nail-polish-made-me-puke.html) // [Part 2](/2016/11/07/department-stores-are-terrifying.html)
 
 ---
 
