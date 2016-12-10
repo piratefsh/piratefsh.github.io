@@ -3,7 +3,7 @@ title: "Part 6: Perfume in my life today"
 layout: post
 ---
 
-Continued from [Part 5](/2016/12/07/what-do-other-people-smell-like.html) of a series where I talk about perfume and smells. This is the post of this series. 
+Continued from [Part 5](/2016/12/07/what-do-other-people-smell-like.html) of a series where I talk about perfume and smells. This is the last post of this series. 
 ![Sampling different concentrations of Guerlain Mitsouko](/assets/images/perfume/perfume-testing.jpg)
 
 _Sampling different concentrations of Guerlain Mitsouko_
