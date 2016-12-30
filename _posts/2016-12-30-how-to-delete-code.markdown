@@ -7,7 +7,9 @@ published: True
 author: "Sher Minn C"
 ---
 
-Most of the time we talk about how to write code, but rarely do we ever talk about __deleting code__. Every now and then, a feature gets decommissioned and an engineer is tasked with removing it. Sometimes I'm that engineer. This seems like a trivial thing to write about, but I was pleasantly surprised by how non-straightforward it can be, especially if you're doing it for the first time. There're lots of learning points, especially on how code organization really matters when it comes to maintainability. 
+Most of the time we talk about how to write code, but rarely do we ever talk about __deleting code__. Every now and then, a feature gets decommissioned and an engineer is tasked with removing it. Sometimes I'm that engineer. 
+
+This seems like a trivial thing to write about, but I was pleasantly surprised by how non-straightforward it can be. There're lots of learning points, especially on how code organization really matters when it comes to maintainability. 
 
 Decommissioning a feature is more than just turning it off. It also means hunting down all the parts of code that is no longer needed. And that can be pretty tricky.
 
