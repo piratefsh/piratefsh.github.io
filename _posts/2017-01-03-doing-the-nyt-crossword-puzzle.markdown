@@ -1,7 +1,8 @@
 ---
-title: Doing the NY Times Crossword Puzzle
+title: Doing the NY Times Crossword Puzzle 
 layout: post
 ---
+Warning: NYT crossword puzzle spoilers
 ![NYT Crossword puzzle Jan 3 2017](/assets/images/crossword/nyt-jan-3.png)
 
 _Daily NYT puzzle for Jan 3, 2017_
