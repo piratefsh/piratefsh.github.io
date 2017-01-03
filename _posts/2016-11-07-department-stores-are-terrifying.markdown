@@ -1,5 +1,5 @@
 ---
-title: "Part 2: Sales assistants at department stores are terrifying"
+title: "Perfume Series Part 2: Sales assistants at department stores are terrifying"
 layout: post
 ---
 

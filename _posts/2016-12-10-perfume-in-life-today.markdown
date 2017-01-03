@@ -1,5 +1,5 @@
 ---
-title: "Part 6: Perfume in my life today"
+title: "Perfume Series Part 6: Perfume in my life today"
 layout: post
 ---
 

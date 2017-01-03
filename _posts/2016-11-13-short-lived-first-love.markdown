@@ -1,5 +1,5 @@
 ---
-title: "Part 3: A short-lived first love"
+title: "Perfume Series Part 3: A short-lived first love"
 layout: post
 ---
 

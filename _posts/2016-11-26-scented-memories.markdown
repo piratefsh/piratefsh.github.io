@@ -1,5 +1,5 @@
 ---
-title: "Part 4: Scented memories of my family"
+title: "Perfume Series Part 4: Scented memories of my family"
 layout: post
 ---
 

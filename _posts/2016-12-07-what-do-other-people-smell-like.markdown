@@ -1,5 +1,5 @@
 ---
-title: "Part 5: What do other people smell like"
+title: "Perfume Series Part 5: What do other people smell like"
 layout: post
 ---
 
