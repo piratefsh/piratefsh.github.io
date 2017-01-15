@@ -1,0 +1,26 @@
+---
+layout: page
+title: Talks
+permalink: /talks/
+---
+
+A collection of public talks I have given recently. I'm always open to speaking opportunities expecially on JavaScript-related topics. 
+
+### Make Art with JavaScript!
+EmpireJS 2016 in New York City
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HiCK8e1ElRQ" frameborder="0" allowfullscreen></iframe>
+
+### Plants are Recursive!!: Using L-Systems to Generate Realistic Weeds
+!!Con 2016 in New York City
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0eXg4B1feOY" frameborder="0" allowfullscreen></iframe>
+
+### Debugging JavaScript without console.log
+talk.js in Singapore
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1hhqxFYBhcs" frameborder="0" allowfullscreen></iframe>
+
+### Exploring the Beauty of Algorithms with Generative Art
+FOSSAsia 2016 in Singapore
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1bPsh1mFUI" frameborder="0" allowfullscreen></iframe>
+
+
+
