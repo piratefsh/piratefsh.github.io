@@ -14,6 +14,10 @@ EmpireJS 2016 in New York City
 !!Con 2016 in New York City
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0eXg4B1feOY" frameborder="0" allowfullscreen></iframe>
 
+### Motion Detection in your browser
+talk.js in Singapore
+<iframe src="https://player.vimeo.com/video/162850944" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ### Debugging JavaScript without console.log
 talk.js in Singapore
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1hhqxFYBhcs" frameborder="0" allowfullscreen></iframe>
