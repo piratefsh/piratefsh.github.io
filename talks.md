@@ -8,6 +8,7 @@ A collection of public talks I have given recently. I'm always open to speaking 
 
 ### What Frontend Web Engineers Don't Tell You
 (an introduction to frontend web engineering)
+
 Viki x Women Who Code - Web Development Talks 2017
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf23AJK2QRo" frameborder="0" allowfullscreen></iframe>
 
