@@ -6,6 +6,11 @@ permalink: /talks/
 
 A collection of public talks I have given recently. I'm always open to speaking opportunities expecially on JavaScript-related topics. 
 
+### What Frontend Web Engineers Don't Tell You
+(an introduction to frontend web engineering)
+Viki x Women Who Code - Web Development Talks 2017
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wf23AJK2QRo" frameborder="0" allowfullscreen></iframe>
+
 ### Make Art with JavaScript!
 EmpireJS 2016 in New York City
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HiCK8e1ElRQ" frameborder="0" allowfullscreen></iframe>
