@@ -3,9 +3,10 @@ title: "Daily Learnings: How Children Fail, vintage vibrators and distributed da
 layout: post
 ---
 
-__Introduction:__ I am starting a daily log of interesting things I have learned in a day. I just spent a week reunited with alumni of the [Recurse Center](https://recurse.com), an endlessly curious and excited community of programmers and learned so many interesting things that are worth sharing.
+I am starting a daily log of interesting things I have learned in a day. I just spent a week reunited with alumni of the [Recurse Center](https://recurse.com), an endlessly curious and excited community of programmers and learned so many interesting things that are worth sharing.
 
-* __How Children Fail by John Holt__ [(Amazon)](https://www.amazon.com/dp/B018P2AB94/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). Holt writes about how the school system does no justice to children as learners. 
+## How Children Fail by John Holt
+[(Amazon)](https://www.amazon.com/dp/B018P2AB94/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). Holt writes about how the school system does no justice to children as learners. 
 
   Holt writes about several recurring characters, one of which resonated with me. Choice quotes on Emily:
 
@@ -25,7 +26,9 @@ __Introduction:__ I am starting a daily log of interesting things I have learned
   __I learned this from__: Holt was mentioned as an inspiration for the learning environment RC hopes to create [in this blog post](https://www.recurse.com/blog/113-join-rc-and-help-build-a-better-place-to-learn):
 
 
-* __CAP Theorem__ [(Wikipedia)](https://www.wikiwand.com/en/CAP_theorem). In a distributed network of data stores, it is impossible to guarantee all three of the following (i.e. choose two, sacrifice one):
+## CAP Theorem
+
+[(Wikipedia)](https://www.wikiwand.com/en/CAP_theorem). In a distributed network of data stores, it is impossible to guarantee all three of the following (i.e. choose two, sacrifice one):
     - Consistency: all reads will get the most recent write, otherwise throw an error
     - Availability: every read request gets a non-error response (may not be the most recent write)
     - (Network) Partition tolerance: the system works even when a network may not be fully connected due to whatever reason (e.g. subnet with nodes A and B are connected to subnet C and D. A partition occurs when say the switch between the two subnets go down and therefore A and B cannot communicate with C and D).
@@ -33,15 +36,18 @@ __Introduction:__ I am starting a daily log of interesting things I have learned
 
   __I learned this from:__ Cory Dominguez
 
-* __Vintage Vibrators__ as seen at the [Antique Vibrators Museum](http://antiquevibratormuseum.com/) in San Francisco. Well-known electronic consumer brands like Sears, Hamilton Beach and Oster used to make vibrators marketed as massagers to cure hysteria.
-    ![Hamilton Beach vibrator from 1900s](/assets/images/learnings/hamilton-beach-vibe.jpg)
+## Vintage Vibrators
 
-    _Hamilton Beach vibrator from 1902_
+As seen at the [Antique Vibrators Museum](http://antiquevibratormuseum.com/) in San Francisco. Well-known electronic consumer brands like Sears, Hamilton Beach and Oster used to make vibrators marketed as massagers to cure hysteria.
 
-    ![Old school Hitachi Massager](/assets/images/learnings/hitachi-vibe.jpg)
+![Hamilton Beach vibrator from 1900s](/assets/images/learnings/hamilton-beach-vibe.jpg)
 
-    _Old school Hitachi Massager, which is still around today but modernized. The Hitachi is the #1 all time favorite item at Good Vibrations_
+_Hamilton Beach vibrator from 1902_
 
-    [Good Vibrations (NSFW link)](http://www.goodvibes.com/) in the Bay Area is an all around amazing sex-positive, female-owned and staffed store.
+![Old school Hitachi Massager](/assets/images/learnings/hitachi-vibe.jpg)
 
-    __I learned this from__: wandering around San Francisco 2 years ago and rediscovering Good Vibrations on this trip.
+_Old school Hitachi Massager, which is still around today but modernized. The Hitachi is the #1 all time favorite item at Good Vibrations_
+
+[Good Vibrations (NSFW link)](http://www.goodvibes.com/) in the Bay Area is an all around amazing sex-positive, female-owned and staffed store.
+
+__I learned this from__: wandering around San Francisco 2 years ago and rediscovering Good Vibrations on this trip.
