@@ -10,6 +10,7 @@ _Painting seen at Cafe Frascatti, San Jose_
 I finally sat down and read up on [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers). Workers are used to run async processes. You can use them for anything you want run in the background. I was interested in using them to cache assets so your web app can still work even when offline. Workers can cache assets when your app is loaded. Then, you can set them up to intercept network requests by listening to a `fetch` event and returning the cached asset if the network is not available.
 
 Useful guides for enabling offline caching with Service Workers:
+
 * [Using Service Workers on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 * [Progressive Web Apps with Webpack](http://michalzalecki.com/progressive-web-apps-with-webpack/) - particularly useful if you have a Webpack setup, especially when dealing with hashed asset names.
 
