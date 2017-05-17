@@ -14,8 +14,6 @@ Useful guides for enabling offline caching with Service Workers:
 * [Using Service Workers on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 * [Progressive Web Apps with Webpack](http://michalzalecki.com/progressive-web-apps-with-webpack/) - particularly useful if you have a Webpack setup, especially when dealing with hashed asset names.
 
-I got it working for this small [kopi name generator](https://piratefsh.github.io/kopi-teh-namer/public/) app.
-
 ## Cool spaces in San Jose
 Spent the day wandering downtown. Hasn't changed much since I was here four years ago, still very chill yet with character. Feels like coming home.
 
