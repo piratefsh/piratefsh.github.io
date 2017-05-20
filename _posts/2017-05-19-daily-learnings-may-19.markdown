@@ -6,7 +6,9 @@ layout: post
 I spent most of the past 3 days at Google I/O, which was a lot of information overload. I could talk about what happened there, but most tech news sites are already doing a good job at it, so I'm just gonna mention random things of particular interest.
 
 ## Vint Cerf
-[Vint Cerf](https://www.wikiwand.com/en/Vint_Cerf) was an instrumental figure in the first commercial email service. Apparently a motivation for him to work on email was to be able to communicate reliably with his wife who was hard of hearing. This was mentioned at one of the talks at Google I/O on accessiblity (embedded below). I couldn't find an exact source verifying this, but it seems like Cerf was aware of [needs of the hard of hearing](https://www.verywell.com/people-vinton-cerf-1046180) and sees the Internet as [a great equalizer for the hearing and deaf](https://partners.nytimes.com/library/cyber/week/021398deaf.html).
+[Vint Cerf](https://www.wikiwand.com/en/Vint_Cerf) was an instrumental figure in the first commercial email service. Apparently a motivation for him to work on email was to be able to communicate reliably with his wife who was hard of hearing. This was mentioned at one of the talks at Google I/O on accessiblity (embedded below). I couldn't find an exact source verifying this, but it seems like Cerf was also hard of hearing and aware of [needs of the hard of hearing](https://www.verywell.com/people-vinton-cerf-1046180) and sees the Internet as [a great equalizer for the hearing and deaf](https://partners.nytimes.com/library/cyber/week/021398deaf.html).
+
+It's interesting to know that one of the most used tools today was born out of accessiblity needs.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38fbB8wCPzg" frameborder="0" allowfullscreen></iframe>
 
