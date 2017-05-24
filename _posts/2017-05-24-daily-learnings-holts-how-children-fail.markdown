@@ -1,9 +1,10 @@
 ---
-title: 'Daily Learnings: Corner of heart-to-hearts and Holt's "How Children Fail"'
+title: 'Daily Learnings: Corner of heart-to-hearts and How Children Fail'
 layout: post
 ---
 
 ![Les valeurs personnelles by René Magritte](http://i.imgur.com/Sau7aDD.jpg)
+
 _Serendipituous encounter of Les valeurs personnelles by René Magritte at SF MoMA. On the plague read "Would you like someome who can turn night into day? Would you like to be sure that desired are often stuck by lightning? Would you like to walk through a transparent door? Would you like poetic order from chaos? And fire, wouldn't you like to control dire, and gravity and air and the stars? Would you like someone who could make things seem what they really are? Then you will like René Magritte"
 
 ## Corner of heart-to-hearts
@@ -18,7 +19,7 @@ _card suggestions_
 ![original page on the corner](http://i.imgur.com/sRcr5EA.jpg)
 _original page on the corner of heart-to-hearts_
 
-h/t: Andre T. Taken from DSM: The Asian American Edition
+h/t: Andre T. Taken from DSM: The Asian American Edition.
 
 ## Notes on "How Children Fail" by John Holt
 It's been an interesting read, and I can relate to a lot of the behavior of children Holt describes, having once been very much there as a child in school and also as an adult now.
