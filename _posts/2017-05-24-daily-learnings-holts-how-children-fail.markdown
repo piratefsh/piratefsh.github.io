@@ -4,17 +4,21 @@ layout: post
 ---
 
 ![Les valeurs personnelles by René Magritte](http://i.imgur.com/Sau7aDD.jpg)
+_Serendipituous encounter of Les valeurs personnelles by René Magritte at SF MoMA._
 
-_Serendipituous encounter of Les valeurs personnelles by René Magritte at SF MoMA. On the plague read "Would you like someome who can turn night into day? Would you like to be sure that desired are often stuck by lightning? Would you like to walk through a transparent door? Would you like poetic order from chaos? And fire, wouldn't you like to control dire, and gravity and air and the stars? Would you like someone who could make things seem what they really are? Then you will like René Magritte"
+
+## Les valeurs personnelles by René Magritte
+On the plague beside the painting read "Would you like someome who can turn night into day? Would you like to be sure that desired are often stuck by lightning? Would you like to walk through a transparent door? Would you like poetic order from chaos? And fire, wouldn't you like to control dire, and gravity and air and the stars? Would you like someone who could make things seem what they really are? Then you will like René Magritte"
 
 ## Corner of heart-to-hearts
 A party game for those who would like some intimacy at parties. The most meaningful interactions I have had at large gatherings are the one-to-ones.
-
+<blockquote>
   Two people sit in a cozy corner of a party. If they have a candle, they may light it. They have a set of cards, and each card has a single word, such as "loss", "fragility", or "dream." One player randomly draws a card, and spurred by the word, shares a personal story, memory, or experience. They may explore the word as they wish. The other person listens closely and, when the speaker is done talking, asks questions and offers reactions. Then it's the listener's turn to share. The two people chat until conversation trails off. Then they return to the party while reflecting on living in a world where they meet people, share something meaningful, then part ways, sometimes for good.
+</blockquote>
 
-![corner cards part 1](http://i.imgur.com/b5mWzHe.jpg)
-![corner cards part 2](http://i.imgur.com/DRiLDH2.jpg)
-_card suggestions_
+<img alt="corner cards part 1" style="width: 350px; display: inline-block" src="http://i.imgur.com/b5mWzHe.jpg"><img alt="corner cards part 2" style="width: 350px; display: inline-block" src="http://i.imgur.com/DRiLDH2.jpg">
+
+_card suggestions for the corner of heart-to-hearts_
 
 ![original page on the corner](http://i.imgur.com/sRcr5EA.jpg)
 _original page on the corner of heart-to-hearts_
