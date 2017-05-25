@@ -7,7 +7,7 @@ layout: post
 _Serendipituous encounter of Les valeurs personnelles by René Magritte at SF MoMA._
 
 ## Les valeurs personnelles by René Magritte
-On the plague beside the painting read "Would you like someome who can turn night into day? Would you like to be sure that desired are often stuck by lightning? Would you like to walk through a transparent door? Would you like poetic order from chaos? And fire, wouldn't you like to control fire, and gravity and air and the stars? Would you like someone who could make things seem what they really are? Then you will like René Magritte"
+On the plaque beside the painting read "Would you like someome who can turn night into day? Would you like to be sure that desired are often stuck by lightning? Would you like to walk through a transparent door? Would you like poetic order from chaos? And fire, wouldn't you like to control fire, and gravity and air and the stars? Would you like someone who could make things seem what they really are? Then you will like René Magritte"
 
 ## Corner of heart-to-hearts
 A party game for those who would like some intimacy at parties. The most meaningful interactions I have had at large gatherings are the one-to-ones.
