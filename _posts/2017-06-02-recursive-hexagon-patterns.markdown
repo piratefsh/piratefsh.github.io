@@ -2,7 +2,7 @@
 title: Recursive hexagon patterns
 layout: post
 ---
-![hexagons tesselations](http://i.imgur.com/ZUbg18j.png)
+![hexagons tesselations](http://i.imgur.com/UGEUJQW.png)
 Hexagons can be replaced with 7 smaller hexagons, which in turn can be replaced by even smaller hexagons. Style 1.
 
 ![hexagons tesselations](http://i.imgur.com/paWQIxO.png)
