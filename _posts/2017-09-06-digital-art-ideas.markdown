@@ -3,6 +3,8 @@ title: bad digital art ideas
 layout: post
 ---
 
+this is a growing list.
+
 * invite a stranger to browse your Google Photos archive. while you watch silently.
 
 * [HTTP status codes](https://www.wikiwand.com/en/List_of_HTTP_status_codes) as writing prompts:
