@@ -25,3 +25,5 @@ Materials use range from ink to pastels to watercolor to digital art. I realized
 * **2014**: Lost a lot of momentum when I started working full time at a job I did not love.
 * **2015 - 2016**: I did very little art during this time. Somehow, this makes me really sad. In a way I lost an important part of who I was.
 * **2017**: I'm making a comeback. [Inktober 2017](http://mrjakeparker.com/inktober) has been a good start.
+
+<3
