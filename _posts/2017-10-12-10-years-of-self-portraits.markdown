@@ -3,7 +3,7 @@ title: "10 Years of Self-Portraits"
 layout: post
 ---
 
-![Self portrait 2017](/assets/images/art/sp-2017.png)
+![Self portrait 2017](/assets/images/art/sp-2017.jpg)
 
 _Self portrait in 2017._
 
