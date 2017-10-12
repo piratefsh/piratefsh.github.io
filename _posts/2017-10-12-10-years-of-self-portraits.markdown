@@ -9,7 +9,6 @@ _Self portrait in 2017._
 
 ---
 
-
 I've been posting my art online for 10 years now, starting with Deviantart. I dug through all of my art accounts to assemble this collection of self-portraits posted since then.
 
 ![10 years of self portraits](/assets/images/art/10-year-retro.png)
