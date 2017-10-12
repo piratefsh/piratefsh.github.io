@@ -1,5 +1,5 @@
 ---
-title: "10 Years of Self-portraits"
+title: "10 Years of Self-Portraits"
 layout: post
 ---
 
