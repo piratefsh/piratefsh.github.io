@@ -13,7 +13,7 @@ I've been posting my art online for 10 years now, starting with Deviantart. I du
 
 ![10 years of self portraits](/assets/images/art/10-year-retro.png)
 
-Materials use range from ink to pastels to watercolor to digital art. I realized this is probably not a good representation of my art in general, but interesting nonetheless. Looking at it, there's isn't a clear sense of progression
+Materials use range from ink to pastels to watercolor to digital art. I realized this is probably not a good representation of my art in general, but interesting nonetheless. Looking at it, there's isn't a clear sense of progression or pattern.
 
 * **2003-2007**: I was learning how to draw, very inspired by the Japanese manga style.
 * **2007**: Still very manga-inspired. Started digital art. Lots of dodging and burning in Phototshop. Graduated secondary school and wanted to go to art school. All I did in my free time was draw.
