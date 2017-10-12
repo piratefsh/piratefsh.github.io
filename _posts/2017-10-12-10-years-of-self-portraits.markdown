@@ -5,7 +5,9 @@ layout: post
 
 ![Self portrait 2017](/assets/images/art/sp-2017.png)
 
-__Self portrait in 2017.__
+_Self portrait in 2017._
+
+---
 
 
 I've been posting my art online for 10 years now, starting with Deviantart. I dug through all of my art accounts to assemble this collection of self-portraits posted since then.
