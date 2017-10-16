@@ -16,3 +16,6 @@ this is a growing list.
     * 410 GONE
     * and of course, 418 I'M A TEAPOT
 
+* print your entire search engine search history.You can export Google search data [here](https://takeout.google.com/settings/takeout?continue=https%3A%2F%2Fmyactivity.google.com%2Fmore-activity%3Futm_campaign%3Dcontinue). Print each item onto a A3 sheet of paper with the search result. Stack them face down in the middle of the room. invite visitors to take one.
+
+![screenshot of downloading an archive of Chrome data on takeout.google.com](https://i.imgur.com/po8TbWU.png)
