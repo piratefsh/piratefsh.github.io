@@ -4,11 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-Hi! I'm Sher Minn. During the day I'm front-end web developer. By night, I tinker around with generative art. I've worked at various tech companies in industries ranging from jobs portals to video streaming. I work mostly with JavaScript.
+Hi! I'm Sher Minn. During the day I'm front-end web developer. By night, I teach programming and make comics. I work mostly with JavaScript at in industries ranging from jobs portals to video streaming.
 
 I am currently interested in generative art and tiling theory. I have explored WebRTC, data visualization, subway station data, and image processing in the past. Sometimes I solve [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) challenges.
-
-I also enjoy teaching coding and making comics!
 
 
 ## Projects
@@ -69,5 +67,6 @@ Webscraper to download pdf pages from Exact Editions magazines. Using CasperJS a
 ## Articles
 * __[Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)__ - A primer on image processing from my time at the Recurse Center.
 
+---
 
-I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript, CSS or web design. Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) to get the conversation started :)
+I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript. Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) to get the conversation started :)
