@@ -4,20 +4,20 @@ title: Projects
 permalink: /projects/
 ---
 
-Hi! I'm Sher Minn. During the day I'm front-end web developer. By night, I teach programming and make comics. I work mostly with JavaScript at in industries ranging from jobs portals to video streaming.
+Hi! I'm Sher Minn. During the day I'm front-end web developer. By night, I teach programming and make comics. I work mostly with JavaScript.
 
-I am currently interested in generative art and tiling theory. I have explored WebRTC, data visualization, subway station data, and image processing in the past. Sometimes I solve [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) challenges.
+I am currently interested in generative art and tiling theory. In the past, I have explored WebRTC, data visualization, subway station data, and image processing. Sometimes I solve [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) challenges.
 
 
 ## Projects
 
 ### __[How to Kopi](https://piratefsh.github.io/kopi-teh-namer/public/)__
 
-A webapp to help you order coffee or tea in local Malaysian/Singaporean coffeshops.
+A webapp to help you order coffee or tea in local Malaysian/Singaporean coffeshops. Built on ES6 JavaScript, React and Webpack.
 
 ### __[Motion Detection in the browser](https://github.com/piratefsh/js-motion-detector)__ 
 
-A simple motion detection library in JavaScript that uses the computer's webcam.
+A simple motion detection library in JavaScript that uses the computer's webcam. Vanilla JavaScript.
 
 
 ### __[NYC Subway Traffic Visualizer](http://piratefsh.github.io/mta-maps/public/)__
