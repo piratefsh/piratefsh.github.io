@@ -4,14 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-Hi! I'm Sher Minn. During the day I'm front-end web developer. By night, I tinker around with stuff with Python. I've worked at various startups and freelance projects in industries ranging from jobs portals to payment solutions working mostly with AngularJS and a focus on UI/UX design.
+Hi! I'm Sher Minn. During the day I'm front-end web developer. By night, I teach programming and make comics. I work mostly with JavaScript.
 
-I've been exploring WebRTC, data visualization, subway station data, and image processing. My first language was Java but I am now mostly bilingual in Javascript and Python. Sometimes I solve [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) challenges.
-
-I also enjoy teaching coding, sci-fi and surrealist novels, running, and art!
+I am currently interested in generative art and tiling theory. In the past, I have explored WebRTC, data visualization, subway station data, and image processing. Sometimes I solve [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) challenges.
 
 
 ## Projects
+
+### __[How to Kopi](https://piratefsh.github.io/kopi-teh-namer/public/)__
+
+A webapp to help you order coffee or tea in local Malaysian/Singaporean coffeshops. Built on ES6 JavaScript, React and Webpack.
+
+### __[Motion Detection in the browser](https://github.com/piratefsh/js-motion-detector)__ 
+
+A simple motion detection library in JavaScript that uses the computer's webcam. Vanilla JavaScript.
+
 
 ### __[NYC Subway Traffic Visualizer](http://piratefsh.github.io/mta-maps/public/)__
 
@@ -57,14 +64,9 @@ A project mapping cafes in Malaysia. Built on Angular and Bootstrap. <a href="ht
 
 Webscraper to download pdf pages from Exact Editions magazines. Using CasperJS and PhantomJs. <a href="https://github.com/piratefsh/exactedition-issue-scaper">Github repo</a>.
 
-## Websites
-* __[Code Equality](http://codeequality.org)__ - <small>Website for a coding education non-profit I help run. Built on Jekyll and Bootstrap.</small>
+## Articles
+* __[Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)__ - A primer on image processing from my time at the Recurse Center.
 
-* __[Fasspay](http://fasspay.com)__ - <small>Corporate site for a mobile payments company. Built Wordpress theme from scratch with SASS, Susy and Breakpoint for responsiveness. Development work only. Worked on [site optimization](/projects/2015/01/23/site-optimizations.html)</small>
+---
 
-* __[Creative Tech Camp](http://creativetechcamp.com)__ - <small>Website for a coding education for children. Built on Jekyll and Bootstrap.</small>
-
-* __[Urbean Cafe](http://urbeankl.github.io/)__ - <small>Website for a local coffeehouse and restaurant. Built on Jekyll.</small>
-
-
-I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript, CSS or web design. Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) to get the conversation started :)
+I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript. Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) to get the conversation started :)
