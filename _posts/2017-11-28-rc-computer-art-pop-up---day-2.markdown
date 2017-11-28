@@ -24,18 +24,25 @@ In addition to similar parametric equations used in the video, I made the lines 
 
 Here's an example of patterns drawn from parametric equations.
 Here's an example of patterns drawn from parametric equations.
-![starting point 1](/assets/images/genart/02-parametric/heart.png)
+![step 1](/assets/images/genart/02-parametric/heart.png)
 
 ### Step 2
 Then, I added a fill to the curve, and made the distance between curves small enough that it looks like a gradient.
 
 Here's an example of patterns drawn with some fill.
-![starting point 2](/assets/images/genart/02-parametric/folded-circle.png)
 
-## #Step 3
+![step 2](/assets/images/genart/02-parametric/folded-circle.png)
+
+### Step 3
 I then added customizable color and also multiple colors. I also removed the stroke lines to go for a smoother gradient look, but you can add them back with the controls, if you'd like. If you look at the yellow and orange bits, you'll notice that it belongs to the same parametric curve but the fill shifts from yellow to orange in a gradient.
+
+![step 3](/assets/images/genart/02-parametric/colored.png)
+
+Later on, I added a way to scale the amount of colors so there will be more blue and teal, followed by yellow/orange and white with the least amount of presence.
 
 ### Code
 [Github repo](https://github.com/piratefsh/p5js-art/tree/parametric-equations)
+
+---
 
 I was supposed to play with color gradients today but I got distracted. Jonathan Dagan shared a the [Recode Project](http://recodeproject.com/), repository of retro computer art with lots of stuff from the 70s. They're really cool and I want to play with recreating some of them tomorrow.
