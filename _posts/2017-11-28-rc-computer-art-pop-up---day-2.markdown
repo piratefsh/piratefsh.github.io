@@ -13,6 +13,10 @@ Last evening, I played with parametric equations from this excellent video tutor
 ## Inspiration
 On the way to School of MA, I saw this ad for the iPhone X that had a really pretty wallpaper image. [Cory](https://twitter.com/corydominguez) mentioned that it looked parametric, which is coincidentally what I was playing with. I thought it'd be cool to make something generative with the same feel.
 
+![parametric gradients](/assets/images/genart/02-parametric/iphonex-ad.png)
+
+__iPhone X advert on the U8 line__
+
 ## Ta-da
 This is what I came up with. Make sure to check out the <a target="_blank" href="http://piratefsh.github.io/p5js-art/public/aurora/">full view</a> and play with the controls.
 
