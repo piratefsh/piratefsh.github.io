@@ -2,6 +2,7 @@
 title: RC Computer Art Pop-up - Day 1
 layout: post
 ---
+![starting point 2](/assets/images/genart/01-sparkle/sparkle.png)
 
 Hi friends. Today is the start of the first RC Pop-up in Berlin. The theme is 'computer art'.
 
