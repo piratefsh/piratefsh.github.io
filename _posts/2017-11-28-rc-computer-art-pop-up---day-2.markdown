@@ -23,7 +23,7 @@ This is what I came up with. Make sure to check out the <a target="_blank" href=
 In addition to similar parametric equations used in the video, I made the lines curves instead, with parametric control points.
 
 Here's an example of patterns drawn from parametric equations.
-Here's an example of patterns drawn from parametric equations.
+
 ![step 1](/assets/images/genart/02-parametric/heart.png)
 
 ### Step 2
@@ -46,3 +46,5 @@ Later on, I added a way to scale the amount of colors so there will be more blue
 ---
 
 I was supposed to play with color gradients today but I got distracted. Jonathan Dagan shared a the [Recode Project](http://recodeproject.com/), repository of retro computer art with lots of stuff from the 70s. They're really cool and I want to play with recreating some of them tomorrow.
+
+p/s: these daily posts are really quick and dirty so I don't feel the need to spend too much time on perfecting them. please excuse the mess.
