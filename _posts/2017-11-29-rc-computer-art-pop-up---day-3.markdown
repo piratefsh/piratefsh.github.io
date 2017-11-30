@@ -39,7 +39,9 @@ I'm also super fascinated by this retro computer art piece named SNEZNT (I prono
 
 _Image from Computer Arts and Graphics magazine from 1978_
 
-I'm trying to recreate it with p5.js. I got the inner skewed quadrangles to work, but th jitter effect still isn't aligned. I don't like leaving things half-finished but my brain is kind of tired so it's time to take a break. To be continued tomorrow!
+I'm trying to recreate it with p5.js. I got the inner skewed quadrangles to work, but th jitter effect still isn't aligned. I don't like leaving things half-finished but I'm also learning to be okay with sharing unfinished things because sometimes the process is interesting to watch.
+
+To be continued tomorrow!
 
 ![SNEZNT trials](/assets/images/genart/03-sneznt/trial1.png)
 
