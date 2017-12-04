@@ -1,5 +1,5 @@
 ---
-title: RC Computer Art Pop-up - Reflections
+title: RC Computer Art Pop-up - Day 6/7 Reflections
 layout: post
 ---
 
