@@ -18,3 +18,11 @@ essentially it used face and eye tracking. i'm using a library called [tracking.
 ---
 
 i just want to make silly things now.
+
+---
+
+edit: i am very tired now and this is appropriate.
+
+the opposite of above, your eyes will never be seen closed:
+<img src="/assets/images/genart/06-notlooking/nosleep.gif"/>
+<!-- <video src="/assets/images/genart/06-notlooking/nosleep.mp4" autoplay="autoplay" loop="loop"></video> -->
