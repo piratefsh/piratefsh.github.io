@@ -2,7 +2,7 @@
 title: RC Computer Art Pop-up - Day 3
 layout: post
 ---
-![SNEZNT trials](/assets/images/genart/03-sneznt/trial2.png)
+![SNEZNT trials](/assets/images/genart/03-sneznt/trial1.png)
 
 
 ### Parametric gradients

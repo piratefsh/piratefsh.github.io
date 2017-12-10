@@ -2,7 +2,7 @@
 title: RC Computer Art Pop-up - Day 4
 layout: post
 ---
-![SNEZNT aluminum foil effect](/assets/images/genart/03-sneznt/alu2.png)
+<img src="/assets/images/genart/03-sneznt/alu2.png" width="500"/>
 
 
 ### SNEZNT
@@ -13,7 +13,7 @@ Continued working on retro computer art piece named SNEZNT from [RecodeProject](
 
 Here it my take on it:
 
-<iframe width="100%" height="315" src=https://piratefsh.github.io/p5js-art/public/sneznt/ frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://piratefsh.github.io/p5js-art/public/sneznt/" frameborder="0" allowfullscreen></iframe>
 
 [code](https://github.com/piratefsh/p5js-art/tree/sneznt) | [full view](https://piratefsh.github.io/p5js-art/public/sneznt/)
 

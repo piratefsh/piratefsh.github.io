@@ -40,8 +40,9 @@ Really wishing I have time to sit down and write a more introspective blog post,
 
 To-do:
 
-* create FB event for the mini exhibition
-* make a RC <3 School of MA token
-* make poster variations and print them
+* create FB event for the mini exhibition /
+* make poster variations and print them /
+* make a RC <3 School of MA token /
+* print out descriptions /
 
 Tomorrow is my final day at the pop-up. It's going to be hard to say goodbye.

@@ -1,14 +1,15 @@
 # Site settings
 title: "Commented"
 email: sherminn.chong@gmail.com
-description: "A blog by Sher Minn. May include web development experiments, UI/UX design learnings and tea. I am currently a front-end web engineer at <a target='_blank' href='https://www.viki.com/'/>Viki</a/> in Singapore."
+description: "A blog by Sher Minn. May include web engineering experiments and generative art."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://piratefsh.github.io" # the base hostname & protocol for your site
 twitter_username: piratefsh
 github_username:  piratefsh
-
+paginate: 8
 # Build settings
 markdown: kramdown
 
 gems:
     - jekyll-feed
+    - jekyll-paginate

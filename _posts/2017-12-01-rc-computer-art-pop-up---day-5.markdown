@@ -2,10 +2,13 @@
 title: RC Computer Art Pop-up - Day 5
 layout: post
 ---
+![generative art](/assets/images/genart/04-fuzzy/fuzzy1.png)
+
+More retro computer art recreations. Impromptu pairing with Cory for this, who came up with the calculations for varying the number of lines in each cell. Most of them do not have algorithms attached, so it's a process to figure out how it's done.
+
 <iframe width="510" height="510" src="https://piratefsh.github.io/p5js-art/public/fuzzy/" frameborder="0" allowfullscreen></iframe>
 hover to interact | [code](https://github.com/piratefsh/p5js-art/tree/hiero) | [full screen](https://piratefsh.github.io/p5js-art/public/fuzzy/)
 
-More retro computer art recreations. Impromptu pairing with Cory for this, who came up with the calculations for varying the number of lines in each cell. Most of them do not have algorithms attached, so it's a process to figure out how it's done.
 
 ![generative art](/assets/images/genart/04-fuzzy/inspiration.png)
 
