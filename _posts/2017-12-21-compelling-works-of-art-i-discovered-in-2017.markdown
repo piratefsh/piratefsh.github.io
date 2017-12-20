@@ -1,5 +1,5 @@
 ---
-title: Compelling works of art I discovered in 2017
+title: Art I Loved in 2017
 layout: post
 ---
 
