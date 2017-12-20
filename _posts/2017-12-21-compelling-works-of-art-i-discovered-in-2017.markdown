@@ -7,7 +7,7 @@ Or more accurately titled, 'things that made me cry in 2017'.
 
 ### Read
 
-* __[The Husband Stitch](https://granta.com/the-husband-stitch/) by Carmen Maria Machado, 2014__ and this [accompanying article](https://electricliterature.com/what-i-dont-tell-my-students-about-the-husband-stitch-690899157394) - we give and we give, but they always want more.
+* __[The Husband Stitch](https://granta.com/the-husband-stitch/) by Carmen Maria Machado, 2014__ and this [accompanying article](https://electricliterature.com/what-i-dont-tell-my-students-about-the-husband-stitch-690899157394) - we give and we give, when will it be enough?
 
 * __[The Resident Tourist](https://www.drearyweary.com/tourist/) series by Troy Chin, 2007-2017__ - made me a) want to draw again and b) realize I can tell stories from my own experiences.
 
