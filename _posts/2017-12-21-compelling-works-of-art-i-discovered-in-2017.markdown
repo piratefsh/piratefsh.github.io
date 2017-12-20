@@ -11,7 +11,7 @@ Or more accurately titled, 'things that made me cry in 2017'.
 
 * __[The Resident Tourist](https://www.drearyweary.com/tourist/) series by Troy Chin, 2007-2017__ - made me a) want to draw again and b) realize I can tell stories from my own experiences.
 
-* __[The Door In The Kitchen](http://www.terror-town.com/stories/4) by Abby Howard, 2017__ - a terrifyingly apt metaphor for how I deal with some stressful issues.
+* __[The Door In The Kitchen](http://www.terror-town.com/stories/4) by Abby Howard, 2017__ - a terrifyingly apt metaphor for how I deal with difficult issues.
 
 * __[Fun Home](https://www.goodreads.com/book/show/26135825-fun-home) by Alison Bechdel, 2006__ - my words cannot do this tragicomic justice. incredibly moving.
 
