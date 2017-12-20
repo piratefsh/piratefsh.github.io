@@ -3,7 +3,7 @@ title: Art I Loved in 2017
 layout: post
 ---
 
-Or more accurately titled, 'things that made me cry in 2017'.
+More accurately titled, 'Art That Made Me Cry in 2017'.
 
 ### Read
 
