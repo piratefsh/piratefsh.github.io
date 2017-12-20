@@ -28,7 +28,7 @@ More accurately titled, 'Art That Made Me Cry in 2017'.
 
 * __[Untitled (Perfect Lovers)](http://www.theartstory.org/artist-gonzalez-torres-felix-artworks.htm) by Felix Gonzalez-Torres, 1987-1990__ - gave me awareness that context and history cannot be separate from a piece of work.
 
-* __[Untitled](/assets/images/learnings/beautiful1.jpg) [(Beautiful, in conjuction with Loise Lawler)](/assets/images/learnings/beautiful2.jpg), by Flex Gonzalez-Torres, 1990__ at New York MoMA - I felt like a thief taking a piece out of the museum.
+* __[Untitled](/assets/images/learnings/beautiful1.jpg) [(Beautiful, in conjuction with Loise Lawler)](/assets/images/learnings/beautiful2.jpg), by Felix Gonzalez-Torres, 1990__ at New York MoMA - I felt like a thief taking a piece out of the museum.
 
 * __Rei Kawakubo's [retrospective](https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo) at The Met, 1980-2017__ - because there is beauty in the weird and grotesque.
 
