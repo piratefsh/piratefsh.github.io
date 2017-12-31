@@ -92,11 +92,11 @@ It made me realize that maybe it's okay to tell stories from your life. It made 
 
 I used to draw so much. When did I stop? Why? I'd always known that making art gave me fulfillment nothing else can.
 
-During my 6 weeks, I spent time back home with my parents. I told them how I had tried smoking because I was so stressed out that nothing else could relax me.
+During my 6 weeks, I spent time back home with my parents. I told them how I had tried smoking because I was so stressed out that nothing else could relax me. I am not proud of myself.
 
 <img src="/assets/images/2017/crush1.jpg" alt="crush comic" width="500"/>
 
-I made a comics about said smoking. I made comics about my body image issues, unearthing difficult memories. I made comics about a crush I had. I read old journals, trying to understand why I felt the way I did back then.
+I made comics about my body image issues, unearthing difficult memories. I made comics about a crush I had. I read old journals, trying to understand why I felt the way I did back then.
 
 I developed a wrist injury from too much drawing. No, really. I injured a wrist tendon. It hurt so much that I saw a physiotherapist for it. It cost SGD100 per hour. I drew badly with my left hand for a bit.
 
