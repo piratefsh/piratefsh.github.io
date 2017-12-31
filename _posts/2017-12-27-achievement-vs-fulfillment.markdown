@@ -83,7 +83,7 @@ I received messages from friends sharing similar experiences, offering their sto
 
 I'm a private person. I avoid talking about difficult things in my life. I'm still learning how to do it in a non-blamatory and sensitive manner.
 
-I read a series of comics called The Resident Tourist by Troy Chin. It's an autobiographical comic about Troy's life upon return to Singapore after living in the US for more than a decade. He couldn't really draw but decided to make comics anyway. It's been running for 10 years and tracks his journey as a comic artist.
+I read a series of comics called The Resident Tourist by Troy Chin. It's an autobiographical comic about Troy's life upon return to Singapore after a decade of living in the US. He couldn't really draw but decided to make comics anyway. It's been running for 10 years and tracks his journey, not only as a comic artist but also as a person.
 
 It made me realize that maybe it's okay to tell stories from your life. It made me realize that I really fucking miss drawing.
 
@@ -128,7 +128,7 @@ Here's to twenty eighteen.
 
 ## Epilogue
 
-As I reread this, I feel embarassed and I am tempted to let this post die in the drafts folder. But that would defy the purpose of presenting a realistic self. I think we spend too much time obscuring our ugly parts that it becomes hard to see the full picture.
+As I reread this, I feel embarassed and I am tempted to let this post die a natural but drawn out death in the drafts folder. But that would defy the purpose of presenting a realistic self. I think we spend too much time obscuring our ugly parts that it becomes hard to see the full picture.
 
 If reading this has made you uncomfortable, I apologize. But I also invite you to consider why it is that it is discomforting to read about another person's struggles.
 
