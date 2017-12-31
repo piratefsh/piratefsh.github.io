@@ -1,128 +1,138 @@
 ---
-title: "twenty seventeen: an essay"
+title: "Twenty seventeen: an essay"
 layout: post
 ---
 
-## part 1
+Instead of talking about what I accomplished this year, I want to talk about all the things I struggled with.
 
-earlier this year was a rough time. sometime around May of this year, i came to a realization that i was deeply unhappy. i say this from a place of privilege. i had a roof over my head, a job and enough food to eat.
+## Part 1
 
-i was in a romantic relationship and had friends i could see on a regular basis.
+Earlier this year was a rough time. Sometime around May of this year, I came to a realization that I was deeply unhappy. I say this from a place of privilege. I had a roof over my head, a job and enough food to eat.
 
-i work full time as a web enginner, give talks at local tech events, co-organize a meetup, teach programming part-time, and was generally a busy person. i ran and had a regular yoga practice.
+I was in a romantic relationship and had friends I could see on a regular basis.
 
-[ how fucking good was this going to make my resume ]
+I work full time as a web enginner, give talks at local tech events, co-organize a meetup, teach programming part-time, and was generally a busy person. I ran and had a regular yoga practice.
 
-on paper that sounds great. all that makes for a lovely resume. yet, i was also deeply unhappy. i struggled for a long time trying to understand why.
+On paper that sounds great. Yet, I was also deeply unhappy. I struggled for a long time trying to understand why.
 
-part of it was due to stress. i was doing too much.
+Part of it was due to stress. I was doing too much.
 
-at one point all i did was wake up, dread the day, squeeze in some teaching material screencast recording or conduct interviews, go to work, squeeze in some exercise, head home, do more community work aka emotional labor, procrastinate on some other work because i am just too tired, stare blankly at Twitter/Insta/Youtube, try to sleep but fail to because of anxiety. rinse and repeat.
+<img src="/assets/images/2017/nngh.jpg" alt="nngh" width="480"/>
 
-[ too tired to do work, but not tired enough to force self to rest ]
+_Too tired to do work, but not tired enough to rest_
 
-everything felt empty. i would meet with friends for dinner and find that i couldn't emote. reactions felt forced. i felt like i had a responsibility to care about other people's feelings when i didn't even have enough energy to care for my own. every social interaction burnt me out.
+At one point all I did was wake up, dread the day, squeeze in some teaching material screencast recording or conduct interviews, go to work, squeeze in some exercise, head home, do more community work aka emotional labor, procrastinate on some other work because I am just too tired, stare blankly at Twitter/Insta/Youtube, try to sleep but fail to because of anxiety. Rinse and repeat.
 
-[ quick, say the right thing ]
+Everything felt empty. I would meet with friends for dinner and find that I couldn't emote. Reactions felt forced. I felt like I had a responsibility to care about other people's feelings when I didn't even have enough energy to care for my own. Every social interaction burnt me out.
 
-i grew cranky and irritable. everytime someone cut me off at the MRT, i'd silently wish them a painful death. my patience was so short that someone turning up late by 10 minutes would ruin my mood for the rest of the evening. my friendships suffered. my relationship with my then partner suffered. i was so emotionally burnt out that i couldn't envision ever making things work between us. i broke up with us.
+<img src="/assets/images/2017/doilooksadenough.png" alt="oh shit do I look sad enough" width="480"/>
 
-i'd get sad for no reason. i cried a lot, but it didn't make me feel any better. for days in a row, i'd eat cake for dinner. it didn't make me feel any better either.
+I grew cranky and irritable. Everytime someone cut me off at the MRT, I'd silently wish them a painful death. My patience was so short that someone turning up late by 10 minutes would ruin my mood for the rest of the evening. My friendships suffered. My relationship with my then partner suffered. I was so emotionally burnt out that I couldn't envision ever making things work between us. I broke up with them.
 
-i had trouble sleeping. i'd go to bed at 1am, toss around until 3am, get up and make instant noodles because i'd get hungry, finally fall asleep to wake up involuntarily at 7:30am. i was tired all the damn time.
+I'd get sad for no reason. I cried a lot, but it didn't make me feel any better. For days in a row, I'd eat cake for dinner. It didn't make me feel any better either.
 
-## part 2
+I had trouble sleeping. I'd go to bed at 1am, toss around until 3am, get up and make instant noodles because I'd get hungry. Then, I'll finally fall asleep to wake up involuntarily at 7:30am. I was consistently tired.
 
-i was also dissatisfied. all the damn time.
+## Part 2
 
-and the worst thing is, after everything is over, e.g. organized event was a success, graduated a batch of students, successfully launched an important feature at work -- i still felt like it wasn't good enough. like *i* wasn't good enough.
+I was also dissatisfied. All the damn time.
 
-here i had a list of achievements to be proud of, but they still don't feel enough. because everyone else else seems to be doing so. much. more. i *should* be doing more. i *should* be speaking at big tech conferences. i should be posting more blog posts, i should be making more cool computer art like [insert famous person on Twitter here].
+And the worst thing is, after everything is over, e.g. Organized event was a success, graduated a batch of students, successfully launched an important feature at work -- I still felt like it wasn't good enough. Like *I* wasn't good enough.
 
-i think this is the unfortunate thing about bite-sized social media. you only see the fruits of their labor, not the actual magnitude of labor done to get them there. we see too much of the good results, and not enough of all the shitty attempts and hard work that went into it.
+Here I had a list of achievements to be proud of, but they still don't feel enough. Because everyone else else seems to be doing so. Much. More. I *should* be doing more. I *should* be speaking at big tech conferences. I should be posting more blog posts, I should be making more cool computer art like [insert famous person on Twitter here].
 
-my work simply wasn't good enough. my goalposts kept moving. i felt guilty about my rest because i felt like i should be doing 'productive' things with my time.
+I think this is the unfortunate thing about bite-sized social media. We only see the fruits of their labor, not the actual magnitude of labor done to get them there. We see too much of the good results, and not enough of all the shitty attempts and hard work that went into it.
 
-[ moving goalposts ]
+My work simply wasn't good enough. My goalposts kept moving. I felt guilty about my rest because I felt like I should be doing 'productive' things with my time.
 
-which brings me to my second realization -- that achievements do not bring fulfillment. i feel like i'm stating the obvious. just because you've achieved something difficult doesn't mean that it will bring meaning to your life. life is more than just about completing difficult tasks. i think it's unfortunate that we are told that we need to do that to display competence or to gain acknowledgment.
+<img src="/assets/images/2017/movinggoalpost.png" alt=" moving goalposts" width="480"/>
 
-your resume is not representative of who you are as a person.
+Which brings me to my second realization -- that achievements do not bring fulfillment. I feel like i'm stating the obvious. Just because you've achieved something difficult doesn't mean that it will bring meaning to your life. Life is more than just about completing difficult tasks. I think it's unfortunate that we are told that we need to do that to display competence or to gain acknowledgment.
 
-[your resume != you]
+Your resume is not representative of who you are as a person.
 
-don't get me wrong. i still find it incredibly fulfilling to teach/talk/mentor when i actually do it.
+Don't get me wrong. I still find it incredibly fulfilling to teach/talk/mentor when I actually do it.
 
-but i was signing up for these things because i felt that i needed prove myself. i felt like i *needed* to do it to be considered a successful person in tech. i ended up taking on all these roles that i didn't have the energy for.
+But I was signing up for these things because I felt that I needed prove myself. I felt like I *needed* to do it to be considered a successful person in tech. I ended up taking on all these roles that I didn't have the energy for.
 
-if i could do all these things, i'd be considered well-rounded and well achieved, right?
+If I could do all these things, I'd be considered well-rounded and well achieved, right?
 
-to be honest, 16 year old me would have been proud to see how far i've gotten now. so why do i not feel the same way?
+<img src="/assets/images/2017/coolme.jpg" alt="past me would have thought me cool except for jeggings" width="500"/>
 
-[ maybe we should be doing what we actually *want* to do, not what we feel we *should* be doing ]
+To be honest, 16 year old me would have been proud to see how far i've gotten now. So why do I not feel the same way?
 
-let me take this space to say that during the rougher times, i had friends who noticed and reached out. those of you know who you are. your reaching out made a diffe
+__Maybe we should be doing what we actually *want* to do, not what we feel we *should* be doing.__
 
-### part 3
+Let me take this space to say that during the rougher times, I had friends who noticed and reached out. It's a small act that made a difference. Thank you.
 
-the one thing i learned during my time at the Recurse Center is that self-motivated learning is incredibly fulfilling. learning and making things not because you *have* to, but because you *want*.
+### Part 3
 
-so i took 6 weeks of unpaid leave off work. i told my manager that i wanted to work on personal projects. i acknowledge that i have the luxury of being able to do this.
+The one thing I learned during my time at the Recurse Center is that self-motivated learning is incredibly fulfilling. Learning and making things not because you *have* to, but because you *want*.
 
-i spent the month of November not writing a single line of code. it was great.
+So I took 6 weeks of unpaid leave off work. I told my manager that I wanted to work on personal projects. I acknowledge that I have the luxury of being able to do this.
 
-instead, i drew. mostly comics. some silly ones and some more serious ones exploring difficult memories and issues i have struggled with.
+I spent the month of November not writing a single line of code. It was great.
 
-most of them are not posted publicly and only shared with people i know.
+Instead, I drew. Mostly comics. Some silly ones and some more serious ones exploring difficult memories and issues I have struggled with.
 
-i received messages from friends sharing similar experiences, offering their stories and support. i learned new things about people i have known for years. this would have never happened if i didn't open up first.
+<img src="/assets/images/2017/bodyimage4.jpg" alt="bodyimage comic" width="500"/>
 
-[ bonding is a two way street. sometimes you have to open your door first. ]
+Most of them are not posted publicly.
 
-i'm a private person. i avoid talking about difficult things in my life. i'm still learning how to do it in a respectful and sensitive manner.
+I received messages from friends sharing similar experiences, offering their stories and support. I learned new things about people I have known for years.
 
-what changed was that i read a series of comics called The Resident Tourist by Troy Chin. it's an autobiographical comic about Troy's life upon return to Singapore after living in the US for more than a decade. he couldn't really draw but decided to make comics anyway. it's been running for 10 years and tracks his journey as a cynical comic artist. he reveals a lot about himself in it.
+I'm a private person. I avoid talking about difficult things in my life. I'm still learning how to do it in a non-blamatory and sensitive manner.
 
-it made me realize that maybe it's okay to tell stories from your life. it made me realize that i really fucking miss drawing.
+I read a series of comics called The Resident Tourist by Troy Chin. It's an autobiographical comic about Troy's life upon return to Singapore after living in the US for more than a decade. He couldn't really draw but decided to make comics anyway. It's been running for 10 years and tracks his journey as a comic artist.
 
-[ i just want to make beautiful things ]
+It made me realize that maybe it's okay to tell stories from your life. It made me realize that I really fucking miss drawing.
 
-i used to draw so much. when did i stop? why? i'd always known that making art gave me something nothing else can.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i just want to make beautiful things</p>&mdash; Sher Minn C. (@piratefsh) <a href="https://twitter.com/piratefsh/status/919884133995708416?ref_src=twsrc%5Etfw">October 16, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-during my 6 weeks, i spent time back home with my parents. i told them how i had tried smoking because i was so stressed out that nothing else could relax me.
+I used to draw so much. When did I stop? Why? I'd always known that making art gave me fulfillment nothing else can.
 
-i made a comics about said smoking. i made comics exploring my body image issues, unearthing difficult memories. i also made comics about a crush i had. i read old journals, trying to understand why i felt the way i did back in those years.
+During my 6 weeks, I spent time back home with my parents. I told them how I had tried smoking because I was so stressed out that nothing else could relax me.
 
-i developed a wrist injury from too much drawing. no, really. i injured a wrist tendon. it hurt so much that i saw a physiotherapist for it. it cost SGD100 per hour. i drew (badly) with my left hand for a bit.
+<img src="/assets/images/2017/crush1.jpg" alt="crush comic" width="500"/>
 
-i spent time in Berlin with Recurse Center friends where i saw how other people made art. being around other people who love computer art was extremely energizing. i made meaningul connections and met kindred spirits.
+I made a comics about said smoking. I made comics about my body image issues, unearthing difficult memories. I made comics about a crush I had. I read old journals, trying to understand why I felt the way I did back then.
 
-i met Rachel Uwa there, who challenged me to think about using digital art as a way to explore certain questions or emotions. i think it applies to all forms of art. i think a lot about autobiographical art now. i find a lot of them to be deeply touching.
+I developed a wrist injury from too much drawing. No, really. I injured a wrist tendon. It hurt so much that I saw a physiotherapist for it. It cost SGD100 per hour. I drew badly with my left hand for a bit.
 
-i journaled a lot. i wrote about my feelings and anxieties. i made lists. i made lists of lists.
+<img src="/assets/images/2017/lefthandcomic.jpg" alt="left hand comic" width="500"/>
 
-doing all this helped me be more aware of my emotions. i had time to slow down and to process memories that keep recurring as i try to fall asleep.
+I [spent time in Berlin](https://www.recurse.com/blog/123-rc-pop-up-two-weeks-of-collaboration-and-focused-work-on-generative-art) with Recurse Center friends where I saw how other people made art. Being around other people who love computer art was energizing. I made meaningul connections and met kindred spirits.
 
-**which is why i love it.**
+I met Rachel Uwa there, who challenged me to think about using digital art as a way to explore certain questions or emotions. I think it applies to all forms of art. I think a lot about autobiographical art now. I find a lot of them to be deeply touching.
 
-making art does not make me feel accomplished the same way all the other tech stuff i did makes me feel. my art has no productive value. it's not monetizable. it's not going to appear on my resume. it's not consequential. but it is deeply fulfilling.
+I journaled a lot. I wrote about my feelings and anxieties. I made lists. I made lists of lists.
 
-[does it always have to be about money]
+Doing all this helped me be more aware of my emotions. I had time to slow down and to process memories that keep recurring as I try to fall asleep. I started sleeping better.
 
-here's something that is an ends onto itself. i make comics because i *want* to make comics. not because i want to be a Famous Twitter/Instagram/Blogger Person. it feels good.
+Making comics does not make me feel accomplished the same way all the other tech stuff I did makes me feel. My art has no productive value. It's not monetizable. It's not going to appear on my resume. It's not consequential. But it is deeply fulfilling.
 
-[it feels liberating].
+<img src="/assets/images/2017/monetizationcomic.jpg" alt="culture of monetization" width="500"/>
 
-i feel like someone finally took a plunger to a clogged pipe.
+Here's something that is an ends onto itself. I make comics because I *want* to make comics. Not because I want to be a Famous Twitter/Instagram/Blogger Person. It feels good.
 
-## part 4
+__It feels liberating__.
 
-with all that in retrospective, i wish i had a punchy final closing statement. but i don't. 
+## Part 4
 
-all i can say is that i now know the difference between doing something because i **feel like i should** versus doing something that i **actually** want to do. i think.
+With all that in retrospective, I wish I had a punchy final closing statement. But I don't. I don't want to sound like i've figured it out because I really haven't.
 
-here's to the new year.
+All I can say is that I now know better the difference between doing because I **feel like I should** versus doing what I **actually want to do**. I think.
 
+Here's to twenty eighteen.
+
+## Epilogue
+
+As I reread this, I feel embarassed and I am tempted to let this post die in the drafts folder. But that would defy the purpose of presenting a realistic self. I think we spend too much time obscuring our ugly parts that it becomes hard to see the full picture.
+
+If reading this has made you uncomfortable, I apologize. But I also invite you to consider why it is that it is discomforting to read about another person's struggles.
+
+Thank you for reading <3
 
 
 
