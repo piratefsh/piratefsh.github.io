@@ -65,7 +65,7 @@ __Maybe we should be doing what we actually *want* to do, not what we feel we *s
 
 Let me take this space to say that during the rougher times, I had friends who noticed and reached out. It's a small act that made a difference. Thank you.
 
-### Part 3
+## Part 3
 
 The one thing I learned during my time at the Recurse Center is that self-motivated learning is incredibly fulfilling. Learning and making things not because you *have* to, but because you *want*.
 
