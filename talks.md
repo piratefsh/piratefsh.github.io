@@ -6,6 +6,12 @@ permalink: /talks/
 
 A collection of public talks I have given recently. I'm always open to speaking opportunities expecially on JavaScript-related topics. 
 
+### Recreating retro computer art!
+A brief history of computer graphics and attempts at recreating computer art from the 1950s to 1960s.
+
+EmpireJS 2018, New York City
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mjtMPM5evTc" frameborder="0" allowfullscreen></iframe>
+
 ### What Frontend Web Engineers Don't Tell You
 (an introduction to frontend web engineering)
 
