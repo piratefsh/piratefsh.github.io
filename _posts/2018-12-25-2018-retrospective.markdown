@@ -1,5 +1,5 @@
 ---
-title: "Twenty Eighteen: a retrospective"
+title: "Twenty Eighteen: a visual retrospective"
 layout: post
 ---
 
@@ -57,8 +57,13 @@ _clockwise from top left: Torus by Richard Serra at Dia:Beacon, Dan Flavin at St
 Argulably one of the most exciting tools I have had the pleasure of working with, the Axirdraw V3/A3 plotter. Something about watching a work created in the digital realm come to realization i the material world is quite delightful.
 
 <img src="/assets/images/2018/4-plotter/plotter-1.jpg" alt="" style="margin:0" width="340"/><img src="/assets/images/2018/4-plotter/plotter-3.jpg" style="vertical-align: bottom; margin:0" alt="" width="380"/><video src="/assets/images/2018/4-plotter/plotter-vid-1.mp4" alt="" style="margin:0" width="320" autoplay muted loop></video><img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="" width="400"/>
-## Struggled a bunch
 
-<img src="/assets/images/2018/5-struggs/self-portrait-2018.jpg" alt="self portrait for 2018" width="360"/>
+## Struggled a bunch
+The year wasn't without it's fair share of struggles. I make comics as a way to cope with them. Here are a few:
+
+As per my annual [tradition](/2017/10/12/10-years-of-self-portraits.html), here is my self-portrait of the year.
+<img src="/assets/images/2018/5-struggs/self-portrait-2018.jpg" alt="self portrait for 2018" width="360" class="block"/>
+
+--
 
 Unless noted, all photos were taken by me.
