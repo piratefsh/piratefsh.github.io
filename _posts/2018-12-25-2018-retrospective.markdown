@@ -22,7 +22,7 @@ But it was time to move on. And it was an exciting time.
 Brooklyn is my home now. NYC is as gritty and hectic as I remembered it, but I think I've made my home here.
 
 <!-- <img src="/assets/images/2018/1-nyc/comic-making-home.jpg" alt="home workspace in Brooklyn" width="360"/> -->
-<img src="/assets/images/2018/1-nyc/home-desk-NY.jpg" alt="home workspace in Brooklyn" width="360"/><video src="/assets/images/2018/1-nyc/room-vibes_480.mp4" alt="" width="360" autoplay muted loop></video><img src="" width="360"/>
+<img src="/assets/images/2018/1-nyc/home-desk-NY.jpg" alt="home workspace in Brooklyn" width="360"/><video src="/assets/images/2018/1-nyc/room-vibes_480-edit.mp4" alt="" width="360" autoplay muted loop></video><img src="" width="360"/>
 
 _current vibe in Brooklyn_
 
