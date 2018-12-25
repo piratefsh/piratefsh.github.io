@@ -48,7 +48,7 @@ For the curious, the maidenhair fern in question is doing quite well now, thank 
 
 Being in NYC put me in close proximity with a lot of wonderful art museums. Been thinking a lot about evoking emotion with simple forms, light and colors and of course, computer art.
 <img src="/assets/images/2018/3-art/dia-serra.jpg" alt="" width="360"/>
-<img src="/assets/images/2018/3-art/stlouis-flavin.jpg" alt="" width="360"/><video src="/assets/images/2018/3-art/whitney-vid.mp4" alt="" width="360" autoplay muted loop></video>
+<img src="/assets/images/2018/3-art/stlouis-flavin.jpg" alt="" width="360"/><video src="/assets/images/2018/3-art/whitney-vid.mp4" alt="" width="360" autoplay muted loop controls></video>
 <img src="/assets/images/2018/3-art/moma-gauri-gill.jpg" alt="" width="360"/>
 
 _clockwise from top left: Torus by Richard Serra at Dia:Beacon, Dan Flavin at St. Louis Art Museum, Reconstruction 7 by Jim Campbell at the Whitney, Projects 108 by Gauri Gill at MoMA PS1._
@@ -56,7 +56,7 @@ _clockwise from top left: Torus by Richard Serra at Dia:Beacon, Dan Flavin at St
 ## Made plotter drawings
 Argulably one of the most exciting tools I have had the pleasure of working with, the Axirdraw V3/A3 plotter. Something about watching a work created in the digital realm come to realization i the material world is quite delightful.
 
-<img src="/assets/images/2018/4-plotter/plotter-1.jpg" alt="" style="margin:0" width="340"/><img src="/assets/images/2018/4-plotter/plotter-3.jpg" style="vertical-align: bottom; margin:0" alt="" width="380"/><video src="/assets/images/2018/4-plotter/plotter-vid-1.mp4" alt="" style="margin:0" width="320" autoplay muted loop></video><img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="" width="400"/>
+<img src="/assets/images/2018/4-plotter/plotter-1.jpg" alt="" style="margin:0" width="340"/><img src="/assets/images/2018/4-plotter/plotter-3.jpg" style="vertical-align: bottom; margin:0" alt="" width="380"/><video src="/assets/images/2018/4-plotter/plotter-vid-compress-clip.mp4" alt="" style="margin:0" width="320" autoplay muted loop controls></video><img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="" width="400"/>
 
 ## Struggled a bunch
 The year wasn't without it's fair share of struggles. I make comics as a way to cope with them. Here are a few:
