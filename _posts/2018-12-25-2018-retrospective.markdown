@@ -64,6 +64,10 @@ The year wasn't without it's fair share of struggles. I make comics as a way to 
 As per my annual [tradition](/2017/10/12/10-years-of-self-portraits.html), here is my self-portrait of the year.
 <img src="/assets/images/2018/5-struggs/self-portrait-2018.jpg" alt="self portrait for 2018" width="360" class="block"/>
 
+Love,
+<img src="/assets/images/2018/5-struggs/selfie.jpg" alt="self portrait for 2018" width="360" class="block"/>
+
+
 --
 
 Unless noted, all photos were taken by me.
