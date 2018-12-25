@@ -48,7 +48,7 @@ For the curious, the maidenhair fern in question is doing quite well now, thank 
 
 Being in NYC put me in close proximity with a lot of wonderful art museums. Been thinking a lot about evoking emotion with simple forms, light and colors and of course, computer art.
 <img src="/assets/images/2018/3-art/dia-serra.jpg" alt="" width="360"/>
-<img src="/assets/images/2018/3-art/stlouis-flavin.jpg" alt="" width="360"/><video src="/assets/images/2018/3-art/whitney-vid.mp4" alt="" width="360" autoplay muted loop controls></video>
+<img src="/assets/images/2018/3-art/stlouis-flavin.jpg" alt="" width="360"/><video src="/assets/images/2018/3-art/whitney-vid-clip-compress.mp4" alt="" width="360" autoplay muted loop controls></video>
 <img src="/assets/images/2018/3-art/moma-gauri-gill.jpg" alt="" width="360"/>
 
 _clockwise from top left: Torus by Richard Serra at Dia:Beacon, Dan Flavin at St. Louis Art Museum, Reconstruction 7 by Jim Campbell at the Whitney, Projects 108 by Gauri Gill at MoMA PS1._
