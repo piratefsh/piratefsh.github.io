@@ -49,7 +49,7 @@ For the curious, the maidenhair fern in question is doing quite well now, thank 
 Being in NYC put me in close proximity with a lot of wonderful art museums. Been thinking a lot about evoking emotion with simple forms, light and colors and of course, computer art.
 
 <img src="/assets/images/2018/3-art/dia-serra.jpg" alt="" width="360"/>
-<img src="/assets/images/2018/3-art/stlouis-flavin.jpg" alt="" width="360"/><video src="/assets/images/2018/3-art/whitney_480-edit.mp4" alt="" width="360" autoplay muted loop></video>
+<img src="/assets/images/2018/3-art/stlouis-flavin.jpg" alt="" width="360"/><video src="/assets/images/2018/3-art/whitney_480-edit-clip.mp4" alt="" width="360" autoplay muted loop></video>
 <img src="/assets/images/2018/3-art/moma-gauri-gill.jpg" alt="" width="360"/>
 
 _clockwise from top left: Torus by Richard Serra at Dia:Beacon, Dan Flavin at St. Louis Art Museum, Reconstruction 7 by Jim Campbell at the Whitney, Projects 108 by Gauri Gill at MoMA PS1._
@@ -57,11 +57,16 @@ _clockwise from top left: Torus by Richard Serra at Dia:Beacon, Dan Flavin at St
 ## Made plotter drawings
 Argulably one of the most exciting tools I have had the pleasure of working with, the Axirdraw V3/A3 plotter. Something about watching a work created in the digital realm come to realization i the material world is quite delightful.
 
-<img src="/assets/images/2018/4-plotter/plotter-1.jpg" alt="" style="margin:0" width="340"/><img src="/assets/images/2018/4-plotter/plotter-3.jpg" style="vertical-align: bottom; margin:0" alt="" width="380"/><video src="/assets/images/2018/4-plotter/plotter-vid_480.mp4" alt="" style="margin:0" width="320" autoplay muted loop></video><img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="" width="400"/>
+<img src="/assets/images/2018/4-plotter/plotter-1.jpg" alt="" style="margin:0" width="340"/><img src="/assets/images/2018/4-plotter/plotter-3.jpg" style="vertical-align: bottom; margin:0" alt="" width="380"/><img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="" width="400"/><video src="/assets/images/2018/4-plotter/plotter-vid_480.mp4" alt="" style="margin:0" width="320" autoplay muted loop></video>
 
 ## Struggled a bunch
 The year wasn't without it's fair share of struggles. I make comics as a way to cope with them. Here are a few:
 
+<img src="/assets/images/2018/5-struggs/comic-struggles.jpg" alt="self portrait for 2018" width="360"/><img src="/assets/images/2018/5-struggs/comic-struggles-1.jpg" alt="self portrait for 2018" width="360"/>
+<img src="/assets/images/2018/5-struggs/comic-struggles-self-worth.jpg" alt="self portrait for 2018" width="360"/>
+<img src="/assets/images/2018/5-struggs/comic-struggles-tech.jpg" alt="self portrait for 2018" width="360"/>
+
+## Thanks for all the good times
 As per my annual [tradition](/2017/10/12/10-years-of-self-portraits.html), here is my self-portrait of the year.
 <img src="/assets/images/2018/5-struggs/self-portrait-2018.jpg" alt="self portrait for 2018" width="360" class="block"/>
 
