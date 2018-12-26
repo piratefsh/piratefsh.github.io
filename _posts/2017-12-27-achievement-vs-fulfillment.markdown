@@ -1,5 +1,5 @@
 ---
-title: "Twenty seventeen: an essay"
+title: "Twenty Seventeen: an essay"
 layout: post
 hideTimeline: true
 ---
