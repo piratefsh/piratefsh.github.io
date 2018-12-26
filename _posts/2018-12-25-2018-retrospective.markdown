@@ -20,7 +20,7 @@ Saying goodbye was bittersweet. I built a life in Singapore. I made friends that
 But it was time to move on. And it was an exciting time.
 
 <img src="/assets/images/2018/1-nyc/comic-home.jpg" alt="making a place feel like home with rituals like flowers, tea, incense and music." width="360"/>
-<img src="/assets/images/2018/1-nyc/ny-sketch-2.jpg" alt="sketch of people on a subway." width="360"/>
+<img src="/assets/images/2018/1-nyc/ny-sketch.jpg" alt="sketch of people on a subway." width="360"/>
 
 Brooklyn is my home now. NYC is as gritty and hectic as I remembered it, but I think I've made my home here. I've lived in 5 different cities over the last 5 years, which means I've moved around a lot. Every move is an opportunity to start with a blank slate. It's hard to build from scratch, but little rituals make it easy.
 
