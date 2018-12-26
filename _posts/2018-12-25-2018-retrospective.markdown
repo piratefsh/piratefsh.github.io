@@ -2,6 +2,7 @@
 title: "Twenty Eighteen: a visual retrospective"
 layout: post
 ---
+<img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="photo of various plotter drawings hung on wall" width="400"/>
 
 It's been a year since I last blogged. Here are some things I've been up to. All photos and comics are my own.
 
