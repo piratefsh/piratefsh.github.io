@@ -9,7 +9,7 @@ It's been a year since I last blogged. Here are some things I've been up to. All
 ## Moved to NYC
 I made the move from Singapore to NYC! This had been a long time coming, and it was good to be back since my Recurse Center batch. It felt like a small homecoming.
 
-<img src="/assets/images/2018/1-nyc/home-desk-SG.jpg" alt="home workspace in Singapore" width="480" class="block"/>
+<img src="/assets/images/2018/1-nyc/home-desk-singapore.jpg" alt="home workspace in Singapore" width="480" class="block"/>
 _2017 workspace in Singapore_
 
 Saying goodbye was bittersweet. I built a life in Singapore. I made friends that I miss today.
