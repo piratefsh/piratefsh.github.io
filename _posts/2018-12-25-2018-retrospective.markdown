@@ -68,12 +68,16 @@ It was interesting learning to work with SVGs. I'd been so use to canvas style d
 ## Struggled a bunch
 The year wasn't without it's fair share of struggles. I make comics as a way to cope with them. Here are a couple:
 
-<img src="/assets/images/2018/5-struggs/comic-struggles-1.jpg" alt="not good enoguh to call myself an artist, but not bad enough to ironically call sefl a bad artist." width="360"/>
+<img src="/assets/images/2018/5-struggs/comic-struggles-1.jpg" alt="not good enough to call myself an artist, but not bad enough to ironically call self a bad artist." width="360"/>
 <img src="/assets/images/2018/5-struggs/comic-struggles-tech.jpg" alt="comic about the high cost of starting a new tech project." width="360"/>
 
 I'm still figuring out how to be at peace with all the not-so-good work I'll have to produce before it starts getting good. Like with programming, I don't think there are any shortcuts to getting good at comics or drawing. It's a whole lot of practice, but intentional practice.
 
 Practicing the balance between working hard, but not too much that you burn out.
+
+<img src="/assets/images/2018/1-nyc/comic-home-in-person.jpg" alt="comic about having someone coming home and being around them makes you feel better" width="480"/>
+
+And sometimes, it just helps to have someone be there for you. Thank you, you know who you are :)
 
 ## Thank you
 For reading, and I hope you enjoyed this visual update.
