@@ -20,10 +20,9 @@ But it was time to move on. And it was an exciting time.
 
 <img src="/assets/images/2018/1-nyc/comic-home.jpg" alt="making a place feel like home with rituals like flowers, tea, incense and music." width="480"/>
 
-
 Brooklyn is my home now. NYC is as gritty and hectic as I remembered it, but I think I've made my home here. I've lived in 5 different cities over the last 5 years, which means I've moved around a lot. Every move is an opportunity to start with a blank slate. It's hard to build from scratch, but little rituals make it easy.
 
-<img src="/assets/images/2018/1-nyc/home-desk-NY.jpg" alt="home workspace in Brooklyn" width="360"/><video src="/assets/images/2018/1-nyc/room-vibes_480-edit.mp4" alt="" width="360" autoplay muted loop></video><img src="" width="360"/>
+<img src="/assets/images/2018/1-nyc/home-desk-NY.jpg" alt="home workspace in Brooklyn" width="360"/><video src="/assets/images/2018/1-nyc/room-vibes_480-edit.mp4" alt="video of my window looking out to trees" width="360" autoplay muted loop></video><img src="" width="360"/>
 
 _2018 vibes in Brooklyn_
 
@@ -60,7 +59,7 @@ Much love to all the people who brought me to these magical places.
 ## Made plotter drawings
 Argulably one of the most exciting tools I have had the pleasure of working with, the Axirdraw V3/A3 plotter. A plotter is basically a drawing machine. You can give it a SVG and a pen and let it do its thing. Something about watching a work created in the digital realm come to realization in the material world is quite delightful to watch.
 
-<img src="/assets/images/2018/4-plotter/plotter-1.jpg" alt="geometric plot with pink and black lines" style="margin:0" width="340"/><img src="/assets/images/2018/4-plotter/plotter-3.jpg" style="vertical-align: bottom; margin:0" alt="" width="380"/><img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="" width="400"/><video src="/assets/images/2018/4-plotter/plotter-vid_480.mp4" alt="" style="margin:0" width="320" autoplay muted loop></video>
+<img src="/assets/images/2018/4-plotter/plotter-1.jpg" alt="geometric plot with pink and black lines" style="margin:0" width="340"/><img src="/assets/images/2018/4-plotter/plotter-3.jpg" style="vertical-align: bottom; margin:0" alt="plotter drawing of nested geometric shapes" width="380"/><img  style="vertical-align: top; margin:0" src="/assets/images/2018/4-plotter/plotter-art-4.jpg" alt="photo of various plotter drawings hung on wall" width="400"/><video src="/assets/images/2018/4-plotter/plotter-vid_480.mp4" alt="video of a plotter drawing several curves close to one another" style="margin:0" width="320" autoplay muted loop></video>
 
 It was interesting learning to work with SVGs. I'd been so use to canvas style drawing via p5.js that it took awhile for me to think in terms of vector units. I made a [simple interface](https://github.com/piratefsh/svg-js) to output in both SVG and p5 canvas.
 
