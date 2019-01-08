@@ -55,6 +55,11 @@ _left: Boeing airplane cockpit simulations. right: Seattle-Tacoma airport simula
 
 It wasn't until later in the 1960s and 70s when more artists had access to the computer. Sometimes this happened in universities, where the computer lab would also be made available to students from other departments. A nice example of this collaboration was at the University of New Mexico, where Katherine Nash, Professor of Art and Richard Williams, Professor of Computer Engineering created the _ART 1_ programming language, which was designed to teach students to make simple computer graphics. It was designed to make programming accessible to those without a a technological background [^4]. For those of you who have heard of Processing or p5.js, maybe dabbling in generative art today, doesn't that sound familiar? _ART 1_ was the original [Processing](https://processing.org/)! Processing is a popular Java-based language used widely today to create generative art. It's rather nice to know that the idea of having an accessible programming language for non-technical folks to create art is very much relevant today. I'll explore early programming languages for graphics later in this series.
 
+<img src="/assets/images/compart-history/languages/art-1-ellipse.jpg" alt="" width="350"/>
+<img src="/assets/images/compart-history/languages/processing-ellipse.png" alt="" width="350" style="border: 1px solid grey"/>
+
+_left: A page from the ART 1 manual, detailing the parameters for drawing an ellipse [^12], right: Everything you need to know to draw an ellipse in Processing[^13]. The syntax for the latter is much more intuitive than the former._
+
 ## What's next
 I hope that sets the scene a little bit for the articles to follow. Digital computing has only been around for 70 years and already so much has changed. Just one generation ago people were programming with punch cards. I grew up in an age where personal computers were already the norm. Heck, my earliest memory of a computer was playing [Puzzle Bobble](https://www.youtube.com/watch?v=YeHVtugcyBc) on our desktop computer at home.
 
@@ -75,3 +80,5 @@ Coming next will be _Part 2: Plotters_ where I talk about the history of this de
 [^9]: Reichardt J. (1971). _The Computer in Art_ (pp. 16)
 [^10]: Casa, D. D. (2012). _PDFs of “Computer Graphics And Art”_ [digital image]. Retrieved from [https://toplap.org/pdfs-of-computer-graphics-and-art/](https://toplap.org/pdfs-of-computer-graphics-and-art/)
 [^11]: _7090 Data Processing System_ (1958). Retrieved from [https://www.ibm.com/ibm/history/exhibits/mainframe/mainframe_PP7090B.html](https://www.ibm.com/ibm/history/exhibits/mainframe/mainframe_PP7090B.html)
+[^12]: Reichardt J. (1971). _The Computer in Art_ (pp. 16)
+[^13]: _Processing ellipse() documentation__ (2018). Retrieved from [https://processing.org/reference/ellipse_.html](https://processing.org/reference/ellipse_.html)
