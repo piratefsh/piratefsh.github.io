@@ -1,6 +1,7 @@
 ---
 title: "Computer art history - Part 2: Plotters"
 layout: post
+published: false
 ---
 *plotters*.
 
