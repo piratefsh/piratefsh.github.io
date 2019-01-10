@@ -12,12 +12,12 @@ This part can be read on it's own, but for a quick introduction to the state of 
 My personal fascination with plotters comes from watching it in action. If you look up media posts on Twitter for [#plottertwitter](https://twitter.com/search?f=videos&vertical=default&q=%23plottertwitter&src=typd), you will be rewarded with many delightfully hyponotic videos of plotters in action. As of early 2019, most of the plotters featured are the Axidraw by EMSL. However, plotters have had a long history, and while their capabilities have not varied much since their start, the ways in which they are used have shifted.
 
 ## What is a plotter?
-One of the premier manufacturers of plotters back in the day was Calcomp, in Anaheim California. While researching them, I came accross one of their reference manuals [^1]. Calcomp ran from 1958 to 1999, when it closed due to lack of capital. But it seems like the company has been revived as a merger of two companies since and continues to produce large format printers and cutters.[^2] I'll be using examples of their devices to illustrate the varieties of plotters available. CalComp wasn't the only company to produce plotters in the 1906s, alongside CalComp was also Benson and Hewlett-Packard (HP).
+One of the premier manufacturers of plotters back in the day was CalComp, in Anaheim California. While researching them, I came accross one of their reference manuals [^1]. CalComp ran from 1958 to 1999, when it closed due to lack of capital. But it seems like the company has been revived as a merger of two companies since and continues to produce large format printers and cutters.[^2] I'll be using examples of their devices to illustrate the varieties of plotters available. CalComp wasn't the only company to produce plotters in the 1906s, alongside CalComp was also Benson and Hewlett-Packard (HP).
 
 <img src="/assets/images/compart-history/calcomp/calcomp-565.jpg" alt="a calcomp 565 plotter" width="480" class="block"/>
 _CalComp 565 plotter[^1]_
 
-The first type of plotter was the __mechanical plottter__. I like to think of a mechanical plotter as a drawing robot. It holds a pen and can move accross a paper surface on a XY-axis. The first Calcomp plotter, the Calcomp 565 was a __drum plotter__. To use it, you would load a roll of paper on which the machine could advance or reverse, moving on the Y-axis. The pen move across the surface of the paper and move on the X-axis. Drum printers such as the Calcomp 565 allowed continuous rolls of paper to be fed into it, allowing up to 120 feet of continous surface, which made it ideal for large or continuous diagrams.
+The first type of plotter was the __mechanical plottter__. I like to think of a mechanical plotter as a drawing robot. It holds a pen and can move accross a paper surface on a XY-axis. The first CalComp plotter, the CalComp 565 was a __drum plotter__. To use it, you would load a roll of paper on which the machine could advance or reverse, moving on the Y-axis. The pen move across the surface of the paper and move on the X-axis. Drum printers such as the CalComp 565 allowed continuous rolls of paper to be fed into it, allowing up to 120 feet of continous surface, which made it ideal for large or continuous diagrams.
 
 <video src="/assets/images/compart-history/calcomp/calcomp-565-sine.mp4" alt="CalComp 565 drawing a sine wave on paper" width="520" autoplay muted loop></video>
 _CalComp 565 drawing a sine wave [^7]_
@@ -25,7 +25,7 @@ _CalComp 565 drawing a sine wave [^7]_
 <img src="/assets/images/compart-history/calcomp/calcomp-745.png" alt="a calcomp 745 plotter" width="480" class="block"/>
 _CalComp 745 Flatbed Plotter from a catalog [^10]_
 
-Calcomp also made __flatbed plotters__. As the name suggests, the surface to be drawn on would be laid out flat. This was a preferred type of plotter for cases where you needed to view the whole piece as it is being plotted in real time, or if you needed to plot on various surfaces or paper that could not be loaded into a drum [^1]. Flatbeds also made it easy to update drawings by going over them in multiple passes, where I imagine it would be a nightmare to align if it were in a drum plotter. The Axidraw, for example, is a modern-day flatbed plotter.
+CalComp also made __flatbed plotters__. As the name suggests, the surface to be drawn on would be laid out flat. This was a preferred type of plotter for cases where you needed to view the whole piece as it is being plotted in real time, or if you needed to plot on various surfaces or paper that could not be loaded into a drum [^1]. Flatbeds also made it easy to update drawings by going over them in multiple passes, where I imagine it would be a nightmare to align if it were in a drum plotter. The Axidraw, for example, is a modern-day flatbed plotter.
 
 And then they were the __electronic or microfilm plotters__. It works in a similar way as the mechanical plotter, but instead of a pen, it uses an electron beam and instead of paper, it "draws" on microfilm. It was a little hard for me to understand how this works at first, because microfilm technology isn't as common nowadays. But the idea is that it plots an electron beam in a cathode ray tube, runs it through a camera lens system, which records these beams onto microfilm. I think of it like how a CRT display works, but it also exposes light onto film. The microfilm can then be viewed.
 
@@ -45,9 +45,9 @@ Analogous devices to the plotters that are still in use today are CNC machines, 
 Historically, plotters were made with practical applications in mind, but just like their computer counterparts, engineers and artists soon found creative applications for them.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAc4VLR6-Dg?start=41" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-_In this promotional video for Calcomp plotters in 1968, some applications that they mention are meteorology, atomic physics, medical research, oceanography, astronomy and so on._
+_In this promotional video for CalComp plotters in 1968, some applications that they mention are meteorology, atomic physics, medical research, oceanography, astronomy and so on._
 
-It didn't take long for users to realize that pen plots held a lot of artistic potential. In 1969, Calcomp held an international plotter art competition. As part of the press release, I found this quote by James Pyle, assistant to the President at CalComp,[^4]
+It didn't take long for users to realize that pen plots held a lot of artistic potential. In 1969, CalComp held an international plotter art competition. As part of the press release, I found this quote by James Pyle, assistant to the President at CalComp,[^4]
 
 <blockquote>
   <p>"Pyle is convinced that computer/plotter art will be accepted as a recognized art form, "if only because it gives a humanizing aura to machinery."</p>
@@ -57,7 +57,7 @@ I found the above quote interesting because it implied that computers at the tim
 
 <img src="/assets/images/compart-history/calcomp/krystallos.jpg" alt="Krystallos plotter drawing" width="360" class=""/>
 <img src="/assets/images/compart-history/calcomp/the snail.jpg" alt="The snail plotter drawing" width="360" class=""/>
-_Select works from an exhibition announcing the 1969 CalComp art competition [^11]_
+_Select works from an exhibition announcing the 1969 CalComp art competition [^11]. The works werer not credited, but one on the left is titled 'The Snail' and has been reproduced in other literature attributed to Kerry Strand.[^12]_
 ## Drawing with machines
 
 A defining feature of the mechanical pen plotter is the high resolution that it can draw. Some of the nicer CalComp models can draw on a resolution as fine as 0.0125mm.
@@ -76,21 +76,21 @@ Working with vector graphics only also poses several interesting limitations. Fo
 
 There are two major components to this image: the vertical lined background, and the grid of trapeziums in the background. To recreate this using my usual canvas-based drawing tools (like p5.js), the easiest way is to draw the background and to lay the foreground rectangles over it with a white fill. However, with a plotter, we need a way to tell the plotter to stop drawing those vertical lines where the rectangles exist.
 
-## Textures
-After awhile, drawing just fine lines doesn't make for very dimensional drawings.
-
-## Optical illusions
 Because plotters are really good at drawing repeated fine lines, a thing that would be tiring to do by hand, it lent itself well to creating optical art. It is also worth noting that this overlapped with a rising interest in optical art. MoMA in New York City held an opart exhibit titled _The Responsive Eye_, featuring works by Bridget Riley.
 
 An aesthetic that surfaced a lot was moire art. This can be achieved by layering two sets of fine lines and offsetting them slightly.
 
 Around the same time in the early 60s was a movement in Zagreb (now in modern day Croatia) called the _New Tendencies_.
 
-## Color
-Plotters allowed for the use multiple colors. Most other output devices of the era suchas microfilm and printers are often monotone, mostly outputs in black and white. Color often had to be added manually by hand using filters (before the days of Instagram filters). Plotters could hold up to four different pen colors and different pens could be swapped in for a variety of effects.
+<img src="/assets/images/compart-history/art/nake-matrix-multiplication.jpg" alt="Matrix multiplication by Frieder Nake" width="600" class="block"/>
+_Matrix Multiplication by Frieder Nake, 1967. This visualization of a mathematical process was plotted using a GRAPHOMAT plotter. [^14]_
 
-// todo hw franke matrix
-// todo vera molnar
+Plotters allowed for the use multiple colors. Most other output devices of the era suchas microfilm and printers are often monotone, only available in black and white. Many microfilm works with color were often achieved manually by hand using colored filters. On the other hand, plotters could hold up to four different pen colors or had holders that could hold various writing instruments.
+
+After awhile, drawing just fine lines doesn't make for very dimensional drawings. Textures could be achieved by layering multiple lines or by using different types of pens.
+
+<img src="/assets/images/compart-history/art/hertlein-the-field.jpg" alt="the field by Grace C. Herlein" width="600" class="block"/>
+_The Field by Grace C. Hertlein [^13]. Hertlein was a the editor of the Computer Graphics and Art newsletter that ran from 1976 to 1978._
 
 ## Why are plotters still so fascinating?
 
@@ -119,13 +119,16 @@ http://www.digitalvasari.com/23_mark-wilson/
 [^1]: _CalComp Software Reference Manual_ (1976). Retrieved from [http://bitsavers.informatik.uni-stuttgart.de/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf](http://bitsavers.informatik.uni-stuttgart.de/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf)
 [^10]: 745 Flatbed Plotter (n.d.) _CalComp Software Reference Manual_ (1976). [digital image]. Retrieved from [http://bitsavers.informatik.uni-stuttgart.de/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf](http://bitsavers.informatik.uni-stuttgart.de/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf)
 [^7]: Types of plotters in _CalComp Software Reference Manual_ (1976). Retrieved from [http://bitsavers.informatik.uni-stuttgart.de/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf](http://bitsavers.informatik.uni-stuttgart.de/pdf/calcomp/CalComp_Software_Reference_Manual_Oct76.pdf)
-[^2]: _About Us_ on the Calcomp Graphics Solution Website (2017). Retrieved from [http://www.calcompgs.com/About](http://www.calcompgs.com/About)
+[^2]: _About Us_ on the CalComp Graphics Solution Website (2017). Retrieved from [http://www.calcompgs.com/About](http://www.calcompgs.com/About)
 [^3]: Fig. 2, Zajac E. (1969) _RAM 13_, [Computer generated drawing]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 392)
 [^4]: Smithsonian Science Service High Resolution Exhibit Pictures. Retrieved from [https://web.archive.org/web/20060903020302/http://scienceservice.si.edu/exhibit2.htm](https://web.archive.org/web/20060903020302/http://scienceservice.si.edu/exhibit2.htm)
 [^11]: Smithsonian Science Service High Resolution Exhibit Pictures. Retrieved from [https://web.archive.org/web/20060902234956/http://scienceservice.si.edu/8small.htm](https://web.archive.org/web/20060902234956/http://scienceservice.si.edu/8small.htm)
 [^5]: Mott, E. (n.d.) _Plotter Vs. Wide Format Printer_. Retrieved from [https://smallbusiness.chron.com/plotter-vs-wide-format-printer-58737.html](https://smallbusiness.chron.com/plotter-vs-wide-format-printer-58737.html)
 [^6]: Patterson, Z. (2015) _Peripheral Vision: Bell Labs, the S-C 4020, and the Origins of Computer Art_
-[^7]: Hachtmann, P. (2007, Jun 9). _Calcomp 565 Plotter working_. Retrieved from [Youtube](https://www.youtube.com/watch?v=dSEvVxdJNIw&t=1s)
+[^7]: Hachtmann, P. (2007, Jun 9). _CalComp 565 Plotter working_. Retrieved from [Youtube](https://www.youtube.com/watch?v=dSEvVxdJNIw&t=1s)
 [^8]: Zajac, E. E. (1963). _Simulation of a Two-Gyro Gravity Gradient Attitude Control System_. Retrieved from [Youtube]('https://www.youtube.com/watch?v=RocLdMyUG-4')
-[^9]: Somma R. (n.d.) __A Calcomp 565 drum plotter__[digital image]. Retrieved from [https://www.wikiwand.com/en/Calcomp_plotter](https://www.wikiwand.com/en/Calcomp_plotter)
+[^9]: Somma R. (n.d.) __A CalComp 565 drum plotter__[digital image]. Retrieved from [https://www.wikiwand.com/en/CalComp_plotter](https://www.wikiwand.com/en/CalComp_plotter)
 [^10]:Kammerer-Luka, G. F. (1976) __Graphics Applications in the environment__ in __Computer Graphics and Art for August 1976). Retrieved from [The Recode Project](https://github.s3.amazonaws.com/downloads/matthewepler/ReCode_Project/COMPUTER_GRAPHICS_AND_ART_Aug1976.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190110T194557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=5fadb9ee4742de34ffa7585182ff21d2322e5deb1b6e286c2d6cae0b8c13527b)
+[^12]: Strand K. (1964) _Snail_, [Computer generated drawing, black ink on Mylar]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 392)
+[^13]: Hertlein G. C. (1970) _The Field_ [Computer generated drawing]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 493)
+[^14]: Nake, F. (1967) _Matrix Multiplication_ [Computer generated drawing]. From _Computer Graphics Computer Art_ by Franke H.W., 1971 (pp. 27)
