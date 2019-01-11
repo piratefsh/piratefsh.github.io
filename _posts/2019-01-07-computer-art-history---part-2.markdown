@@ -5,11 +5,11 @@ author: Sher Minn Chong
 ---
 I'm writing a series of blog posts on computer art history from the 1960s onwards. In this installment we'll talk about the __plotters__.
 
-This part can be read on it's own, but for a quick introduction to the state of technology in the era, check out [Part 1: Computer Graphics](/2019/01/07/computer-art-history-part-1.html)
+This part can be read on it's own, but for a quick introduction to the state of technology in the era, check out [Part 1: Computer Graphics](/2019/01/07/computer-art-history-part-1.html).
 
 ---
 
-My personal fascination with plotters comes from watching it in action. If you look up media posts on Twitter for [#plottertwitter](https://twitter.com/search?f=videos&vertical=default&q=%23plottertwitter&src=typd), you will be rewarded with many delightfully hyponotic videos of plotters in action. As of early 2019, most of the plotters featured are the Axidraw by EMSL. However, plotters have had a long history, and while their capabilities have not varied much since their start, the ways in which they are used have shifted.
+My personal fascination with plotters comes from watching it in action. If you look up media posts on Twitter for [#plottertwitter](https://twitter.com/search?f=videos&vertical=default&q=%23plottertwitter&src=typd), you will be rewarded with many delightfully hyponotic videos of plotters in action. As of early 2019, most of the plotters featured are the Axidraw by [Evil Mad Scientist Labs](https://www.evilmadscientist.com/). However, plotters have had a long history going back at least 60 years. While their capabilities have not varied much since their start, the ways in which they are used have shifted, most recently experiencing a re-emergence as within the generative art community.
 
 ## What is a plotter?
 One of the premier manufacturers of plotters back in the day was CalComp, in Anaheim California. While researching them, I came accross one of their reference manuals [^1]. CalComp ran from 1958 to 1999, when it closed due to lack of capital. But it seems like the company has been revived as a merger of two companies since and continues to produce large format printers and cutters.[^2] I'll be using examples of their devices to illustrate the varieties of plotters available. CalComp wasn't the only company to produce plotters in the 1906s, alongside CalComp was also Benson and Hewlett-Packard (HP).
@@ -32,12 +32,10 @@ And then they were the __electronic or microfilm plotters__. It works in a simil
 A particularly notable microfilm plotter was the SC-4020, which was a peripheral device to the IBM 7090/7094. There is a whole book written on the SC-4020 and it's use at Bell Labs in the 60s and 70s: _Peripheral Vision
 Bell Labs, the S-C 4020, and the Origins of Computer Art_ by Zabet Patterson (MITPress [link](https://mitpress.mit.edu/books/peripheral-vision)). It's a good read and captures the zeitgeist of computer graphics at the time and I'd totally recommend.
 
-The SC-4020 is a special one because it was used to make the first ever known computer animation in 1963. It was created by E.E. Zajac and it simulated the motion of a communications satellite around the earth [^6]
-
 <video src="/assets/images/compart-history/sc4020/zajac.mp4" alt="CalComp 565 drawing a sine wave on paper" width="600" autoplay muted loop></video>
-_The first known computer animation: Simulation of a Two-Gyro Gravity Gradient Attitude Control System by E. E. Zajac, 1963[^8]_
+_The first known computer animation was created by the SC-4020. It was titled "Simulation of a Two-Gyro Gravity Gradient Attitude Control System" by E. E. Zajac, 1963[^8]_
 
-The microfilm plotter has also it's special place in Bell Labs and was used in a number of creative applications in collaboration with their engineers and artists in residence. I'd recommend checking out _Peripheral Vision_ if you're interested in this.
+The microfilm plotter had a special place in Bell Labs and was used in a number of creative applications in collaboration with their engineers and artists in residence. I'd recommend checking out _Peripheral Vision_ if you're interested in this. I'll be leaving out microfilm plotters for this article as it is it's own article to be explored in a future post.
 
 Analogous devices to the plotters that are still in use today are CNC machines, laser cutters or 3D printers. Also interesting to note is that the term "plotter" is still used today to refer to large format printers, though now they work with inkjet or toner-based mechanisms.[^5]
 
@@ -53,7 +51,7 @@ It didn't take long for users to realize that pen plots held a lot of artistic p
   <p>"Pyle is convinced that computer/plotter art will be accepted as a recognized art form, "if only because it gives a humanizing aura to machinery."</p>
 </blockquote>
 
-I found the above quote interesting because it implied that computers at the time were found to be cold and inaccessible. Some 50 years on, computers are such a common fixture of everyday life and yet we continue to be fascinated by instances of computers doing "humanlike" things, e.g. robots that can talk back or make art, most notably of late this surge in AI-created art.
+I found the above quote interesting because it implied that computers at the time were found to be cold and inaccessible. Some 50 years on, computers are such a common fixture of everyday life and yet we continue to be fascinated by instances of computers doing "humanlike" things, e.g. robots that can can respond in conversation, traverse mazes, and most notably of late, this surge of interest in AI-created art.
 
 <img src="/assets/images/compart-history/calcomp/krystallos.jpg" alt="Krystallos plotter drawing" width="360" class=""/>
 <img src="/assets/images/compart-history/calcomp/the snail.jpg" alt="The snail plotter drawing" width="360" class=""/>
@@ -79,25 +77,27 @@ Working with vector graphics only also poses several interesting limitations. Fo
 
 There are two major components to this image: the vertical lined background, and the grid of trapeziums in the background. To recreate this using my usual canvas-based drawing tools (like p5.js), the easiest way is to draw the background and to lay the foreground rectangles over it with a white fill. However, with a plotter, we need a way to tell the plotter to stop drawing those vertical lines where the rectangles exist.
 
+<img src="/assets/images/compart-history/art/radovic-mechano-drawing.jpg" alt="Mechano Drawing by Zoran Radović" width="360"/>
+<img src="/assets/images/compart-history/art/good-vite-dioximoirekinesis.png" alt="Dioximoirékinesis by Irving John Good and Martine Vite" width="360"/>
+_left: Mechano Drawing by Zoran Radović demonstrates the use of fine lines to create a moiré patttern [^15]. I also want to point out that it is not immediately clear if this was a plotter drawing from the description, but from the line quality and consistency it seems likely, or if not, a similar effect would be achievable by one. right: Dioximoirékinesis by Irving John Good and Martine Vite, a kinetic sculture that overlaid two fine line patterns, creating a "pulsing figure" in the black box by way of moire effects [^18]._
+
 Because plotters are really good at drawing repeated fine lines, a thing that would be tiring to do by hand, it lent itself well to creating optical art. It is also worth noting that this overlapped with a rising interest in optical art (opart). MoMA in New York City held an opart exhibit titled _The Responsive Eye_, featuring works by Bridget Riley.
 A popular opart aesthetic that surfaced a lot was moire art. This can be achieved by layering two sets of fine lines and offsetting them slightly. I've also seen various applications of emerging patterns, such as one produced by nesting regular shapes such as triangles or squares to create patterns where the base shape is overtaken by an emerging pattern.
 
-<img src="/assets/images/compart-history/art/radovic-mechano-drawing.jpg" alt="Mechano Drawing by Zoran Radović" width="360"/>
-<img src="/assets/images/compart-history/art/good-vite-dioximoirekinesis.png" alt="Dioximoirékinesis by Irving John Good and Martine Vite" width="360"/>
-_left: Mechano Drawing by Zoran Radović demonstrates the use of fine lines to create a moiré patttern [^15]. right: Dioximoirékinesis by Irving John Good and Martine Vite, a kinetic sculture that overlaid two fine line patterns, creating a "pulsing figure" in the black box by way of moire effects [^18]._
+<img src="/assets/images/compart-history/art/nake-matrix-multiplication.jpg" alt="Matrix multiplication by Frieder Nake" width="600" class="block"/>
+_Matrix Multiplication by Frieder Nake, 1967. This visualization of a mathematical process was plotted using a GRAPHOMAT plotter [^14]._
 
-
+<img src="/assets/images/compart-history/art/wilson-skewR34.jpg" alt="SkewR34 by Mark Wilson" width="600" class="block"/>
+_SkewR34 by Mark Wilson, 1983. This piece is a little more recent, but I decided to showcase it as an example of a piece that both demonstrates the use of fine lines and multiple colors._
 <!-- Around the same time in the early 60s was a movement in Zagreb (now in modern day Croatia) called the _New Tendencies_. -->
 
-<img src="/assets/images/compart-history/art/nake-matrix-multiplication.jpg" alt="Matrix multiplication by Frieder Nake" width="600" class="block"/>
-_Matrix Multiplication by Frieder Nake, 1967. This visualization of a mathematical process was plotted using a GRAPHOMAT plotter. [^14]_
-
-Plotters allowed for the use multiple colors. Most other output devices of the era suchas microfilm and printers are often monotone, only available in black and white. Many microfilm works with color were often achieved manually by hand using colored filters. On the other hand, plotters could hold up to four different pen colors or had holders that could hold various writing instruments.
-
-After awhile, drawing just fine lines doesn't make for very dimensional drawings. Textures could be achieved by layering multiple lines or by using different types of pens.
+Plotters allowed for the use multiple colors. Most other output devices of the era suchas microfilm and printers are often monotone, only available in black and white. Many microfilm works with color were often achieved manually by hand using colored filters. On the other hand, plotters could hold up to four different pen colors or had holders that could hold various writing instruments. In addition to that, drawing just fine lines doesn't make for very dimensional drawings. Textures could be achieved by layering multiple lines or by using different types of pens.
 
 <img src="/assets/images/compart-history/art/hertlein-the-field.jpg" alt="the field by Grace C. Herlein" width="600" class="block"/>
-_The Field by Grace C. Hertlein [^13]. Hertlein was a the editor of the Computer Graphics and Art newsletter that ran from 1976 to 1978._
+_The Field by Grace C. Hertlein [^13] demonstrates the use of multiple writing instruments (including what seems like a nearly dried-out felt pen) and layers to create texture. It is also worth noting that Hertlein was a the editor of the Computer Graphics and Art newsletter that ran from 1976 to 1978.
+
+<img src="/assets/images/compart-history/art/truckenbord-9.jpg" alt="Coded Algorithmic Drawing (#9) " width="400" class="block"/>
+_Coded Algorithmic Drawing (#9) by Joan Truckenbord, 1975 as seen at the Whitney Museum of Art. Note the use of varying line density to create different shades of color. This drawing was generated with Fortran and output by a CalComp plotter. Photo mine._
 
 ## Why are plotters still so fascinating?
 
@@ -109,14 +109,12 @@ I think part of the novelty comes from the fact that our default output device i
 
 But now we have tablets, e-ink readers, phones, and so on. The need to manifest information on paper has been greatly minimized. It's easy to forget that there was once a time when there wasn't a prevalent default option.
 
+<img src="/assets/images/compart-history/art/sherminn-plotter-stained-glass.jpg" alt="the field by Grace C. Herlein" width="600" class="block"/>
+_Video is my own. The drawing being plotted is a recreation of "Stained Glass Windows", the second place winner of a computer art contest in 1963._
+
 I kind of like how plotters also offer a glimpse into the construction of its image. It paints, an image stroke by stroke, a single line at a time and it is satisfying to watch it come to fruitation. Much like how watching cooking videos are so satisfying because you get to witness the birth of a beautiful thing.
 
 Personally in this era as digital graphics are getting more and more sophisticated and complicated, there is a certain comfort in looking at something two-dimensional in black and white.
-
-https://www.youfab.info/2015/winners/plotter-drawing
-graphtec plotter
-mark wilson
-http://www.digitalvasari.com/23_mark-wilson/
 
 ---
 
@@ -133,7 +131,7 @@ http://www.digitalvasari.com/23_mark-wilson/
 [^8]: Zajac, E. E. (1963). _Simulation of a Two-Gyro Gravity Gradient Attitude Control System_. Retrieved from [Youtube]('https://www.youtube.com/watch?v=RocLdMyUG-4')
 [^9]: Somma R. (n.d.) __A CalComp 565 drum plotter__[digital image]. Retrieved from [https://www.wikiwand.com/en/CalComp_plotter](https://www.wikiwand.com/en/CalComp_plotter)
 [^10]:Kammerer-Luka, G. F. (1976) __Graphics Applications in the environment__ in __Computer Graphics and Art for August 1976). Retrieved from [The Recode Project](https://github.s3.amazonaws.com/downloads/matthewepler/ReCode_Project/COMPUTER_GRAPHICS_AND_ART_Aug1976.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190110T194557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=5fadb9ee4742de34ffa7585182ff21d2322e5deb1b6e286c2d6cae0b8c13527b)
-[^19]: Zajac, E. E. (1976) __The Cube: Theme and Variation Series__ in __Computer Graphics and Art for August 1976). Retrieved from [The Recode Project](https://github.s3.amazonaws.com/downloads/matthewepler/ReCode_Project/COMPUTER_GRAPHICS_AND_ART_Aug1976.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190110T194557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=5fadb9ee4742de34ffa7585182ff21d2322e5deb1b6e286c2d6cae0b8c13527b)
+[^19]: Zajac, E. E. (1976) _The Cube: Theme and Variation Series_ in __Computer Graphics and Art for August 1976). Retrieved from [The Recode Project](https://github.s3.amazonaws.com/downloads/matthewepler/ReCode_Project/COMPUTER_GRAPHICS_AND_ART_Aug1976.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190110T194557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=5fadb9ee4742de34ffa7585182ff21d2322e5deb1b6e286c2d6cae0b8c13527b)
 [^12]: Strand K. (1964) _Snail_, [Computer generated drawing, black ink on Mylar]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 392)
 [^13]: Hertlein G. C. (1970) _The Field_ [Computer generated drawing]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 493)
 [^15]: Radović Z. (1969) _Mechano Drawing_ [Computer generated drawing]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 359)
