@@ -14,15 +14,15 @@ My personal fascination with plotters comes from watching it in action. If you l
 ## What is a plotter?
 One of the premier manufacturers of plotters back in the day was CalComp, in Anaheim California. While researching them, I came accross one of their reference manuals [^1]. CalComp ran from 1958 to 1999, when it closed due to lack of capital. But it seems like the company has been revived as a merger of two companies since and continues to produce large format printers and cutters.[^2] I'll be using examples of their devices to illustrate the varieties of plotters available. CalComp wasn't the only company to produce plotters in the 1906s, alongside CalComp was also Benson and Hewlett-Packard (HP).
 
-<img src="/assets/images/compart-history/calcomp/calcomp-565.jpg" alt="a calcomp 565 plotter" width="480" class="block"/>
+<img src="/assets/images/compart-history/calcomp/calcomp-565.jpg" alt="a calcomp 565 plotter" width="600" class="block"/>
 _CalComp 565 plotter[^1]_
 
 The first type of plotter was the __mechanical plottter__. I like to think of a mechanical plotter as a drawing robot. It holds a pen and can move accross a paper surface on a XY-axis. The first CalComp plotter, the CalComp 565 was a __drum plotter__. To use it, you would load a roll of paper on which the machine could advance or reverse, moving on the Y-axis. The pen move across the surface of the paper and move on the X-axis. Drum printers such as the CalComp 565 allowed continuous rolls of paper to be fed into it, allowing up to 120 feet of continous surface, which made it ideal for large or continuous diagrams.
 
-<video src="/assets/images/compart-history/calcomp/calcomp-565-sine.mp4" alt="CalComp 565 drawing a sine wave on paper" width="520" autoplay muted loop></video>
+<video src="/assets/images/compart-history/calcomp/calcomp-565-sine.mp4" alt="CalComp 565 drawing a sine wave on paper" width="600" autoplay muted loop></video>
 _CalComp 565 drawing a sine wave [^7]_
 
-<img src="/assets/images/compart-history/calcomp/calcomp-745.png" alt="a calcomp 745 plotter" width="480" class="block"/>
+<img src="/assets/images/compart-history/calcomp/calcomp-745.png" alt="a calcomp 745 plotter" width="600" class="block"/>
 _CalComp 745 Flatbed Plotter from a catalog [^10]_
 
 CalComp also made __flatbed plotters__. As the name suggests, the surface to be drawn on would be laid out flat. This was a preferred type of plotter for cases where you needed to view the whole piece as it is being plotted in real time, or if you needed to plot on various surfaces or paper that could not be loaded into a drum [^1]. Flatbeds also made it easy to update drawings by going over them in multiple passes, where I imagine it would be a nightmare to align if it were in a drum plotter. The Axidraw, for example, is a modern-day flatbed plotter.
@@ -34,7 +34,7 @@ Bell Labs, the S-C 4020, and the Origins of Computer Art_ by Zabet Patterson (MI
 
 The SC-4020 is a special one because it was used to make the first ever known computer animation in 1963. It was created by E.E. Zajac and it simulated the motion of a communications satellite around the earth [^6]
 
-<video src="/assets/images/compart-history/sc4020/zajac.mp4" alt="CalComp 565 drawing a sine wave on paper" width="520" autoplay muted loop></video>
+<video src="/assets/images/compart-history/sc4020/zajac.mp4" alt="CalComp 565 drawing a sine wave on paper" width="600" autoplay muted loop></video>
 _The first known computer animation: Simulation of a Two-Gyro Gravity Gradient Attitude Control System by E. E. Zajac, 1963[^8]_
 
 The microfilm plotter has also it's special place in Bell Labs and was used in a number of creative applications in collaboration with their engineers and artists in residence. I'd recommend checking out _Peripheral Vision_ if you're interested in this.
@@ -53,34 +53,41 @@ It didn't take long for users to realize that pen plots held a lot of artistic p
   <p>"Pyle is convinced that computer/plotter art will be accepted as a recognized art form, "if only because it gives a humanizing aura to machinery."</p>
 </blockquote>
 
-I found the above quote interesting because it implied that computers at the time were found to be cold and inaccessible. We continue to be fascinated by instances of computers doing "humanlike" things, e.g. robots that can talk back or make art.
+I found the above quote interesting because it implied that computers at the time were found to be cold and inaccessible. Some 50 years on, computers are such a common fixture of everyday life and yet we continue to be fascinated by instances of computers doing "humanlike" things, e.g. robots that can talk back or make art, most notably of late this surge in AI-created art.
 
 <img src="/assets/images/compart-history/calcomp/krystallos.jpg" alt="Krystallos plotter drawing" width="360" class=""/>
 <img src="/assets/images/compart-history/calcomp/the snail.jpg" alt="The snail plotter drawing" width="360" class=""/>
 _Select works from an exhibition announcing the 1969 CalComp art competition [^11]. The works werer not credited, but one on the left is titled 'The Snail' and has been reproduced in other literature attributed to Kerry Strand.[^12]_
+
 ## Drawing with machines
 
 A defining feature of the mechanical pen plotter is the high resolution that it can draw. Some of the nicer CalComp models can draw on a resolution as fine as 0.0125mm.
 
-<video src="/assets/images/compart-history/art/axidraw-plot.mp4" alt="Axidraw V3 plotter drawing curves" width="560" autoplay muted loop controls></video>
+<video src="/assets/images/compart-history/art/axidraw-plot.mp4" alt="Axidraw V3 plotter drawing curves" width="800" autoplay muted loop controls></video>
 _The Axidraw V3 plotter at work. Video my own._
 
 Most plotter drawings of the early 60s and well into the 70s consist of black and white drawings consisting of fine lines. At first glance, this may not look very interesting or note-worthy, but there are certain features to plotter artwork that I find really compelling, beyond the fact that these were probably written in FORTRAN on punch cards.
 
 Because the plotter "prints" by moving a pen across a surface, drawings are defined as vectors, instead of raster image. This required a slightly different way to approaching a drawing meant for a screen.
 
-<img src="/assets/images/compart-history/art/ram-13.png" alt="RAM 13 by E.E. Zajac" width="480" class="block"/>
-_RAM 13 plotter drawing by E.E. Zajac, 1969_
+<img src="/assets/images/compart-history/art/zajac-ram-series.png" alt="RAM series by E.E. Zajac" width="440" class=""/>
+<img src="/assets/images/compart-history/art/ram-13.png" alt="RAM series by E.E. Zajac" width="280" class=""/>
+_two images on left: select works from The Cube: Theme and Variation Series by E.E. Zajac [^19]_
+_right: a plot of similar theme titled RAM 13 by E.E. Zajac, 1969[^3]_
 
-Working with vector graphics only also poses several interesting limitations. For example, look at this 1969 plotter piece by Edward Zajec titled _RAM 13_[^3]. The title of the work, "RAM" comes from the name of the Random Number Generator (RAM) subroutine in Fortran IV. This image was produced with a DP-1 Plotter run on an IBM 1620, likely written in FORTRAN, the programming language that shipped with it.
+Working with vector graphics only also poses several interesting limitations. For example, look the above 1969 plotter piece by Edward Zajec titled _RAM 13_[^3]. The title of the work, "RAM" comes from the name of the Random Number Generator (RAM) subroutine in Fortran IV. This image was produced with a DP-1 Plotter run on an IBM 1620, likely written in FORTRAN, the programming language that shipped with it.
 
 There are two major components to this image: the vertical lined background, and the grid of trapeziums in the background. To recreate this using my usual canvas-based drawing tools (like p5.js), the easiest way is to draw the background and to lay the foreground rectangles over it with a white fill. However, with a plotter, we need a way to tell the plotter to stop drawing those vertical lines where the rectangles exist.
 
-Because plotters are really good at drawing repeated fine lines, a thing that would be tiring to do by hand, it lent itself well to creating optical art. It is also worth noting that this overlapped with a rising interest in optical art. MoMA in New York City held an opart exhibit titled _The Responsive Eye_, featuring works by Bridget Riley.
+Because plotters are really good at drawing repeated fine lines, a thing that would be tiring to do by hand, it lent itself well to creating optical art. It is also worth noting that this overlapped with a rising interest in optical art (opart). MoMA in New York City held an opart exhibit titled _The Responsive Eye_, featuring works by Bridget Riley.
+A popular opart aesthetic that surfaced a lot was moire art. This can be achieved by layering two sets of fine lines and offsetting them slightly. I've also seen various applications of emerging patterns, such as one produced by nesting regular shapes such as triangles or squares to create patterns where the base shape is overtaken by an emerging pattern.
 
-An aesthetic that surfaced a lot was moire art. This can be achieved by layering two sets of fine lines and offsetting them slightly.
+<img src="/assets/images/compart-history/art/radovic-mechano-drawing.jpg" alt="Mechano Drawing by Zoran Radović" width="360"/>
+<img src="/assets/images/compart-history/art/good-vite-dioximoirekinesis.png" alt="Dioximoirékinesis by Irving John Good and Martine Vite" width="360"/>
+_left: Mechano Drawing by Zoran Radović demonstrates the use of fine lines to create a moiré patttern [^15]. right: Dioximoirékinesis by Irving John Good and Martine Vite, a kinetic sculture that overlaid two fine line patterns, creating a "pulsing figure" in the black box by way of moire effects [^18]._
 
-Around the same time in the early 60s was a movement in Zagreb (now in modern day Croatia) called the _New Tendencies_.
+
+<!-- Around the same time in the early 60s was a movement in Zagreb (now in modern day Croatia) called the _New Tendencies_. -->
 
 <img src="/assets/images/compart-history/art/nake-matrix-multiplication.jpg" alt="Matrix multiplication by Frieder Nake" width="600" class="block"/>
 _Matrix Multiplication by Frieder Nake, 1967. This visualization of a mathematical process was plotted using a GRAPHOMAT plotter. [^14]_
@@ -96,10 +103,7 @@ _The Field by Grace C. Hertlein [^13]. Hertlein was a the editor of the Computer
 
 Why is it that we are still fascinated by this old-school drawing robot?
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">can&#39;t get anything else done when the plotter is running. so mesmerizing to watch ahhh. <a href="https://twitter.com/hashtag/plottertwitter?src=hash&amp;ref_src=twsrc%5Etfw">#plottertwitter</a> <a href="https://t.co/9OqUPTXcuf">pic.twitter.com/9OqUPTXcuf</a></p>&mdash; Sher Minn (@piratefsh) <a href="https://twitter.com/piratefsh/status/1043702264165281793?ref_src=twsrc%5Etfw">September 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Everyone I know who has seen a plotter at work or seen videos of it have absolutely loved watching it. I'm wondering if it's just the pure novelty of it -- most of us born after the 1960s probably have not encountered a plotter in our everyday lives.
+Everyone I know who has seen a plotter at work or seen videos of it have absolutely loved watching it. I'm wondering if it's just the pure novelty of it -- most of us born after the 1960s probably have not encountered a plotter in our everyday lives. As a matter of fact, a [finalist of a creative award in 2015](https://www.youfab.info/2015/winners/plotter-drawing) featured plotter work not unlike the ones from 50 years ago.
 
 I think part of the novelty comes from the fact that our default output device is the color LCD screen and we have come to rely on other forms of output less and less. Some 15 years ago when I was still in high school, paper via printers (dot-matrix and laser) was still really my default mode of output.
 
@@ -129,6 +133,9 @@ http://www.digitalvasari.com/23_mark-wilson/
 [^8]: Zajac, E. E. (1963). _Simulation of a Two-Gyro Gravity Gradient Attitude Control System_. Retrieved from [Youtube]('https://www.youtube.com/watch?v=RocLdMyUG-4')
 [^9]: Somma R. (n.d.) __A CalComp 565 drum plotter__[digital image]. Retrieved from [https://www.wikiwand.com/en/CalComp_plotter](https://www.wikiwand.com/en/CalComp_plotter)
 [^10]:Kammerer-Luka, G. F. (1976) __Graphics Applications in the environment__ in __Computer Graphics and Art for August 1976). Retrieved from [The Recode Project](https://github.s3.amazonaws.com/downloads/matthewepler/ReCode_Project/COMPUTER_GRAPHICS_AND_ART_Aug1976.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190110T194557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=5fadb9ee4742de34ffa7585182ff21d2322e5deb1b6e286c2d6cae0b8c13527b)
+[^19]: Zajac, E. E. (1976) __The Cube: Theme and Variation Series__ in __Computer Graphics and Art for August 1976). Retrieved from [The Recode Project](https://github.s3.amazonaws.com/downloads/matthewepler/ReCode_Project/COMPUTER_GRAPHICS_AND_ART_Aug1976.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20190110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190110T194557Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=5fadb9ee4742de34ffa7585182ff21d2322e5deb1b6e286c2d6cae0b8c13527b)
 [^12]: Strand K. (1964) _Snail_, [Computer generated drawing, black ink on Mylar]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 392)
 [^13]: Hertlein G. C. (1970) _The Field_ [Computer generated drawing]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 493)
+[^15]: Radović Z. (1969) _Mechano Drawing_ [Computer generated drawing]. From _A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art_ by Margit Rosen, 2011 (pp. 359)
 [^14]: Nake, F. (1967) _Matrix Multiplication_ [Computer generated drawing]. From _Computer Graphics Computer Art_ by Franke H.W., 1971 (pp. 27)
+[^18]: Good, I. J. and Vite, M. (1968) _Dioximoirékinesis_. From _Cybernetics, Arts and Ideas_ by Reichardt, J., 1971 (pp. 106)
