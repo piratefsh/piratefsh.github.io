@@ -3,7 +3,7 @@ title: "History of Computer Art -- Part 2: Plotters"
 layout: post
 author: Sher Minn Chong
 ---
-I'm writing a series of blog posts on computer art history from the 1960s onwards. In this installment we'll talk about the __plotters__.
+I'm writing a series of blog posts on computer art history from the 1960s onwards. In this installment we'll talk about __plotters__.
 
 This part can be read on it's own, but for a quick introduction to the state of technology in the era, check out [Part 1: Computer Graphics](/2019/01/07/computer-art-history-part-1.html).
 
