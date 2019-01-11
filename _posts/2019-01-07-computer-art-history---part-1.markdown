@@ -62,6 +62,8 @@ Personally, antiquated technology is strange and fascinating at the same time, a
 
 Coming next will be _Part 2: Plotters_ where I talk about the history of this delightful drawing robot machine. You can subscribe to my [RSS feed](/feed.xml) to be updated when that goes out!
 
+[edit] Part 2: Plotters is now up! [Read here](/2019/01/07/computer-art-history-part-2.html).
+
 ---
 
 [^1]: Reichardt, J. (1971). _The Computer in Art_ (pp. 15)
