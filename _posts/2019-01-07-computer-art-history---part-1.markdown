@@ -1,6 +1,7 @@
 ---
 title: "History of Computer Art -- Part 1: Computer Graphics"
 layout: post
+author: Sher Minn Chong
 
 ---
 
