@@ -74,8 +74,8 @@ Because the plotter "prints" by moving a pen across a surface, drawings are defi
 
 <img src="/assets/images/compart-history/art/zajac-ram-series.png" alt="RAM series by E.E. Zajac" width="440" class=""/>
 <img src="/assets/images/compart-history/art/ram-13.png" alt="RAM series by E.E. Zajac" width="280" class=""/>
-_two images on left: select works from The Cube: Theme and Variation Series by E.E. Zajac [^19]_
-_right: a plot of similar theme titled RAM 13 by E.E. Zajac, 1969[^3]_
+_two images on left: select works from The Cube: Theme and Variation Series by Edward Zajec [^19]_
+_right: a plot of similar theme titled RAM 13 also by Edward Zajec, 1969[^3]_
 
 Working with vector graphics poses several interesting limitations, requiring a slightly different way to approaching a drawing meant for a screen. For example, look the above 1969 plotter piece by Edward Zajec titled _RAM 13_[^3]. The title of the work, "RAM" comes from the name of the Random Number Generator (RAM) subroutine. This image was produced with a DP-1 Plotter run on an IBM 1620, written in FORTRAN IV, the programming language that shipped with it.
 
