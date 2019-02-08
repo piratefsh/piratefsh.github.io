@@ -1,0 +1,7 @@
+- Leonardo (available free online via NYPL)
+- Computer in art by Jasia Reichardt
+- Computer art computer graphics by Herbert W. Franke
+- New Tendencies
+- Peripheral Vision
+- Computers and Automation
+- Computer Graphics and Art
