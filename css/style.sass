@@ -35,27 +35,34 @@ h1, h2, h3, h4
 
 
 a
-    color: $color-primary
+    color: darken($color-primary, 15%)
     transition: color 0.5s, background-color 0.5s, border 0.5s
     &:hover
         color: darken($color-primary, 10%)
         text-decoration: none
     &:visited
-        color: darken($color-primary, 10%)
+        color: darken($color-primary, 20%)
 
 .btn
-    border: 2px solid $color-primary
     padding: $space/2
     display: inline-block
-    &:hover
-        background-color: $color-primary
-        color: white
+    color: $color-primary
+    &.btn-default,
+    &.btn-primary
+        border: 2px solid $color-primary
+    &.btn-default
+        &:hover
+            background-color: $color-primary
+            color: white
     &.btn-primary
         background-color: $color-primary
         color: white
         &:hover
             border-color: darken($color-primary, 20%)
             background-color: darken($color-primary, 20%)
+
+a.btn
+    text-decoration: none
 
 .post-content, .post-list
     img, video
@@ -111,3 +118,6 @@ strong
 iframe
     display: block
     margin-bottom: 1em
+
+.rc-scout__link
+    color: inherit !important
