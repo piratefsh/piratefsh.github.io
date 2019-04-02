@@ -82,11 +82,13 @@ a.btn
     color: $color-primary-dark
     &:visited
         color: $color-primary-dark
+
 .site-nav
     .page-link
         color: $color-primary-dark
 
 .site-footer
+    border-top: none
     background-color: $color-secondary
     color: $body-text-color
     .footer-col-wrapper
@@ -97,18 +99,20 @@ a.btn
     a
         color: $body-text-color
         font-weight: bold
+
 .post-list
     h2 a
         color: $body-text-color
     li
         margin-bottom: 36px
+
 .post-meta
     font-family: $heading-font-family
 
 hr
     margin: $space*1.5 0
     border: none
-    border-bottom: 1px solid $color-primary
+    border-bottom: 1px solid darken($color-primary, 10%)
 
 .indented
     padding-left: $space
