@@ -2,7 +2,7 @@
 title: "History of Computer Art -- Part 3: Before computers, there was electronic art"
 layout: post
 author: Sher Minn Chong
-published: True
+published: False
 ---
 
 I'm writing a series of blog posts on computer art history from the 1950s onwards. In this installment we'll talk about __some of the earliest generative art__ made before computers.
