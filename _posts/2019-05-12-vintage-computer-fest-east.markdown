@@ -1,5 +1,5 @@
 ---
-title: Visiting a Vintage Computer Festival
+title: Falling in love with computers again at the Vintage Computer Festival East 2019
 layout: post
 ---
 <img src="/assets/images/vcf/early-modem.jpg" alt="early modem" width="500" class="block"/>
