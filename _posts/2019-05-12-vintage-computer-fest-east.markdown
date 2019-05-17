@@ -2,8 +2,9 @@
 title: Visiting a Vintage Computer Festival
 layout: post
 ---
+<img src="/assets/images/vcf/early-modem.jpg" alt="early modem" width="500" class="block"/>
+I attended the Vintage Computer Festival (VCF) East in New Jersey for the first time and it was such a compelling experience that I felt the need to write it up. So here goes! (photo above is of an early modem)
 
-I attended the Vintage Computer Festival (VCF) East in New Jersey for the first time and it was such a compelling experience that I felt the need to write it up. So here goes!
 
 This was such a wonderful experience! I went with [Tiffany Tseng](https://twitter.com/scientiffic), a New Jersey local. We were initially worried about what the crowd was like. It is not usual to be the only young women of color in a tech event, especially one focused on an earlier decade. It's with great relief that I say everyone we talked to was nice, friendly and was very excited to share their knowledge about vintage computers! Most of the exhibitors I met were engineers or hobbyists who had fond memories of using these machines in their younger years and spent a lot of time to get them working in a modern day setting.
 
