@@ -8,9 +8,10 @@ $body-font-family: Roboto, 'Helvetica', sans-serif
 $body-text-color: #404041
 
 // Colors
-$color-primary: #01cbbf
-$color-primary-light: lighten(#01cbbf, 5%)
-$color-primary-dark: darken(#01cbbf, 3%)
+$color-primary: darken(#01cbbf, 5%)
+$color-primary-light: lighten($color-primary, 5%)
+$color-primary-dark: darken($color-primary, 7%)
+$color-primary-darker: darken($color-primary, 14%)
 $color-secondary: #e2e6e6
 
 $space: 20px
@@ -35,13 +36,13 @@ h1, h2, h3, h4
 
 
 a
-    color: darken($color-primary, 15%)
+    color: $color-primary-dark
     transition: color 0.5s, background-color 0.5s, border 0.5s
     &:hover
-        color: darken($color-primary, 10%)
+        color: $color-primary
         text-decoration: none
     &:visited
-        color: darken($color-primary, 20%)
+        color: $color-primary-darker
 
 .btn
     padding: $space/2
@@ -58,8 +59,11 @@ a
         background-color: $color-primary
         color: white
         &:hover
-            border-color: darken($color-primary, 20%)
-            background-color: darken($color-primary, 20%)
+            border-color: $color-primary-darker
+            background-color: $color-primary-darker
+
+a.btn
+    text-decoration: none
 
 a.btn
     text-decoration: none
@@ -75,18 +79,29 @@ a.btn
 
 .site-header
     background-color: transparent
-    border-bottom: 1px solid $color-primary
+    border-top: none
+    border-bottom: 1px solid $color-primary-dark
     font-family: $heading-font-family
 
 .site-title
     color: $color-primary-dark
     &:visited
         color: $color-primary-dark
+
 .site-nav
     .page-link
         color: $color-primary-dark
+    @media screen and (max-width: 600px)
+        right: 18px
+        border: none
+        .trigger
+            box-shadow: 0px 3px 2px $color-secondary
+        .menu-icon > svg path
+            fill: $color-primary-dark
+
 
 .site-footer
+    border-top: none
     background-color: $color-secondary
     color: $body-text-color
     .footer-col-wrapper
@@ -97,16 +112,20 @@ a.btn
     a
         color: $body-text-color
         font-weight: bold
+
 .post-list
     h2 a
         color: $body-text-color
+    li
+        margin-bottom: 36px
+
 .post-meta
     font-family: $heading-font-family
 
 hr
     margin: $space*1.5 0
     border: none
-    border-bottom: 1px solid $color-primary
+    border-bottom: 1px solid $color-primary-dark
 
 .indented
     padding-left: $space
