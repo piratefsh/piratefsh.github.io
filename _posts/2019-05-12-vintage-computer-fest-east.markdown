@@ -54,7 +54,7 @@ _A Teletype in action, printing an ASCII apple emoji_
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 _Tiffany's tweet about the Teletype and her experience with physical tape._
 
-Imperfections of the physical machines that add to the charm of it. Tiffany and I remarked on the quality of indicator lights on the UNIVAC. This was prior to the widespread usage of LEDs, and the glow from the [neon](http://mccworkshop.com/computers/comphistory1.htm) bulbs. LEDs would yield brighter and more even lights, but one could argue that the beauty of these vintage machines lie in the nature of the physical parts that they were built with.
+Imperfections of the physical machines that add to the charm of it. Tiffany remarked on the quality of indicator lights on the UNIVAC. I later learned that these computers were likely made prior to the widespread usage of LEDs, and the glow from the [neon](http://mccworkshop.com/computers/comphistory1.htm) bulbs. LEDs would yield brighter and more even lights, but one could argue that the beauty of these vintage machines lie in the nature of the physical parts that they were built with.
 
 It was also striking to note that all of this history is being preserved by people who lived in that era of what we now know as "vintage". I asked each exhibitor why they got into vintage computing and received different, but truly wonderful responses. They all had stories to share about their first time with the computer, teletype, whether they were introduced to it as a child, or worked with it as an engineer before they retired.
 
