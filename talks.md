@@ -6,6 +6,20 @@ permalink: /talks/
 
 A collection of public talks I have given recently. I'm always open to speaking opportunities expecially on JavaScript-related topics. 
 
+### Recreating forgotten programming languages, for art!
+I attempted to reimplement ART 1, the first ever documented programming language designed specifically for those new to programming to create art.
+
+Strangeloop 2019, St Louis, MO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jRfrLL-y2ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Recreating Retro Computer Art with JS!
+Before personal computing became a thing, there was a handful of programmers and artists saw computers as a tool beyond their intended purpose: to create art.
+
+An expanded version of the 2018 talk of similar title.
+
+JSConf 2019, Berlin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nC5q5JxLjnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Recreating retro computer art!
 A brief history of computer graphics and attempts at recreating computer art from the 1950s to 1960s.
 
