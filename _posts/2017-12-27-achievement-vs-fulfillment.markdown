@@ -1,7 +1,6 @@
 ---
 title: "Twenty Seventeen: an essay"
 layout: post
-hideTimeline: true
 ---
 
 Instead of talking about what I accomplished this year, I want to talk about all the things I struggled with.
