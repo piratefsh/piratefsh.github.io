@@ -21,7 +21,7 @@ Part of it was due to stress. I was doing too much.
 
 _Too tired to do work, but not tired enough to rest_
 
-At one point all I did was wake up, dread the day, squeeze in some teaching material screencast recording or conduct interviews, go to work, squeeze in some exercise, head home, do more community work aka emotional labor, procrastinate on some other work because I am just too tired, stare blankly at Twitter/Insta/Youtube, try to sleep but fail to because of anxiety. Rinse and repeat.
+At one point all I did was wake up, dread the day, squeeze in some teaching material screencast recording or conduct interviews, go to work, squeeze in some exercise, head home, do more community work a.k.a. emotional labor, procrastinate on some other work because I am just too tired, stare blankly at Twitter/Insta/Youtube, try to sleep but fail to because of anxiety. Rinse and repeat.
 
 Everything felt empty. I would meet with friends for dinner and find that I couldn't emote. Reactions felt forced. I felt like I had a responsibility to care about other people's feelings when I didn't even have enough energy to care for my own. Every social interaction burnt me out.
 
