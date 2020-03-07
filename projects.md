@@ -71,4 +71,4 @@ Webscraper to download pdf pages from Exact Editions magazines. Using CasperJS a
 
 ---
 
-I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript. Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) to get the conversation started :)
+I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript. Do get in touch with me at sherminn [at] piratefsh [dot] net to get the conversation started :)
