@@ -136,4 +136,4 @@ Sher Minn
 
 ---
 
-_Many thanks to my friend [Seng Ming](twitter.com/sengming/) for valuable feedback on earlier drafts of this essay._
+_Many thanks to my friend [Seng Ming](https://twitter.com/sengming/) for valuable feedback on earlier drafts of this essay._
