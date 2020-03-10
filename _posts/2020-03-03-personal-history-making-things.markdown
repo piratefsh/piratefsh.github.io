@@ -81,7 +81,7 @@ _My proudest invention from 2010: a phone charm that doubled as a phone case_
 
 ## Part IV
 
-I've recently been reintroducted to the delight of making something I love. I know when I have made something that I am truly excited about because after I am done, I just can't put it down.
+I've recently been reintroduced to the delight of making something I love. I know when I have made something that I am truly excited about because after I am done, I just can't put it down.
 
 I've always loved jewelry and last year I started taking classes to learn how to make them. It's been very satisfying to make pretty things that you can wear. Or to put it in a pretentious term, "wearable art".
 
