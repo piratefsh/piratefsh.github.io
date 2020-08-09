@@ -76,6 +76,10 @@ a.btn
             display: block
 .media
     text-align: center
+    p
+        margin-top: $space
+.left
+    text-align: left
 
 .site-header
     background-color: transparent
@@ -140,3 +144,11 @@ iframe
 
 .rc-scout__link
     color: inherit !important
+
+.flex
+    display: flex
+    > *
+        flex: 1
+// override twitter widget styles
+.twitter-tweet > iframe
+    width: 500px !important

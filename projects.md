@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Hi! I'm Sher Minn. During the day I'm front-end web developer. By night, I teach programming and make comics. I work mostly with JavaScript.
+Hi! I'm piratefsh. During the day I'm front-end web developer. By night, I teach programming and make comics. I work mostly with JavaScript.
 
 I am currently interested in generative art and tiling theory. In the past, I have explored WebRTC, data visualization, subway station data, and image processing.
 
@@ -71,4 +71,4 @@ Webscraper to download pdf pages from Exact Editions magazines. Using CasperJS a
 
 ---
 
-I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript. Do get in touch with me at sherminn [at] piratefsh [dot] net to get the conversation started :)
+I'm currently not available for freelance work, but am open to running workshops and talks, especially on JavaScript. Do get in touch with me at me [at] piratefsh [dot] net to get the conversation started :)

@@ -9,4 +9,4 @@ I'm currently available for freelance projects, particularly front-end web devel
 
 **Check out my [previous projects](/projects) to get an idea of what I do best.**
 
-Do get in touch with me at [sherminn.chong@gmail.com](mailto:sherminn.chong@gmail.com) if you need a front-end web developer for any of the web things mentioned above. I'm also all for working on open-source projects, just let me know :)
+Do get in touch with me at [me@piratefsh.net](mailto:me@piratefsh.net) if you need a front-end web developer for any of the web things mentioned above. I'm also all for working on open-source projects, just let me know :)

@@ -1,7 +1,7 @@
 # Site settings
 title: "Commented"
-email: sherminn@piratefsh.net
-description: "A blog by Sher Minn. Intersections of computer, history, and art."
+email: me@piratefsh.net
+description: "A blog on the intersections of computer, history, and art. Plus some personal stories."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://piratefsh.github.io" # the base hostname & protocol for your site
 twitter_username: piratefsh
