@@ -75,7 +75,7 @@ That said, the results were actually quite pleasing.
 
 ### Approach 2: actually read literature on the thing
 
-Four years in 2019 later I decided to reimplement the Koch tessellation to create an SVG version so I could use a plotter to draw it.
+Four years later in 2019 I decided to reimplement the Koch tessellation to create an SVG version so I could use a plotter to draw it.
 
 You see, my hacky implementation has been haunting me all this while. I never really talked about that first implementation because I knew it was a hack. It was also really slow, and if you recursed too many times, it could cause the browser window to hang.
 
@@ -116,7 +116,7 @@ function kochTessel(pos, radius, depth, iters, offsetRot){
       // because of the way i drew my snowflake,
       // i needed the height of the snowflake
       radius: equiTriangleHeight(radius),
-      offsetRot: Math.PI / 6,
+      offsetRot: offsetRot + Math.PI / 6,
       // how many iterations to recurse for this snowflake
       iters
   });
@@ -154,7 +154,7 @@ function kochTessel(pos, radius, depth, iters, offsetRot){
 }
 ```
 
-It's worth mentioning that there are two types of recursion happening here. One for the individual snowflakes themselves `iters`, and the other for the tessellation `depth`. There is also the idea of rotation, as you recurse down each smaller snowflake, it needs to know which direction it is oriented.
+It's worth mentioning that there are two types of recursion happening here. One for the individual snowflakes themselves `iters`, and the other for the tessellation `depth`. There is also the idea of rotation with `offsetRot`, as you recurse down each smaller snowflake, it needs to know which direction it is oriented.
 
 The problem with both these approaches is that you will end up with a bunch of overlapping snowflakes from adjacent centers, which is not performant and not ideal for plotter drawings. I added [basic caching](https://github.com/piratefsh/svg-js/blob/inktober-2019-10-pattern/src/components/Drawing.js#L154) to avoid drawing snowflakes at the same position which sped up both rendering and plotting[^5].
 
@@ -162,7 +162,7 @@ With that, I finally could rest easy knowing that this implementation was proper
 
 ## Finished result
 
-Here are some massive SVGs for your enjoyment
+Here are some massive SVGs for your enjoyment:
 
 <div class="media">
   <div class="flex">
@@ -181,7 +181,7 @@ Here are some massive SVGs for your enjoyment
   </p>
 </div>
 
-They are all SVGs, feel free to use if you like. I only ask that you credit by linking back to this post.
+Feel free to use if you like. I only ask that you credit by linking back to this post.
 
 <div class="media">
   <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Inktober2019?src=hash&amp;ref_src=twsrc%5Etfw">#Inktober2019</a> day 13: this was supposed to be day 10 but it had a bug.<br><br>Two types of recursive tessellations of the Koch snowflake. Surprisingly hard to find implementations of online.<br><br>i love this tessellation.<br><br>code: <a href="https://t.co/aTsFqLXueX">https://t.co/aTsFqLXueX</a> <a href="https://t.co/RGp9cw87mO">pic.twitter.com/RGp9cw87mO</a></p>&mdash; piratefsh (@piratefsh) <a href="https://twitter.com/piratefsh/status/1183483300117143552?ref_src=twsrc%5Etfw">October 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -189,6 +189,11 @@ They are all SVGs, feel free to use if you like. I only ask that you credit by l
 </div>
 
 
+## Interactive UI
+Update: I made an interactive UI so you can generate your own tessellations. The colors support any valid CSS colors. I wanted to use the native HTML color picker but it didn't allow for setting opacity, which is key in enjoying the overlap version, if you ask me.
+
+<a href="/assets/files/koch-tessel/index.html" target="_blank">Click to open in new tab</a>
+<iframe width="800" height="900" src="/assets/files/koch-tessel/index.html"></iframe>
 
 Anyway, this is part of a series sharing what I've learned about reverse engineering fractals. I'm working on the next post on Sierpinski's curve.
 

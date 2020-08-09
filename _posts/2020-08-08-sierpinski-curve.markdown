@@ -1,6 +1,7 @@
 ---
 title: "Rare implementations: Sierpinski's curve"
 layout: post
+published: false
 ---
 <div class="media">
   <img width="500" src="/assets/images/uncommon-fractals/sierpinskis-curve/sierp-curve-stack-9.svg"/>
