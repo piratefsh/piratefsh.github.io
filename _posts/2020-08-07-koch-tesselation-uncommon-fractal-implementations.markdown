@@ -192,7 +192,7 @@ They are all SVGs, feel free to use if you like. I only ask that you credit by l
 
 Anyway, this is part of a series sharing what I've learned about reverse engineering fractals. I'm working on the next post on Sierpinski's curve.
 
-Please email any comments, questions or corrections to me [at] piratefsh [dot] net.
+Any comments, questions or corrections are welcome to me [at] piratefsh [dot] net. Just be nice and respectful.
 
 ---
 

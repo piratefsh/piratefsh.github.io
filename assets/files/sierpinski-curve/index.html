@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>svg-js</title>
+</head>
+<body>
+  <h1>Sierpinski's curve</h1>
+  <div class="control-row">
+    <label>iterations (max 12)</label><input value="1" min="1" max="12" id="iters-input" type="number"/>
+    <label>stack each iteration?</label><input id="stack-input" type="checkbox"/>
+    <button id="save-btn">Download SVG</button>
+  </div>
+  <div class="control-row">
+    <label>stroke color</label><input type="color" value="#ffffff" id="strokeColor-input"/>
+    <label>background color</label><input type="color" value="#358884" id="bgColor-input"/>
+    <label>stroke width</label><input type="number" value="2" min="1" max="40" id="strokeWidth-input"/>
+  </div>
+<script type="text/javascript" src="main.js"></script></body>
+</html>
