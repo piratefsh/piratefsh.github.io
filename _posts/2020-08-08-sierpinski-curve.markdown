@@ -47,7 +47,7 @@ While writing this, I found a L-Systems implementation of the curve. It doesn't 
 
 ## Approach
 
-So I ended up implementing the space division method and you can find the code [here](https://github.com/piratefsh/svg-js/blob/inktober-2019-20/src/components/Drawing.js#L58). 
+So I ended up implementing the space division method and you can find the code [here](https://github.com/piratefsh/svg-js/blob/inktober-2019-20/src/components/Drawing.js#L58).
 
 Below I extracted the most interesting parts of the algorithm and commented on it. All syntax is JavaScript[^9].
 
@@ -108,7 +108,7 @@ In order to find the center of the triangle, I had to implement a simple functio
 <div class="media">
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sierpinski&#39;s curve. I haven&#39;t seen this around much. Both are the same curve, but the left is at iterations 1, 3, 5, 7 and the right is at 2, 4, 6, 8.<br><br>A really good explanation of how it works here: <a href="https://t.co/yqyvJ3ZThc">https://t.co/yqyvJ3ZThc</a><br><br>code: <a href="https://t.co/ULoEr8uLiA">https://t.co/ULoEr8uLiA</a> <a href="https://t.co/HXTuab0iyb">pic.twitter.com/HXTuab0iyb</a></p>&mdash; piratefsh (@piratefsh) <a href="https://twitter.com/piratefsh/status/1186091226392616961?ref_src=twsrc%5Etfw">October 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  <p>If you stack them, they also give rise to interesting texture.</p>
+  <p>If you stack them, they give rise to interesting texture.</p>
 </div>
 
 
