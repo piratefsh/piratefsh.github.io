@@ -1,7 +1,6 @@
 ---
 title: "Rare implementations: Sierpinski's curve"
 layout: post
-published: false
 ---
 <div class="media">
   <img width="500" src="/assets/images/uncommon-fractals/sierpinskis-curve/sierp-curve-stack-9.svg"/>
@@ -122,9 +121,3 @@ You can download them as SVGs, feel free to use for your own purposes. I just as
 
 
 Any comments, questions or corrections are welcome to me [at] piratefsh [dot] net! Just be nice and respectful.
-
----
-
-[^9]: Please do not send comments about using JavaScript. I'm aware of its shortcomings and genuinely enjoy working with it despite that.
-
-
