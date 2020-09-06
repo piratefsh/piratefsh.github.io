@@ -12,7 +12,7 @@ layout: post
 So, this isn't a rarely seen fractal, but a particular variant of it is. There are many ways to implement this fractal. Many of those implementations that I found online were of [this variety](http://csharphelper.com/blog/2014/07/draw-a-sierpinski-fractal-curve-in-c/), where you had a distinct drawing function for each 4 types of edges.
 
 <div class="media">
-<img src="http://www.csharphelper.com/howto_sierpinski_curve1.png"/>
+<img src="/assets/images/uncommon-fractals/sierpinskis-curve/howto_sierpinski_curve1.png"/>
 <p>
   <em>
     Implementations I found relied on hardcoding each type of curve
