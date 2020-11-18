@@ -1,5 +1,5 @@
 ---
-title: My heartbreak emo playlist from 2008
+title: My teen heartbreak playlist from 2008
 layout: post
 ---
 
@@ -15,7 +15,7 @@ It's not a very good playlist by any stretch, but it's such an amazing relic ric
 Back then, the only way I could share my playlist was to let someone copy the mp3s onto their own players (or SD cards, god, remember those?). But wih the power of modern streaming technology, I can present them to you from anywhere. Check it out:
 
 
-## 🎉✨ My 2008 teen emo playlist ✨🎉
+## 🎉✨ My 2008 teen heartbreak playlist ✨🎉
 
 on Youtube:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLemDwJkh9TaO34dtHoZEpn9XtNflzhyWV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
