@@ -40,14 +40,13 @@ But basically my approach was by drawing each edge of the cross as a spade-like 
   <p><em>First 4 iterations of the stained glass window fractal from my implementation</em></p>
 </div>
 
+I still think my implementation could be more elegant. I don't like how I had to [hardcode the drawing for each curve](https://github.com/piratefsh/svg-js/blob/3c14c4440b8970fe6f007414e01b7e0e792b65ce/src/components/Drawing.js#L30)[^8]. It more closely resembles the common Sierpinski's implementation (with distinct drawing functions for each type of edge)[^1] than it does the subdivision approach.
 
-I'm not going to go into the code too much because I still think my implementation could be more elegant. I don't like how I had to [hardcode the drawing for each curve](https://github.com/piratefsh/svg-js/blob/3c14c4440b8970fe6f007414e01b7e0e792b65ce/src/components/Drawing.js#L30)[^8]. It more closely resembles the common Sierpinski's implementation (with distinct drawing functions for each type of edge) than it does the subdivision approach.
-
-Maybe I'll revisit it again in the future. But if you're reading this, consider this an invitation to write a more elegant solution. If you do, please write to me at sherminn [at] piratefsh [dot] net.
+Maybe I'll revisit it again in the future. But if you're reading this, consider this an invitation to write a more elegant solution. If you do, please write to me at sherminn [at] piratefsh [dot] net. Any comments, questions or corrections are welcome to me, just be nice and respectful.
 
 ---
 
-
+[^1]: See 'Existing Solutions' on my [last post](/2020/08/08/sierpinski-curve.html) on Sierpinski's curve.
 [^6]: You can download it at [http://bitsavers.trailing-edge.com/pdf/computersAndAutomation/196308.pdf](http://bitsavers.trailing-edge.com/pdf/computersAndAutomation/196308.pdf). Bitsavers does amazing archival work.
 [^7]: It has been suggested to me that space-filling curves were likely explored as a way to cover an area for an attack, which is a chilling thought.
 [^8]: To clarify, I had to hardcode both the spade and the tube curves.
