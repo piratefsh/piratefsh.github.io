@@ -2,7 +2,9 @@
 title: Scents in 2022
 layout: post
 ---
-
+<div class="media">
+  <img width="500" src="/assets/images/2022/perfume/white-flowers.jpg"/>
+</div>
 Some time ago, fellow technologist Sumana (@brainwane) kindly [shared my series of blog posts](https://www.metafilter.com/192854/it-smelled-good-but-in-my-mind-it-already-belonged-to-someone-else) about my personal experience with scent. I really enjoyed reading people's comments, and thought it'd be fun to do an update on my relationship with scent, a good six years after I wrote the original series.
 
 ### Muted years
