@@ -1,7 +1,6 @@
 ---
 title: "Rare implementations: Stained glass window"
 layout: post
-published: false
 ---
 
 Wherein I try to reverse engineer a mysterious space-filling curve of unknown author from the 1960s.
