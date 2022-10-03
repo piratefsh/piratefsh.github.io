@@ -2,7 +2,7 @@
 title: "Rare implementations: Stained glass window"
 layout: post
 ---
-
+  <div class="media">    <img src="/assets/images/uncommon-fractals/stained-glass/stained-glass-4.svg"/></div>
 Wherein I try to reverse engineer a mysterious space-filling curve of unknown author from the 1960s.
 
 One of my white whales was this 'Stained Glass Window' piece published in Computers and Automation in 1963[^6]. It was the second place winner in the first ever computer art competition ran by the magazine.
@@ -10,9 +10,11 @@ One of my white whales was this 'Stained Glass Window' piece published in Comput
 <div class="media">
   <div class="flex">
     <img src="http://piratefsh.github.io/presentations/recreating-vintage-art/img/art/computers-and-automation-aug-1963.png"/>
+  </div>
+  <div class="flex">
     <img src="http://piratefsh.github.io/presentations/recreating-vintage-art/img/art/computers-and-automation-jul-1963-pg3.png"/>
   </div>
-  <p><em>Stained Glass Window as seen in the August 1963 Computers and Automation magazine on the right</em></p>
+  <p><em>Stained Glass Window as seen in the August 1963 Computers and Automation magazine</em></p>
 </div>
 
 We don't know who the artist was, it only cited the US Army Ballistics Research Lab as its origin[^7]. It looks like a space filling curve, not unlike the Sierpinski's curve from before, but decidedly unique with their cross-like recursive corners.
