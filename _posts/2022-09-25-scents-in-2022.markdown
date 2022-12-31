@@ -1,5 +1,5 @@
 ---
-title: Scents in 2022
+title: Scents in 2022 -- Perfume Series
 layout: post
 ---
 <div class="media">
@@ -13,13 +13,12 @@ If you haven't, you can read the series starting with [Part 1 here](https://pira
 
 Of course, the pandemic happened. We all know how that went, so I won't elaborate. But when news of people losing their sense of smell for weeks and months, I panicked and was convinced that I could not risk getting infected. I still remember the special kind of distraught that I would face when a cold took away my ability to smell for a few days.
 
-Simple things like smelling inside a mug to determine if it was washed clean, sniffing melons and pineapplies to test their ripeness, and of course, any ability to enjoy food -- all those things I was so afraid to live without scared me more than having to face fevers or even shortness of breath. I wake up every morning and bury my face into the covers to be sure that I can still smell things.
+Simple things like smelling inside a mug to determine if it was washed clean, sniffing melons and pineapples to test their ripeness, and of course, any ability to enjoy food -- all those things I was so afraid to live without scared me more than having to face fevers or even shortness of breath. I wake up every morning and bury my face into the covers, inhaling the scent of my own sheets just to be sure that I can still smell things.
 
-I have my usual selection of smells I like to check against: the t-shirt I have on, my citrus herbal hand wash, the dirty kitchen dish towel that has been boil washed so many times and yet always smells slightly rank. I inhaled them all like my life depended on it.
+I have my usual selection of smells I like to check against: the t-shirt I have on, my citrus herbal hand wash, the dirty kitchen dish towel that has been boil washed so many times and yet always smells slightly rank. I inhaled them all like my life depended on it. I was constantly reminded of how often I relied on my nose. I make sure no one else is around (or at least 6 feet away) when I pull my mask down to smell the shampoo selection at the pharmacy -- I know better than to trust their scent labels.
 
 Early in 2020, at a perfume boutique in SOHO: a store employee hands out fragrant tester strips behind their full-faced respirator, their voice muffled through the filtered vents, face obscured by the plastic visor. It was the most dystopian thing I had ever seen. Customers hesitantly pull their masks down to sniff the latest summer cologne. I do the same, but I stop myself from inhaling too much -- who knows what else is in the air?
 
-I was constantly reminded of how often I relied on my nose. I make sure no one else is around (or at least 6 feet away) when I pull my mask down to smell the shampoo selection at the pharmacy.
 
 ### Masked life
 
@@ -33,13 +32,13 @@ Wearing a mask even outdoors took away from the joys of smelling the city. Don't
   <p><em>Sliver of golden light in lower Manhattan</em></p>
 </div>
 
-On the other hand, the insides of the subway train are completely different, and it depends on luck. Sometimes there'll be the odor of a stranger eating mouth-wateringly greasy fried chicken, in another time you might end up sitting next to a fabulous older woman wearing a tuberose bomb of a fragrance with whom you have a short, pleasant chat about your shared love of perfume.
+On the other hand, the insides of the subway train are completely different, and it depends on luck. Sometimes there'll be the odor of a stranger eating mouth-wateringly greasy fried chicken, in another time you might end up sitting next to a fabulous older woman wearing a tuberose bomb of a fragrance with whom you have a short, pleasant chat about your shared love of perfume[^1].
 
 I miss smelling what other people have on -- I am masked indoors most of the time. I have no idea what scents are popular nowadays. I miss smelling myself too, sometimes its hard to enjoy perfume that I wear to functions where masks are required.
 
 ### Better out than in
 
-Ironically, I didn't feel like wearing perfume much at home. To smell a scent alone is not that interesting, especially when it is one you are already familiar with. I realized that I like perfumes for how they interact with the world and its various scent landscapes. My indoors is monotone, any perfume smells the same whether I'm at my desk, or on my bed -- it's the same air column. You see, perfume isn't the full stage alone -- it is the soundtrack to a stage. What I truly enjoy is not the active smelling of the scent as you would when sampling off a blotter -- instead what I enjoy is the living with the perfume.
+Ironically, I didn't feel like wearing perfume much at home. To smell a scent alone is not that interesting, especially when it is one you are already familiar with. I realized that I like perfumes for how they interact with the world and its various scent landscapes. My indoor space is monotone, any perfume smells the same whether I'm at my desk, or on my bed -- it's the same air column. You see, perfume isn't the full stage alone -- it is the soundtrack to a stage. What I truly enjoy is not the active smelling of the scent as you would when sampling off a blotter -- instead what I enjoy is the *living* with the perfume.
 
 I like catching whiffs of crisp neroli alongside the greenery of my local park on an afternoon walk, the cocoon of comfort of white musks that whispers 'you're safe' beneath my favorite cream sweater, the eye-rolling realization that some person in your Brooklyn apartment elevator has on Santal 22 or one of its many imitators, which you have smelled at least TWICE on the street this month. Nothing wrong with enjoying Santal 22 on your own volition, but I have personal disdain for anything with a cult following.
 
@@ -51,7 +50,7 @@ I like catching whiffs of crisp neroli alongside the greenery of my local park o
 
 I love scents for how it colors the experience of living. Many fragrances are beautiful and are worth smelling for the sake of it. But where the pleasure truly arises in the appreciation for scent is in wearing it.
 
-I like going to perfume stores in SoHo, smelling a dozen little strips of paper before deciding one to spritz on my arm for the day. In time, I have become adept at navigating sales assistants -- and they in turn have become less gendered in their marketing approaches. I like that many that I have met in NYC agree that you can wear what you want, regardless of whether it was meant for men nor women. As the world embraces the neither here nor there, it becomes easier for me to navigate both the perfume aisles and my personal style.
+I like going to perfume stores in SoHo, smelling a dozen little strips of paper before deciding one to spritz on my arm for the day. In time, I have become adept at navigating sales assistants -- and they in turn have become less gendered in their marketing approaches. I like that many that I have met in NYC agree that you can wear what you want, regardless of whether it was meant for men or women, or somewhere outside of the gender binary. As the world embraces the neither here nor there, it becomes easier for me to navigate both the perfume aisles and my personal style.
 
 <div class="media">
   <img width="500" src="/assets/images/2022/perfume/atelier-beaute-chanel.jpg"/>
@@ -65,8 +64,7 @@ All this to say, I have fallen down the perfume rabbit hole once again, this tim
 
 ---
 
-I have a lot more to talk about. Next time: on discontinuations -- the anguish of learning that your favorite scent no longer exists.
-
 Until then,
 -S
 
+[^1]: It was Carnal Flower by Frederic Malle and I ID'ed it correctly!
