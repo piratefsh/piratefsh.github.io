@@ -1,5 +1,5 @@
 ---
-title: twenty twenty two
+title: twenty twenty two (brief retro)
 layout: post
 ---
 
