@@ -15,7 +15,7 @@ But 2022? 2022... was a really good year for me. I'm too lazy to write a full po
   - I have such awesome friends!!!
   - I spent a lot of time learning how to have healthy friendships, practising voicing my needs and setting boundaries, but most importantly, identifying the type of friendships I want.
 - Spent more time outside of tech circles, confirming that my identity does not be tied to being a technologist, and it's perfectly acceptable to not code 24/7.
-  - I had forgotten that there are so many different ways to live a life back when I only spent time with software engineers.
+  - I had forgotten that there are so many different ways to live a life back when I only spent time within tech culture.
 - Indulged in a lot of creative hobbies such as jewelry, dolls and perfume -- it's so fun to just do the stuff and finding communities of people who like the same stuff!
   - Made lots of jewelry for friends, family and strangers. Thank you all for your trust and giving my shiny creations a home!
 
