@@ -32,4 +32,4 @@ __End of Part 4__. Read [Part 5](/2016/12/07/what-do-other-people-smell-like.htm
 
 ---
 
-[^5]: 2023/01 update: I am now aware that this is an ageist term in the perfume community, but am leaving it in as this was written by a past me as a reminder that there is always room to learn and improve.
+[^5]: 2023/01 update: I am now aware that this is an ageist term in the perfume community, but am leaving it in as this was written by a past -- a reminder that there is always room to learn and improve.
