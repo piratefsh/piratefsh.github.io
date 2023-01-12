@@ -14,7 +14,7 @@ There was a day as a child when I wasn’t feeling well. My late grandfather pul
 
 My grandmother wears a range of perfumes, so many that I can’t recall all of them. She wears tailored dresses and pantsuits in bright floral prints. Her perfume is just as loud. On nights out, she was always surrounded by giant sillages of powerhouse perfumes. I found them overwhelming as a child, especially in enclosed spaces such as cars. 
 
-For the life of me I can’t identify any of her perfumes. I remember a seeing a bottle of Jean Paul Gaultier’s now discontinued Fragile on her dresser. The bottle was domed and it had a little figurine of a lady in a black gown suspended in glittery golden liquid. The bottle reminded me of a snow globe. Although I can’t be entirely sure, I am also convinced that she wore Hermes’ Eau de Merveilles and Coco by Chanel. When I first sampled both fragrances at different times, the scents were strangely familiar and reminded me of ‘old lady’, but I couldn’t quite place them. I have a sneaking suspicion that it used to be something she wore. 
+For the life of me I can’t identify any of her perfumes. I remember a seeing a bottle of Jean Paul Gaultier’s now discontinued Fragile on her dresser. The bottle was domed and it had a little figurine of a lady in a black gown suspended in glittery golden liquid. The bottle reminded me of a snow globe. Although I can’t be entirely sure, I am also convinced that she wore Hermes’ Eau de Merveilles and Coco by Chanel. When I first sampled both fragrances at different times, the scents were strangely familiar and reminded me of ‘old lady’[^5], but I couldn’t quite place them. I have a sneaking suspicion that it used to be something she wore. 
 
 I only recently realized that my parents wear fragrances too. I grew up during most of my childhood assuming that parents always magically smelled the way they did when we would attend weddings or family dinners. My mum wore Incanto by Salvatore Ferragamo, a scent I associated with her dressing up and making up for a night out. To my knowledge, she has never bought perfume for herself. She only owns scents gifted to her from my father procured during his trips via duty-free stores at airports. 
 
@@ -29,3 +29,7 @@ Earlier this year I found them during a cleaning frenzy and tossed them out as t
 __End of Part 4__. Read [Part 5](/2016/12/07/what-do-other-people-smell-like.html).
 
 [Part 1](/2016/11/06/nail-polish-made-me-puke.html) // [Part 2](/2016/11/07/department-stores-are-terrifying.html) // [Part 3](/2016/11/13/short-lived-first-love.html)
+
+---
+
+[^5]: 2023/01 update: I am now aware that this is an ageist term in the perfume community, but am leaving it in as this was written by a past me as a reminder that there is always room to learn and improve.
